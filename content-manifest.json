@@ -1,5 +1,5 @@
 {
-  "contentVersion": 1,
+  "contentVersion": 2,
   "minSchema": 1,
   "generatedAt": "2026-07-28",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
@@ -633,6 +633,23 @@
       "file": "widget_i.jpeg",
       "bytes": 116095,
       "sha256": "26ebacafb1b3e02322802d1e9e5d7e97501b94f4391e58006d92bed601ecc29d"
+    }
+  ],
+  "dataFiles": [
+    {
+      "file": "homilies.json",
+      "bytes": 18358553,
+      "sha256": "073f35ea61d09975298c6b4df038eb71087c9fe7d8c5c3859a107721dc19567b"
+    },
+    {
+      "file": "santoral_sanctus.json",
+      "bytes": 748150,
+      "sha256": "b6d7edb1cc586d01ca9971949e688d35bd5f34b262583bf2120924165bd221e4"
+    },
+    {
+      "file": "liturgiaplus_biografias.json",
+      "bytes": 3106558,
+      "sha256": "dc57c9facc8d9ae21d0df43e48d2d4ab67d289d6f252bf9a0cae4bb6e3b7990f"
     }
   ]
 }

@@ -19,6 +19,9 @@ on:
     paths:
       - content-manifest.json
       - content_bundle.json
+      - homilies.json
+      - santoral_sanctus.json
+      - liturgiaplus_biografias.json
       - "*.jpg"
       - "*.jpeg"
       - "*.png"
@@ -50,6 +53,8 @@ jobs:
           echo "Publicando $TAG"
           shopt -s nullglob
           gh release create "$TAG" \
-            content-manifest.json content_bundle.json *.jpg *.jpeg *.png *.webp \
+            content-manifest.json content_bundle.json \
+            homilies.json santoral_sanctus.json liturgiaplus_biografias.json \
+            *.jpg *.jpeg *.png *.webp \
             --title "Contenido v${{ steps.meta.outputs.version }} (build ${{ github.run_number }})" \
             --notes "Publicado automáticamente al actualizar el contenido editorial. 'latest' apunta aquí."
