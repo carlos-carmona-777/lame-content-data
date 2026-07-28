@@ -1,0 +1,55 @@
+name: Publicar Release del contenido editorial
+
+# Publica un Release nuevo (que "latest" tomará) cada vez que cambia el
+# contenido editorial. NO genera el bundle: eso se hace local con
+# publish-content.mjs (repo SWIFT, carpeta migracion/), que no va en CI
+# (necesita el content_bundle.json y las imágenes fuente del proyecto de la
+# app, que no viven en este repo). El flujo es:
+#   local: node migracion/publish-content.mjs
+#          -> copia content-manifest.json + content_bundle.json + imágenes
+#             nuevas/cambiadas a este repo -> git push
+#   aquí:  este Action arma el Release con esos archivos como assets.
+#
+# También se puede disparar a mano desde la pestaña Actions (workflow_dispatch).
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - content-manifest.json
+      - content_bundle.json
+      - "*.jpg"
+      - "*.jpeg"
+      - "*.png"
+      - "*.webp"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Leer contentVersion del manifest
+        id: meta
+        run: echo "version=$(jq -r .contentVersion content-manifest.json)" >> "$GITHUB_OUTPUT"
+
+      - name: Crear Release con el bundle + imágenes + manifest
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          TAG="v${{ steps.meta.outputs.version }}-b${{ github.run_number }}"
+          echo "Publicando $TAG"
+          shopt -s nullglob
+          gh release create "$TAG" \
+            content-manifest.json content_bundle.json *.jpg *.jpeg *.png *.webp \
+            --title "Contenido v${{ steps.meta.outputs.version }} (build ${{ github.run_number }})" \
+            --notes "Publicado automáticamente al actualizar el contenido editorial. 'latest' apunta aquí."
