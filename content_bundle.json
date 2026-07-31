@@ -49,7 +49,7 @@
             },
             {
               "type": "autocredit",
-              "value": "Liturgia Lat\nPaolo Veronese - Bautismo de Cristo\nBautismo."
+              "value": "Desconocido\nPaolo Veronese - Bautismo de Cristo\nBautismo."
             }
           ]
         },
@@ -109,7 +109,7 @@
             },
             {
               "type": "autocredit",
-              "value": "Dig\nBasilica Guadalupe Misa\nÚltima Cena por Pietro Lorenzetti"
+              "value": "Cristo en la Cruz - Giovanni Battista Tiepolo\nBasilica Guadalupe Misa\nÚltima Cena por Pietro Lorenzetti"
             }
           ]
         }
@@ -3844,7 +3844,7 @@
     "headerImageParallax": true,
     "imageBlockParallax": true,
     "imgSliderTextAnimation": "slideUpFade",
-    "portadaDesign": "B",
+    "portadaDesign": "C",
     "cardDesign": "B"
   },
   "modules": {
@@ -3854,7 +3854,7 @@
     "liturgyHoursLinkId": "xcjae8",
     "testGroupId": null
   },
-  "contentLastEdited": "2026-07-31T19:19:53.708Z",
+  "contentLastEdited": "2026-07-31T22:19:12.971Z",
   "masterSections": [
     {
       "id": "pj0p9g",
@@ -3867,7 +3867,7 @@
         "design": "MA"
       },
       "homePresentation": "hero",
-      "portadaDesign": "B",
+      "portadaDesign": "C",
       "cardDesign": "B",
       "legacyTree": true
     },
@@ -3877,12 +3877,12 @@
       "homeCard": {
         "title": "Pruebas",
         "subtitle": "",
-        "image": "",
+        "image": "20260402-popeleoxiv-chrismmass-vaticanmedia-01.jpg",
         "icon": "consagracion",
-        "design": "MA"
+        "design": "MB"
       },
       "homePresentation": "hero",
-      "portadaDesign": "A",
+      "portadaDesign": "B",
       "cardDesign": "A",
       "pruebas": true,
       "sections": [
@@ -4469,7 +4469,7 @@
       },
       "homePresentation": "strip",
       "stripId": "t4msq6",
-      "portadaDesign": "A",
+      "portadaDesign": "B",
       "cardDesign": "A",
       "badge": "proximamente",
       "badgeUntil": "2027-01-30",
@@ -4513,10 +4513,8 @@
         "design": "MB"
       },
       "homePresentation": "blog",
-      "portadaDesign": "A",
+      "portadaDesign": "C",
       "cardDesign": "A",
-      "badge": "proximamente",
-      "badgeUntil": "2026-12-10",
       "sections": [
         {
           "id": "kmshys",
@@ -4569,7 +4567,7 @@
         "design": "MB"
       },
       "homePresentation": "hero",
-      "portadaDesign": "A",
+      "portadaDesign": "B",
       "cardDesign": "A",
       "pruebas": true,
       "badge": "nuevo",
@@ -4633,6 +4631,10 @@
     {
       "type": "hero",
       "smId": "mk3o08"
+    },
+    {
+      "type": "hero",
+      "smId": "9x09kl"
     }
   ],
   "features": {
