@@ -1,12 +1,12 @@
 {
-  "contentVersion": 3,
+  "contentVersion": 4,
   "minSchema": 1,
-  "generatedAt": "2026-07-28",
+  "generatedAt": "2026-07-31",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
   "bundle": {
     "file": "content_bundle.json",
-    "bytes": 450670,
-    "sha256": "0e4ec729fe1bc7146804d6d86ffae132a74e1b29a70134a5aab8f8c94166d522"
+    "bytes": 479136,
+    "sha256": "9bc0e79df65cef9b0d3049efac734892e6abf5f2f014736746a6442ae4017a44"
   },
   "images": [
     {
@@ -68,6 +68,11 @@
       "file": "Anotaciones.jpeg",
       "bytes": 119368,
       "sha256": "bacb7c5ada3baa9fe8081ecb7ac26684e33f187a1f5f6bffed19628047d4a87d"
+    },
+    {
+      "file": "Arte-iglesia-duccio.jpg",
+      "bytes": 125398,
+      "sha256": "e1b2d0ead137df3758e943dae2a080d0b4c59aa88575318bb7646d16dcb63102"
     },
     {
       "file": "Basilica-Guadalupe-Misa.jpg",
@@ -160,6 +165,11 @@
       "sha256": "5e207deca134156af260c2b5aae3813c3416b3ffc60e50f3938ec7062ba6a820"
     },
     {
+      "file": "Panorama360_1.jpg",
+      "bytes": 581422,
+      "sha256": "7b084b490412ec76923b7da21c72d3e322e4ecaa30f48d366fae3ca67d36d66d"
+    },
+    {
       "file": "Pantocrator-del-Sinai.jpg",
       "bytes": 301931,
       "sha256": "9ce3dd23c828306b1cff75f1a214752239880f061b981a79be74350e6036eb4c"
@@ -195,9 +205,59 @@
       "sha256": "47a47ccd19374725c61d988c25afd7b6881913c924aaa7e9c37941563ca523c1"
     },
     {
+      "file": "SHARE_1.jpg",
+      "bytes": 183207,
+      "sha256": "5c58ef4e26fec5f99c7dfefb936f2f7855cf80ab4973385772d2ff42c1af3cde"
+    },
+    {
+      "file": "SHARE_2.jpg",
+      "bytes": 206147,
+      "sha256": "06eef9aec59c4429ac81518d8ac47dc15202ec9583efb5cdac7379b9791ab055"
+    },
+    {
+      "file": "SHARE_3.jpg",
+      "bytes": 196818,
+      "sha256": "22f6ae8aa9cfbc5647b83b4d2768658eca6c40096ccb9ccc2668963a44161678"
+    },
+    {
+      "file": "SHARE_4.jpg",
+      "bytes": 240677,
+      "sha256": "f01428ef3c9e174ef6b3301b9cdc666bb585ffdc6677eba8f6477993d94909cb"
+    },
+    {
+      "file": "SHARE_5.jpg",
+      "bytes": 210379,
+      "sha256": "4b748dbb701bfe61fac16c0c8aded4a65c98d819be75cf99748698c447775521"
+    },
+    {
+      "file": "SHARE_6.jpg",
+      "bytes": 216586,
+      "sha256": "c1d92f66dc2540445c838908a4d20cd2ce59d998e82024b6a7cbdd1be4648932"
+    },
+    {
+      "file": "SHARE_7.jpg",
+      "bytes": 252700,
+      "sha256": "bd2acaa081df44292400c4f63b1030c36132d5cdecc276a76ca54e24c03cf165"
+    },
+    {
+      "file": "SHARE_8.jpg",
+      "bytes": 231346,
+      "sha256": "e2c8dcbb39cad5686a5291afe2f203a8b3b5802261ab29318a0dfdcf1c54b359"
+    },
+    {
+      "file": "SHARE_9.jpg",
+      "bytes": 171052,
+      "sha256": "1f37448a971f662d1fdd46b45403c76bf84d432d5e87bd325ad7d2e91574938b"
+    },
+    {
       "file": "SJuan_Raul_Berzosa.jpg",
       "bytes": 100868,
       "sha256": "6f9e7ce76e49e372f4a1d4ed718920f9c3c4e522410af6df42a2909bc0ea5a03"
+    },
+    {
+      "file": "San-agustin-estudiando.jpg",
+      "bytes": 200667,
+      "sha256": "c7565dab95476317b3bcef5a7959cbc50f481db3e4a294ec8e55ef7f29e192ba"
     },
     {
       "file": "SantoSantoSanto.jpg",
@@ -218,6 +278,316 @@
       "file": "Vasos_sagrados.jpg",
       "bytes": 170319,
       "sha256": "f566fd35b2b6018c107ae8a9465406f76b1b107dec28d910bfb3d081df59017f"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_ANUNCIACION.jpg",
+      "bytes": 162223,
+      "sha256": "7beed42664cb30cbe8f1f5f897d9f473cb0e0e9f45c26fb4b6eb26983850e23c"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_ASUNCION.jpg",
+      "bytes": 165765,
+      "sha256": "cf0bb574ba3bad3d361a8401024b819c41da9df2c5a560c1c39984e6e1b137d5"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_CRISTOREY.jpg",
+      "bytes": 150965,
+      "sha256": "2abaa7fd2e9112500fca1ebdb786b0d4a300c80d26098ec4769ec818a9b48751"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_GUADALUPE.jpg",
+      "bytes": 138365,
+      "sha256": "87a8795cb0ff347b95748bc665f07aba105a7c62eb50d961cfde7390049bf33c"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_INMACULADA.jpg",
+      "bytes": 139727,
+      "sha256": "d0204bc350f3ac1ccc8a50fe151dcf15a595abe134e9196bcd55688fb37c16dd"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_MADREDEDIOS.jpg",
+      "bytes": 143855,
+      "sha256": "2d3a98c62114b69cb478aba2c2182d534803f12d52e18520ab29ddcd2e266f29"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_NAVIDAD.jpg",
+      "bytes": 97087,
+      "sha256": "32759b5111c79f6f235d657eb89fbf27be699aa375454d26f74c719ca706415b"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_TODOSSANTOS.jpg",
+      "bytes": 187370,
+      "sha256": "85e8a0a9f207316870d03e1448eefad4919e7f6354a44f928beb2f9faa1e49f9"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_VIRGEN.jpg",
+      "bytes": 194558,
+      "sha256": "c361b35996f7b4e854ceccbe0559d29f95fa253d734cfe9e307f31c040e46850"
+    },
+    {
+      "file": "WIDGET_HOY_1.jpg",
+      "bytes": 144353,
+      "sha256": "e558536f32f29fcfb6ee209c7a9ab3b3bb85c11fb8de2e8dab1dd1dc28d19805"
+    },
+    {
+      "file": "WIDGET_HOY_10.jpg",
+      "bytes": 104015,
+      "sha256": "5d2d388392e44f33ba87db492ab1dc346902004bbe6982fe8c21218138f16b2a"
+    },
+    {
+      "file": "WIDGET_HOY_11.jpg",
+      "bytes": 70082,
+      "sha256": "361c01f48923d800a9828992219b44bd1b0217e6ba20fb6cb85e81c11d92a0c8"
+    },
+    {
+      "file": "WIDGET_HOY_12.jpg",
+      "bytes": 195250,
+      "sha256": "e16ef94c954ba92cd0a72e548fb6d1a18198d9df10cbe054f5060c65e976ceb7"
+    },
+    {
+      "file": "WIDGET_HOY_13.jpg",
+      "bytes": 49939,
+      "sha256": "15086800fb343abaaca585a5be2cf1a1565675fd95561d2986b0a830315414d4"
+    },
+    {
+      "file": "WIDGET_HOY_14.jpg",
+      "bytes": 106765,
+      "sha256": "7b00a9d7fff8e3e2125da3a5bb01c4e0c405361f979294b9c9469c1bd1faf76c"
+    },
+    {
+      "file": "WIDGET_HOY_15.jpg",
+      "bytes": 289240,
+      "sha256": "a622a8acaabfbcf03e98ad87d9976dd18c9f9107ec627a078375fd92de805603"
+    },
+    {
+      "file": "WIDGET_HOY_16.jpg",
+      "bytes": 248963,
+      "sha256": "31422e8776c3a1bf31297473851bd15aaaf69c667a191dce9f6df0fc1a5cf45b"
+    },
+    {
+      "file": "WIDGET_HOY_17.jpg",
+      "bytes": 212693,
+      "sha256": "f3391cb2fe00262ff676f5ca5ec2e2e0f9796b07e5271f5070629b8909014133"
+    },
+    {
+      "file": "WIDGET_HOY_18.jpg",
+      "bytes": 226088,
+      "sha256": "45927bb02e590668a77ba15d18cd86a564b9492cf09896a4c0eab2872310a2ce"
+    },
+    {
+      "file": "WIDGET_HOY_19.jpg",
+      "bytes": 82506,
+      "sha256": "308a569e516dfcdf80e72108921b54abe8035ba305c5ca3f94cb254a16af5ecd"
+    },
+    {
+      "file": "WIDGET_HOY_2.jpg",
+      "bytes": 121304,
+      "sha256": "9eca6629dc7a3f844c59dba21a58ae5efcc5387de9909036315c699ceff81ab5"
+    },
+    {
+      "file": "WIDGET_HOY_20.jpg",
+      "bytes": 138631,
+      "sha256": "308fff41da15ff2b1fbcc4ac4719acc817c836bfc60cfcd76ec074a66812af74"
+    },
+    {
+      "file": "WIDGET_HOY_21.jpg",
+      "bytes": 133205,
+      "sha256": "b66dbb7d2ac5554e1ed98e68f380261bc7e3bc7966a8c6c3dd5fe0808d7e0c11"
+    },
+    {
+      "file": "WIDGET_HOY_22.jpg",
+      "bytes": 186095,
+      "sha256": "4ede14637e111726e66d34d831dc5ab2255dc019e31242d8f4b9e74392f4cc43"
+    },
+    {
+      "file": "WIDGET_HOY_23.jpg",
+      "bytes": 126914,
+      "sha256": "5ea23dcc393b278d849e595740087bab19cb758ad918e129fc60f16d939fef72"
+    },
+    {
+      "file": "WIDGET_HOY_24.jpg",
+      "bytes": 64092,
+      "sha256": "59b72cd81c8c2db2dad2602505cd5e787932dbb332f9800a6f1dd4fe6ba356c7"
+    },
+    {
+      "file": "WIDGET_HOY_25.jpg",
+      "bytes": 77485,
+      "sha256": "5b0956029f4e597d2cf734f932c4ec3c75dcd263e9fda44b867c9198898a69d0"
+    },
+    {
+      "file": "WIDGET_HOY_26.jpg",
+      "bytes": 81386,
+      "sha256": "60dbf0c33b704aac8477f801975d465cb26d9b20f326735ef84a45c706a84ce5"
+    },
+    {
+      "file": "WIDGET_HOY_27.jpg",
+      "bytes": 89665,
+      "sha256": "a5edb482bcb9a6dac9d212a8700808d472867b3c72119081a33a5d31bc90dfef"
+    },
+    {
+      "file": "WIDGET_HOY_28.jpg",
+      "bytes": 103946,
+      "sha256": "6fd4cc74f63935d7da00d407d36ea84edad4162f0d803b582b43c523a644a68d"
+    },
+    {
+      "file": "WIDGET_HOY_29.jpg",
+      "bytes": 86113,
+      "sha256": "7a90fefa82188f33e2dff8b3d4dd2f8e30d6a1ac0038194e4e55067e6f816d30"
+    },
+    {
+      "file": "WIDGET_HOY_3.jpg",
+      "bytes": 185711,
+      "sha256": "2181678802515f28c931cfc5862c05e0e1e8e2adf8bf94b99e9b5edf919e395f"
+    },
+    {
+      "file": "WIDGET_HOY_30.jpg",
+      "bytes": 74802,
+      "sha256": "63268667d9b112342f79879cf95a2f12db254a46d32de33844a5303a8be11124"
+    },
+    {
+      "file": "WIDGET_HOY_31.jpg",
+      "bytes": 70408,
+      "sha256": "f08807d99f2a83fa5cbdfe2aed9e2b6ca406b87fed6ee61ad2dc259d31ebc800"
+    },
+    {
+      "file": "WIDGET_HOY_32.jpg",
+      "bytes": 158673,
+      "sha256": "b206f2dd325322398fa35c052c0db89da357630a54c0460fc5b49d6963b1eb22"
+    },
+    {
+      "file": "WIDGET_HOY_33.jpg",
+      "bytes": 43176,
+      "sha256": "4850880b1304c29dd2b277b4c84d01a16532171ee16dd835307f83392b1730ab"
+    },
+    {
+      "file": "WIDGET_HOY_34.jpg",
+      "bytes": 160149,
+      "sha256": "109ebc9823471f4394397ccdbb1e9d90fe9632745d3c1c90bacef7541eec684c"
+    },
+    {
+      "file": "WIDGET_HOY_35.jpg",
+      "bytes": 42678,
+      "sha256": "7922e509267f936efbafcd9e6ec580b467202d2182f851572c0a93af84882c7e"
+    },
+    {
+      "file": "WIDGET_HOY_36.jpg",
+      "bytes": 231899,
+      "sha256": "73a51145d5f5864ecf12bccecd5b86da4723c7bb440d6043b2dcc5ba84d5bb73"
+    },
+    {
+      "file": "WIDGET_HOY_37.jpg",
+      "bytes": 52048,
+      "sha256": "81041aead56fd0d6a08f9346ee00f7871dc916378b40c1b6b512d3dc810229be"
+    },
+    {
+      "file": "WIDGET_HOY_38.jpg",
+      "bytes": 90616,
+      "sha256": "65933c812d4d8009f471497fb61b04a9339297a1666b940d565e8cd4be55cc49"
+    },
+    {
+      "file": "WIDGET_HOY_39.jpg",
+      "bytes": 90693,
+      "sha256": "42fdd28005b07d4a0984abaf5ef38bcb189f67d6ef226725c2ab3c19b1d2766d"
+    },
+    {
+      "file": "WIDGET_HOY_4.jpg",
+      "bytes": 219557,
+      "sha256": "c320382375aaecc52f2c80e463d640240f88a8eea10ed94b1f54023149cd720e"
+    },
+    {
+      "file": "WIDGET_HOY_40.jpg",
+      "bytes": 83159,
+      "sha256": "645e8cf55bb84fb5f9bd62c73d9756935569ba74526d0a8ae680b1081bca4222"
+    },
+    {
+      "file": "WIDGET_HOY_41.jpg",
+      "bytes": 133243,
+      "sha256": "30b8bc019dc261f692d5e5a11c71f338d50e632972d745a2298a53764aca665d"
+    },
+    {
+      "file": "WIDGET_HOY_42.jpg",
+      "bytes": 111497,
+      "sha256": "5430011c7fc98e1499d9c4d9b9422a680de65631964fc4907336d08cea8ba917"
+    },
+    {
+      "file": "WIDGET_HOY_43.jpg",
+      "bytes": 100588,
+      "sha256": "010472115e9d5eb2a4da9a43e7a42c63dca662d04d92bbcf027e2fc5b7335f74"
+    },
+    {
+      "file": "WIDGET_HOY_44.jpg",
+      "bytes": 93748,
+      "sha256": "b46166aa9bb6cd0e5a533f0fa1e4d79ca2603be515ce3e37c88e6c5d5b587647"
+    },
+    {
+      "file": "WIDGET_HOY_45.jpg",
+      "bytes": 196034,
+      "sha256": "b16abd715df4ec3d9ff5e4b1bd60cfc7295ed36c78039345fcaaeb1ee50e65cc"
+    },
+    {
+      "file": "WIDGET_HOY_46.jpg",
+      "bytes": 189570,
+      "sha256": "f17d5f4de9d02fd7ee04259e00c452d24c85ba73a67c2d5a849a1dad5420b8d2"
+    },
+    {
+      "file": "WIDGET_HOY_47.jpg",
+      "bytes": 52766,
+      "sha256": "82661a601c861603690fd82d7dbd2ce6ffab8e0986a288b0831586c85fde5d8c"
+    },
+    {
+      "file": "WIDGET_HOY_48.jpg",
+      "bytes": 131387,
+      "sha256": "ce2e217650f36ef92dfeaa32606664fdbf1d65eb60625c66a66eb0b49371870a"
+    },
+    {
+      "file": "WIDGET_HOY_49.jpg",
+      "bytes": 147795,
+      "sha256": "633c12eccf650edafa788991015d2a3cd1de06b9cdeb4a17303f88221316de5c"
+    },
+    {
+      "file": "WIDGET_HOY_5.jpg",
+      "bytes": 94162,
+      "sha256": "c18a674ecf0058bbdb600edab999910330bca39f6bd4a259f711a034ccd9973b"
+    },
+    {
+      "file": "WIDGET_HOY_50.jpg",
+      "bytes": 114031,
+      "sha256": "ad95786203d0298a7e4588ceb2e141d7771e6b3d8022a0ffcef14b6765c6be2b"
+    },
+    {
+      "file": "WIDGET_HOY_51.jpg",
+      "bytes": 90387,
+      "sha256": "25c7ed4862d8ea3fdeef01a13f5ca9105c83ee4b9b08d3165f0f78f29a53b552"
+    },
+    {
+      "file": "WIDGET_HOY_52.jpg",
+      "bytes": 114278,
+      "sha256": "6089ed66949eabad805bf85aef84b44ddb1094db669c92daea01edac6821fb57"
+    },
+    {
+      "file": "WIDGET_HOY_6.jpg",
+      "bytes": 76094,
+      "sha256": "03c188b7102c32b4b8330e2f324778c808362025b9fab55e142b8a8c3416ac39"
+    },
+    {
+      "file": "WIDGET_HOY_7.jpg",
+      "bytes": 108313,
+      "sha256": "7566d32d1ec0f604deb59149a1a23bf19442992defbb2ceb83fdf5f174331d06"
+    },
+    {
+      "file": "WIDGET_HOY_8.jpg",
+      "bytes": 71259,
+      "sha256": "aef6b169a8f550338759b28dddf44d8a3e551af41667c34474856b4808ccdfa9"
+    },
+    {
+      "file": "WIDGET_HOY_9.jpg",
+      "bytes": 207572,
+      "sha256": "728555d6a834a9de565daff5a86fc1bb751f8a4d07d0ca956620942ce3882b9b"
+    },
+    {
+      "file": "Widget_MISA.png",
+      "bytes": 1419246,
+      "sha256": "046bf5506e0b716b8716f38a86226538971b2834fcd66ac80a3df88d38fe73d3"
     },
     {
       "file": "aberystwyth-university-school-of-art-museum-and-galleries.jpg",
@@ -263,6 +633,11 @@
       "file": "caliz.jpg",
       "bytes": 48498,
       "sha256": "e643c7e4295c82118fa4b19eab17e83ef3404b8f1d5d5c3863bffaa810e57cc4"
+    },
+    {
+      "file": "catholic-church-england-and-wales-0031.jpg",
+      "bytes": 166180,
+      "sha256": "db3662746437c2d80fb9c3cc65c1364371ca1d536ff07924ca0495b3a315eb89"
     },
     {
       "file": "catholic-church-england-and-wales-008.jpg",
@@ -560,6 +935,11 @@
       "sha256": "913f5e593534002a7d89ab87dae24778aeef33f1fde222a5a75f6d34309d308a"
     },
     {
+      "file": "share-10.jpg",
+      "bytes": 112369,
+      "sha256": "4bd98b98137135c5dabd485b4e0ef3008b39706a14311036743f989c2286f7ec"
+    },
+    {
       "file": "shutterstock-1651037905.jpg",
       "bytes": 228798,
       "sha256": "d8aa74691a919b1adc5b8597166fce3cd592f8d52575708f03e87ece2da996da"
@@ -630,6 +1010,11 @@
       "sha256": "2adefea314977051f374f19f3c531c21b5e1ffc71143c3260319737920285c67"
     },
     {
+      "file": "widget-especial-apentecostes.jpg",
+      "bytes": 152824,
+      "sha256": "d2921705ed8f178098894b56920803e642acc95773a51dd28768ee7b5ef4318c"
+    },
+    {
       "file": "widget_i.jpeg",
       "bytes": 116095,
       "sha256": "26ebacafb1b3e02322802d1e9e5d7e97501b94f4391e58006d92bed601ecc29d"
@@ -638,8 +1023,8 @@
   "dataFiles": [
     {
       "file": "homilies.json",
-      "bytes": 18358553,
-      "sha256": "073f35ea61d09975298c6b4df038eb71087c9fe7d8c5c3859a107721dc19567b"
+      "bytes": 17804108,
+      "sha256": "64c740defeb2ff66d89518b85971fd9fd4dd45d2f2ceddc4dc618b342a14b02d"
     },
     {
       "file": "santoral_sanctus.json",
@@ -660,6 +1045,13 @@
       "file": "readings-patch.json",
       "bytes": 3,
       "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    }
+  ],
+  "media": [
+    {
+      "file": "hauntsync-gregorian-chant-private-prayer-to-mary-337672.mp3",
+      "bytes": 8273664,
+      "sha256": "c933e1afd18f53b14651ec2ba6b7f4c089a7299d2cd8eb38868bc3136181d2a4"
     }
   ]
 }

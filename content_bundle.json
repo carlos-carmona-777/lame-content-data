@@ -49,69 +49,69 @@
             },
             {
               "type": "autocredit",
-              "value": "Desconocido\nPaolo Veronese - Bautismo de Cristo\nBautismo."
+              "value": "Liturgia Lat\nPaolo Veronese - Bautismo de Cristo\nBautismo."
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "que-es-la-misa",
-      "type": "article",
-      "tag": "Introducción",
-      "title": "¿Qué es la Misa?",
-      "subtitle": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa. —San Pío X",
-      "color": "#8B1A1A",
-      "icon": "ofertorio",
-      "image": "10-1940-dig-01-o3.jpg",
-      "cardImage": "10-1940-dig-01-o3.jpg",
-      "youtubeId": null,
-      "keyPoints": [
-        "La Misa",
-        "¿Por qué participar en la Misa?"
-      ],
-      "content": [
-        {
-          "type": "quote",
-          "value": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
         },
         {
-          "type": "heading",
-          "value": "La Misa"
-        },
-        {
-          "type": "text",
-          "value": "La Misa es, a la vez e inseparablemente, el memorial sacrificial en que se perpetúa el sacrificio de la cruz, y el banquete sagrado de la comunión en el Cuerpo y la Sangre del Señor. Pero la celebración del sacrificio eucarístico está totalmente orientada hacia la unión íntima de los fieles con Cristo por medio de la comunión. Comulgar es recibir a Cristo mismo que se ofrece por nosotros.\n\nEn la Misa, Cristo está presente de un modo especial:\n\n- En su Palabra, porque Él mismo habla cuando se leen las Escrituras\n- En el sacrificio, por el ministerio de la Iglesia\n- Y especialmente bajo las especies eucarísticas\n- Cuando la Iglesia suplica y canta salmos\n\nFinalmente, la Misa no termina en el altar: concluye con el envío (missio), para que los fieles cumplan la voluntad de Dios en su vida diaria. Así, la Misa es memoria que salva, comunión que transforma y misión que ilumina el mundo."
-        },
-        {
-          "type": "quote",
-          "value": "En este divino sacrificio que se hace en la Misa, se contiene y sacrifica incruentamente aquel mismo Cristo que se ofreció por una vez cruentamente en el ara de la cruz.",
-          "author": "Concilio de Trento"
-        },
-        {
-          "type": "image",
-          "value": "Basilica-Guadalupe-Misa.jpg",
-          "caption": ""
-        },
-        {
-          "type": "heading",
-          "value": "¿Por qué participar en la Misa?"
-        },
-        {
-          "type": "text",
-          "value": "Entre todas las acciones litúrgicas, la Santa Misa ocupa un lugar eminente y central. Así como la liturgia es el culmen y la fuente de toda la vida cristiana, la Santa Misa es el culmen y la fuente de toda la liturgia. Jesucristo en la última cena instituyó este sacramento. La primera comunidad cristiana no dejó nunca de reunirse para cumplir el mandato del Señor: «Hagan esto en memoria mía».\n\n«Los fieles están obligados a participar en la Eucaristía los días de precepto, a no ser que estén [[excusados|excusados]] por una causa grave (por ejemplo, enfermedad, cuidado de los niños) o dispensados por su pastor. Quienes deliberadamente faltan a esta obligación cometen un pecado grave». (_CEC_ 2181)\n\n![img:La-ultima-cena-pintura.jpg|left|w:50%|Última Cena por Pietro Lorenzetti ]\nSin embargo no hemos de asistir a la Eucaristía sólo por la obligación o el temor de pecar sino más bien movidos por el amor a Dios sobre todas las cosas; por la necesidad que tenemos de arrepentirnos y pedirle perdón de nuestros pecados; de escuchar su Palabra que es luz y alimento para nuestra vida; de darle gracias por todo lo que nos da sin merecerlo a lo largo de la semana y en toda nuestra vida; de unirnos al sacrificio de Cristo en la cruz para poder participar un día también de su gloriosa resurrección; de alimentarnos del Cuerpo y de la Sangre de Cristo para tener fuerza y no sucumbir a las tentaciones; de encontrarnos con nuestros hermanos que comparten la misma fe que nosotros y juntos alabar a Dios, darle gloria, adorarlo, cantarle y ofrecer nuestras súplicas por toda la Iglesia y por el mundo entero.\n"
-        },
-        {
-          "type": "separator"
-        },
-        {
-          "type": "bibliography",
-          "value": "Catecismo de la Iglesia Católica (CEC) números: 1088, 1327, 1332, 1359-1368, 1382, 2181\nSacrosanctum Concilium: 7\nConcilio de Trento: Sesión XXII, Cap. II\nSacramentum Caritatis: 51"
-        },
-        {
-          "type": "autocredit",
-          "value": "Cristo en la Cruz - Giovanni Battista Tiepolo\nBasilica Guadalupe Misa\nÚltima Cena por Pietro Lorenzetti"
+          "id": "que-es-la-misa",
+          "type": "article",
+          "tag": "Introducción",
+          "title": "¿Qué es la Misa?",
+          "subtitle": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa. —San Pío X",
+          "color": "#8B1A1A",
+          "icon": "ofertorio",
+          "image": "10-1940-dig-01-o3.jpg",
+          "cardImage": "10-1940-dig-01-o3.jpg",
+          "youtubeId": null,
+          "keyPoints": [
+            "La Misa",
+            "¿Por qué participar en la Misa?"
+          ],
+          "content": [
+            {
+              "type": "heading",
+              "value": "La Misa"
+            },
+            {
+              "type": "text",
+              "value": "La Misa es, a la vez e inseparablemente, el memorial sacrificial en que se perpetúa el sacrificio de la cruz, y el banquete sagrado de la comunión en el Cuerpo y la Sangre del Señor. Pero la celebración del sacrificio eucarístico está totalmente orientada hacia la unión íntima de los fieles con Cristo por medio de la comunión. Comulgar es recibir a Cristo mismo que se ofrece por nosotros.\n\nEn la Misa, Cristo está presente de un modo especial:\n\n- En su Palabra, porque Él mismo habla cuando se leen las Escrituras\n- En el sacrificio, por el ministerio de la Iglesia\n- Y especialmente bajo las especies eucarísticas\n- Cuando la Iglesia suplica y canta salmos\n\nFinalmente, la Misa no termina en el altar: concluye con el envío (missio), para que los fieles cumplan la voluntad de Dios en su vida diaria. Así, la Misa es memoria que salva, comunión que transforma y misión que ilumina el mundo."
+            },
+            {
+              "type": "quote",
+              "value": "En este divino sacrificio que se hace en la Misa, se contiene y sacrifica incruentamente aquel mismo Cristo que se ofreció por una vez cruentamente en el ara de la cruz.",
+              "author": "Concilio de Trento"
+            },
+            {
+              "type": "image",
+              "value": "Basilica-Guadalupe-Misa.jpg",
+              "caption": ""
+            },
+            {
+              "type": "heading",
+              "value": "¿Por qué participar en la Misa?"
+            },
+            {
+              "type": "quote",
+              "value": "La Eucaristía es el compendio y la suma de nuestra fe.",
+              "author": "Santo Tomás de Aquino"
+            },
+            {
+              "type": "text",
+              "value": "Entre todas las acciones litúrgicas, la Santa Misa ocupa un lugar eminente y central. Así como la liturgia es el culmen y la fuente de toda la vida cristiana, la Santa Misa es el culmen y la fuente de toda la liturgia. Jesucristo en la última cena instituyó este sacramento. La primera comunidad cristiana no dejó nunca de reunirse para cumplir el mandato del Señor: «Hagan esto en memoria mía».\n\n«Los fieles están obligados a participar en la Eucaristía los días de precepto, a no ser que estén [[excusados|excusados]] por una causa grave (por ejemplo, enfermedad, cuidado de los niños) o dispensados por su pastor. Quienes deliberadamente faltan a esta obligación cometen un pecado grave». (_CEC_ 2181)\n\n![img:La-ultima-cena-pintura.jpg|left|w:50%|Última Cena por Pietro Lorenzetti ]\nSin embargo no hemos de asistir a la Eucaristía sólo por la obligación o el temor de pecar sino más bien movidos por el amor a Dios sobre todas las cosas; por la necesidad que tenemos de arrepentirnos y pedirle perdón de nuestros pecados; de escuchar su Palabra que es luz y alimento para nuestra vida; de darle gracias por todo lo que nos da sin merecerlo a lo largo de la semana y en toda nuestra vida; de unirnos al sacrificio de Cristo en la cruz para poder participar un día también de su gloriosa resurrección; de alimentarnos del Cuerpo y de la Sangre de Cristo para tener fuerza y no sucumbir a las tentaciones; de encontrarnos con nuestros hermanos que comparten la misma fe que nosotros y juntos alabar a Dios, darle gloria, adorarlo, cantarle y ofrecer nuestras súplicas por toda la Iglesia y por el mundo entero.\n"
+            },
+            {
+              "type": "separator"
+            },
+            {
+              "type": "bibliography",
+              "value": "Catecismo de la Iglesia Católica (CEC) números: 1088, 1327, 1332, 1359-1368, 1382, 2181\nSacrosanctum Concilium: 7\nConcilio de Trento: Sesión XXII, Cap. II\nSacramentum Caritatis: 51"
+            },
+            {
+              "type": "autocredit",
+              "value": "Dig\nBasilica Guadalupe Misa\nÚltima Cena por Pietro Lorenzetti"
+            }
+          ]
         }
       ]
     },
@@ -1623,11 +1623,6 @@
       ]
     },
     {
-      "type": "divider",
-      "id": "prgwtz",
-      "label": "CONOCE EL APP"
-    },
-    {
       "id": "u9ovi6",
       "type": "section",
       "tag": "",
@@ -1805,7 +1800,7 @@
             },
             {
               "type": "text",
-              "value": "A **Dios**, quien se dignó a llamarme por mi nombre.\nA mi **madre**, que me enseñó la fe.\nA mi **padre**, que me enseñó a poner a la familia en primer lugar.\nA mi **hermana**, que siempre me ha acompañado.\n\nA mi **esposa**, pues gracias a su amor y dedicación a nuestra familia puedo disponer del tiempo para realizar estos proyectos.\n\nA mis **hijos**, que siempre me inspiran a ser un mejor padre. También a Pollito y a Juanito.\n\nA **Fernando** y **Betty**, por sus largas y enriquecedoras charlas sobre la fe. Así como a **Abel** Della Costa (fundador de www.eltestigofiel.org).\n\nA mi parroquia Santa María de Guadalupe, a todos los miembros del equipo de animación litúrgica y, especialmente, a:\n- **Jorge** Fernández, quien despertó en mí el amor por la liturgia.\n- Al Sr. Cura **Juan** Bojórquez, quien nos regala en cada Misa un amor visible por la Eucaristía.\n- Al Pbro. **Fernando** Ocegueda, quien celebra cada Misa con una dignidad intachable.\n- A **Alfredo** Espinosa, coordinador de liturgia, y a **Manuel** Gamboa, por su incansable dedicación."
+              "value": "A **Dios**, quien se dignó a llamarme por mi nombre.\nA mi **madre**, que me enseñó la fe.\nA mi **padre**, que me enseñó a poner a la familia en primer lugar.\nA mi **hermana**, que siempre me ha acompañado.\n\nA mi **esposa**, pues gracias a su amor y dedicación a nuestra familia puedo disponer del tiempo para realizar estos proyectos.\n\nA mis **hijos**, que siempre me inspiran a ser un mejor padre. También a Pollito y a Juanito.\n\nA **Fernando** y **Betty**, por sus largas y enriquecedoras charlas sobre la fe. Así como a **Abel** Della Costa (fundador de www.eltestigofiel.org).\n\nA mi parroquia Santa María de Guadalupe, a todos los miembros del equipo de animación litúrgica y, especialmente, a:\n- **Jorge** Fernández, quien despertó en mí el amor por la liturgia.\n- Al Sr. Cura **Juan** Bojórquez, quien nos regala en cada Misa un amor visible por la Eucaristía.\n- Al Pbro. **Fernando** Ocegueda, quien celebra cada Misa con una dignidad intachable.\n- A **Alfredo** Espinosa, coordinador de liturgia, y a **Manuel** Gamboa, por su incansable dedicación.\n\nTambién a todos los que me ayudaron con sus pruebas BETA. Su retroalimentación ha sido invaluable."
             },
             {
               "type": "heading",
@@ -1817,7 +1812,7 @@
             },
             {
               "type": "text",
-              "value": "También a **Miguel Martínez Serrano**, autor del repositorio abierto _Breviarium_, el cual utilicé y modifiqué para la funcionalidad de la Liturgia de las Horas.\n\nA **Liturgiapapal.org**, por su extensa librería de recursos litúrgicos que fueron parte valiosa de mi investigación.\n"
+              "value": "También a **Miguel Martínez Serrano**, autor del repositorio abierto _Breviarium_, el cual utilicé y modifiqué para la funcionalidad de la Liturgia de las Horas.\n\nA José de **Liturgiapapal.org**, por su extensa librería de recursos litúrgicos que fueron parte valiosa de mi investigación.\n"
             }
           ]
         },
@@ -1923,243 +1918,19 @@
       "id": "g9pz56",
       "label": "P R U E B A S",
       "visible": false
-    },
-    {
-      "id": "xb4gw3",
-      "type": "section",
-      "tag": "Nueva",
-      "title": "PRUEBAS CARLOS",
-      "subtitle": "Descripción",
-      "color": "#8B1A1A",
-      "icon": "+",
-      "pruebas": true,
-      "image": "Basilica-San-Francisco-de-Asis_Colecta.jpg",
-      "cardImage": "Basilica-San-Francisco-de-Asis_Colecta.jpg",
-      "content": [
-        {
-          "type": "text",
-          "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
-        }
-      ],
-      "subsections": [
-        {
-          "id": "oft1pu",
-          "type": "article",
-          "tag": "Nueva",
-          "title": "Pruebas",
-          "subtitle": "Descripción",
-          "color": "#2A5F8B",
-          "icon": "+",
-          "image": "10-1940-dig-01-o3.jpg",
-          "cardImage": "10-1940-dig-01-o3.jpg",
-          "youtubeId": null,
-          "keyPoints": [
-            "Testing"
-          ],
-          "content": [
-            {
-              "type": "heading",
-              "value": "Testing"
-            },
-            {
-              "type": "text",
-              "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
-            },
-            {
-              "type": "text",
-              "value": "**Lorem** ipsum dolor sit amet consectetur _adipiscing_ elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n`Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.` \n\nLorem ipsum dolor sit ^^amet consectetur adipiscing elit. Quisque faucibus ex sapien^^ vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n{{leermas}}\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n"
-            },
-            {
-              "type": "text",
-              "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n@@Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.@@\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n%%Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.%%"
-            },
-            {
-              "type": "image",
-              "value": "305165639_n.jpg",
-              "caption": ""
-            },
-            {
-              "type": "image",
-              "value": "305165639_n.jpg",
-              "caption": "",
-              "size": "original"
-            },
-            {
-              "type": "image",
-              "value": "305165639_n.jpg",
-              "caption": "",
-              "size": "small"
-            },
-            {
-              "type": "text",
-              "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos [[himenaeos|Cáliz]].\n\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. {{Tempus leo eu aenean|qolj09|45,378,34}} sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n![img:aberystwyth-university-school-of-art-museum-and-galleries.jpg|left|w:38%]\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
-            },
-            {
-              "type": "popover",
-              "icon": "🔔",
-              "title": "pop over 1",
-              "text": "",
-              "tabs": [
-                {
-                  "label": "Tab 1",
-                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n@@Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.@@\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n%%Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.%%"
-                },
-                {
-                  "label": "Tab 2",
-                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos ⟨himenaeos⟩.\n\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. {{Tempus leo eu aenean|qolj09|45,378,34}} sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n![img:aberystwyth-university-school-of-art-museum-and-galleries.jpg|left|w:38%]\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
-                },
-                {
-                  "label": "Tab 3",
-                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n![slider:square|annie-williams-oKQWqShxjXY-unsplash.jpg;;Basilica-Guadalupe-Misa.jpg;;Basilica-San-Francisco-de-Asis_Colecta.jpg;;Agnus_Konstantin_Korobov.jpg]"
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n![slider:square|annie-williams-oKQWqShxjXY-unsplash.jpg;;Basilica-Guadalupe-Misa.jpg;;Basilica-San-Francisco-de-Asis_Colecta.jpg;;Agnus_Konstantin_Korobov.jpg]"
-            },
-            {
-              "type": "text",
-              "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n![flip:horizontal|100|left|10-1940-dig-01-o3.jpg~|text|Dios es Dios~Cristo es Dios~dark]"
-            },
-            {
-              "type": "quote",
-              "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. ",
-              "author": "autor"
-            },
-            {
-              "type": "separator"
-            },
-            {
-              "type": "tabs",
-              "tabs": [
-                {
-                  "label": "Tab 1",
-                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
-                },
-                {
-                  "label": "Tab 2",
-                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
-                }
-              ]
-            },
-            {
-              "type": "button",
-              "label": "",
-              "dest": "url",
-              "value": "",
-              "style": "solid",
-              "align": "center"
-            },
-            {
-              "type": "icontext",
-              "icon": "📌",
-              "title": "sdsdslkdsldksl",
-              "text": "s´ñdlsdsadsdsd sadsa\ndsdsadsadsa\ndsadsadsadsadd\nasd\nsad\nsad"
-            },
-            {
-              "type": "accordion",
-              "title": "sdsadas",
-              "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus **bibendum** egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia _nostra_ inceptos himenaeos.\n\n![img:SJuan_Raul_Berzosa.jpg|left|w:38%]\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
-            },
-            {
-              "type": "imageleft",
-              "value": "diocesi-di-roma-23.jpg",
-              "caption": "sds",
-              "text": "sdsds sdsdLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n\n![slider:square|annie-williams-oKQWqShxjXY-unsplash.jpg;;Basilica-Guadalupe-Misa.jpg;;Basilica-San-Francisco-de-Asis_Colecta.jpg;;Agnus_Konstantin_Korobov.jpg]"
-            },
-            {
-              "type": "imgslider",
-              "shape": "vertical",
-              "images": [
-                {
-                  "value": "acerca.jpg",
-                  "title": "sdsd"
-                },
-                {
-                  "value": "Agnus_Konstantin_Korobov.jpg",
-                  "title": "sdsds"
-                }
-              ]
-            },
-            {
-              "type": "bibliography",
-              "value": "sdsdsdsds"
-            },
-            {
-              "type": "sliderquotes",
-              "quotes": [
-                {
-                  "text": "sdsd",
-                  "author": "sdsd"
-                },
-                {
-                  "text": "sdsdsd",
-                  "author": "sds"
-                },
-                {
-                  "text": "sdsds",
-                  "author": "sdsds"
-                }
-              ]
-            },
-            {
-              "type": "mosaic",
-              "caption": "",
-              "images": [
-                {
-                  "value": "jan-cornelisz-vermeyen-la-santisima-trinidad.jpg"
-                },
-                {
-                  "value": "490838200-18062625386101198-8924686681594670110-n.jpg"
-                },
-                {
-                  "value": "20180323-121340-20180321t0843.jpg"
-                }
-              ]
-            },
-            {
-              "type": "strip",
-              "images": [
-                {
-                  "value": "305165639_n.jpg"
-                },
-                {
-                  "value": "480652531_n2.jpg"
-                },
-                {
-                  "value": "acerca.jpg"
-                },
-                {
-                  "value": "bendicion.jpg"
-                },
-                {
-                  "value": "gabriella-clare-marino-uYbE4uedh20-unsplash.jpg"
-                },
-                {
-                  "value": "lapaz.jpg"
-                }
-              ]
-            },
-            {
-              "type": "autocredit",
-              "value": "Dig\nDesconocido\nDesconocido\nDesconocido\nAberystwyth University School Of Art Museum And Galleries\nAberystwyth University School Of Art Museum And Galleries\nSJuan Raul Berzosa\nsds\nAcerca\nAgnus Konstantin Korobov\nJan Cornelisz Vermeyen La Santisima Trinidad\nDesconocido\nDesconocido\nDesconocido\nDesconocido\nAcerca\nBendicion\nGabriella Clare Marino / Unsplash\nLapaz"
-            },
-            {
-              "type": "recommendations",
-              "icon": "📜",
-              "title": "Recomendaciones",
-              "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n![slider:square|annie-williams-oKQWqShxjXY-unsplash.jpg;;Basilica-Guadalupe-Misa.jpg;;Basilica-San-Francisco-de-Asis_Colecta.jpg;;Agnus_Konstantin_Korobov.jpg]"
-            }
-          ]
-        }
-      ]
     }
   ],
   "definitions": [
     {
+      "word": "Altar",
+      "definition": "El altar es la mesa de sacrificio y de banquete en el que el sacerdote, representando a Cristo el Señor, hace lo mismo que Él hizo y ordenó a sus discípulos que los hicieran en su memoria.\n\nCristo, el Señor, al instituir el memorial del sacrificio que había de ofrecer al Padre en el ara de la cruz, bajo la forma de un banquete sacrificial, convirtiera en sagrada la mesa alrededor de la cual se reunirían los fieles para celebrar su Pascua. En efecto, el altar es mesa de sacrificio y de banquete en la que el sacerdote, representando a Cristo el Señor, hace lo mismo que él hizo y ordenó a sus discípulos que lo hicieran en su memoria. Todo esto fue resumido admirablemente por el Apóstol San Pablo, cuando dice: «El cáliz de bendición que bendecimos, ¿no es acaso comunión con la sangre de Cristo?; y el pan que partimos ¿no es comunión con el cuerpo de Cristo? Ya que hay un solo pan, aunque somos muchos, todos nosotros formamos un solo cuerpo, porque participamos de un único pan» (I Cor 10,16-17).",
+      "smId": "pj0p9g",
+      "image": "catholic-church-england-and-wales-0031.jpg"
+    },
+    {
       "word": "Ambón",
       "definition": "El Ambón es el lugar litúrgico sagrado y reservado desde el cual se proclama exclusivamente la Palabra de Dios. Diseñado como una estructura fija y elevada que manifiesta la dignidad del mensaje divino, es considerado la «Mesa de la Palabra», desde donde se realizan las lecturas, el Salmo, el Evangelio y la Homilía (la Homilía también se puede dar en la Sede), conectando de manera directa con el Altar o Mesa de la Eucaristía.",
+      "smId": "pj0p9g",
       "image": "606394259_1307774538057716_1387371614566085349_n.jpg",
       "contextImage": "Altar_Completo.jpg",
       "contextLabel": "+ ver en el altar"
@@ -2167,6 +1938,7 @@
     {
       "word": "Cáliz",
       "definition": "El cáliz es el vaso sagrado que se usa para consagrar el vino que se convertirá en la Sangre de Cristo en la Misa. Debe ser de oro o de plata con doradura en el interior, o puede ser la copa de plata con doradura en el interior; en cuyo caso la base y el tallo pueden ser de cualquier metal, siempre que sea sólido, limpio y adecuado (Mis, Rom., Ritus celebr., tit. I, n. 1). \n\nLa base puede ser redonda, hexagonal u octogonal, y debe ser tan grande de modo que no haya temor de que el cáliz se vire. Cerca de la mitad del tallo, entre la base y la copa, se recomienda que tenga una perilla, a fin de que el cáliz pueda ser manejado fácilmente, especialmente después de la consagración, cuando el sacerdote tiene sus dedos índice y pulgar unidos. \n\nAntes de que el cáliz y la patena se utilicen en el Sacrificio de la Misa deben de ser bendecidos por el obispo o sacerdote. Además, si el cáliz pierden su bendición, —lo cual ocurre, por ejemplo si se rompe o se perfora la copa, o incluso si se ha tenido que enviar para que la copa sea redorada— es necesario que se vuelva a bendecir antes que se pueda utilizar de nuevo. \n\nEn rigor, sólo a los sacerdotes y a los diáconos se les permite tocar el cáliz o la patena, pero a menudo se les concede licencia a los sacristanes y a aquellos designados oficialmente para hacerse cargo de las vestimentas y los vasos sagrados.",
+      "smId": "pj0p9g",
       "image": "caliz.jpg",
       "contextImage": "Vasos_sagrados.jpg",
       "contextLabel": "+ ver vasos sagrados",
@@ -2179,6 +1951,7 @@
     {
       "word": "Copón",
       "definition": "El copón es un vaso en forma de cáliz utilizado para guardar el Santísimo Sacramento. \n\nSe utilizan dos vasos para reservar el Santísimo Sacramento: uno, llamada píxide, es una caja pequeña y redonda y sirve para llevar el Santísimo Sacramento a los enfermos; y el otro, generalmente llamado copón, se utiliza para distribuir la Sagrada Comunión en las iglesias y para reservar las partículas consagradas en el sagrario.\n\nEl copón es bendecido por un obispo o un sacerdote delegado por él, según la forma dada en el Ritual Romano. Mientras contiene las sagradas especies debe estar cubierto con un velo blanco pequeño de seda o con un paño dorado, y sólo puede ser manejado por los ministros sagrados; cuando está vacío y purificado puede ser tocado por todos los clérigos (Cong. de Ritos, enero, 1907), y por laicos especialmente autorizados.",
+      "smId": "pj0p9g",
       "image": "copones.jpg",
       "contextImage": "Vasos_sagrados.jpg",
       "contextLabel": "+ ver vasos sagrados",
@@ -2191,6 +1964,7 @@
     {
       "word": "Corporal",
       "definition": "El corporal es un paño cuadrado de lino blanco, que se extiende durante la Misa encima del altar para colocar sobre ello el cáliz, el copón y la patena. Su nombre viene del latín corpus, que significa Cuerpo, pues sobre ella va a reposar el Cuerpo del Señor. Tradicionalmente se ha asociado con el santo sudario.\n\nSu uso en la Misa es obligatorio (IGMR 80). Además, se debe usar en la exposición del Santísimo, para colocar encima la custodia o copón. También se coloca sobre una mesita cuando se lleva la comunión a los enfermos.\n\nEl corporal se dobla siempre de una manera muy específica hacia adentro (en nueve cuadrados) para que, si quedó alguna partícula directamente sobre la tela, no caiga al suelo al retirarlo. En la Misa se extiende sobre el altar en el momento del ofertorio y tras la Comunión se lo dobla y retira.",
+      "smId": "pj0p9g",
       "image": "corporal.jpg",
       "contextImage": "panos_altar.jpg",
       "contextLabel": "+ ver los lienzos litúrgicos",
@@ -2203,6 +1977,7 @@
     {
       "word": "Diácono",
       "definition": "El Diácono es el ministro que ha recibido el primer grado del Sacramento del Orden Sagrado. Su misión está configurada con Cristo Servidor, ejerciendo su ministerio en la liturgia, la proclamación de la Palabra y las obras de caridad de la Iglesia, en comunión con el Obispo y el presbiterio.\n\nA diferencia del presbítero y del obispo, el diácono no posee el sacerdocio ministerial ni actúa in persona Christi Capitis (en la persona de Cristo Cabeza), por lo que no puede realizar la consagración eucarística ni otorgar el perdón de los pecados en la Reconciliación. Sin embargo, como ministro ordinario, está facultado para impartir bendiciones, bautizar, asistir y bendecir el Matrimonio, proclamar el Santo Evangelio y predicar la homilía. Asimismo, el diaconado puede ser permanente y conferirse a hombres casados.",
+      "smId": "pj0p9g",
       "related": [
         "Obispo",
         "Presbítero"
@@ -2210,11 +1985,13 @@
     },
     {
       "word": "Domingos, solemnidades y fiestas",
-      "definition": "El Domingo: es el Día del Señor y la fiesta primordial de la Iglesia universal. Al conmemorar la Resurrección de Cristo, se considera «la Pascua semanal» y tiene una categoría única: está por encima de las memorias y las fiestas, e incluso los domingos de Adviento, Cuaresma y Pascua tienen más peso que cualquier solemnidad. En la Misa dominical es obligatorio el canto del Gloria y la proclamación del Credo.\n\nSolemnidades: son las celebraciones de grado más alto, reservadas a los misterios más importantes de nuestra fe (por ejemplo: la Pascua, Pentecostés, Cristo Rey). En ellas es obligatorio el canto del Gloria y la proclamación del Credo.\n\nFiestas: honran algún misterio o título de Jesús, de la Virgen María o de santos especialmente relevantes para la Iglesia universal. En estas celebraciones es obligatorio el Gloria, pero se omite el Credo.\n\nMemorias: son generalmente las celebraciones de los santos, aunque también pueden conmemorar algún aspecto de Jesús o de la Virgen. Se dividen en memorias obligatorias (que deben celebrarse) y libres u opcionales (que quedan a discreción del celebrante).\n\nFerias: se denomina así a los días de la semana en los que no coincide ninguna de las celebraciones anteriores. No tienen un oficio propio ni conmemoran a un santo en particular. Son excepcionalmente «privilegiadas» las ferias de la Semana Santa, el Miércoles de Ceniza y las ferias de Adviento del 17 al 24 de diciembre."
+      "definition": "El Domingo: es el Día del Señor y la fiesta primordial de la Iglesia universal. Al conmemorar la Resurrección de Cristo, se considera «la Pascua semanal» y tiene una categoría única: está por encima de las memorias y las fiestas, e incluso los domingos de Adviento, Cuaresma y Pascua tienen más peso que cualquier solemnidad. En la Misa dominical es obligatorio el canto del Gloria y la proclamación del Credo.\n\nSolemnidades: son las celebraciones de grado más alto, reservadas a los misterios más importantes de nuestra fe (por ejemplo: la Pascua, Pentecostés, Cristo Rey). En ellas es obligatorio el canto del Gloria y la proclamación del Credo.\n\nFiestas: honran algún misterio o título de Jesús, de la Virgen María o de santos especialmente relevantes para la Iglesia universal. En estas celebraciones es obligatorio el Gloria, pero se omite el Credo.\n\nMemorias: son generalmente las celebraciones de los santos, aunque también pueden conmemorar algún aspecto de Jesús o de la Virgen. Se dividen en memorias obligatorias (que deben celebrarse) y libres u opcionales (que quedan a discreción del celebrante).\n\nFerias: se denomina así a los días de la semana en los que no coincide ninguna de las celebraciones anteriores. No tienen un oficio propio ni conmemoran a un santo en particular. Son excepcionalmente «privilegiadas» las ferias de la Semana Santa, el Miércoles de Ceniza y las ferias de Adviento del 17 al 24 de diciembre.",
+      "smId": "pj0p9g"
     },
     {
       "word": "Evangeliario",
       "definition": "El Evangeliario es el libro litúrgico que contiene exclusivamente los textos de los cuatro Evangelios. Se reserva para domingos y grandes fiestas, permaneciendo sobre el Altar hasta el momento de su proclamación solemne.\n\nPor su especial dignidad, al representar la presencia de Cristo en su Palabra, es el único libro que puede ser llevado en la procesión de entrada por el diácono o el lector, y el único que se coloca sobre el Altar hasta el momento de su proclamación en el Ambón. Se distingue del Leccionario en que posee una mayor riqueza artística y solemne, recibiendo honores específicos durante la liturgia, como la incensación y el beso del celebrante al finalizar la lectura.",
+      "smId": "pj0p9g",
       "image": "evangeliario2.jpg",
       "related": [
         "Misal Romano",
@@ -2223,11 +2000,23 @@
     },
     {
       "word": "Excusados",
-      "definition": "Cuando existe un impedimento grave, el precepto de asistir a misa se levanta. En estos casos, la Iglesia no te obliga a lo imposible. Técnicamente, ver la misa por televisión o internet no es «asistir» a misa, ya que la liturgia requiere la presencia física y la participación en la comunión sacramental. Sin embargo, para quien está impedido grave, verla es un acto de piedad muy loable y recomendado que ayuda a santificar el día del Señor."
+      "definition": "Cuando existe un impedimento grave, el precepto de asistir a misa se levanta. En estos casos, la Iglesia no te obliga a lo imposible. Técnicamente, ver la misa por televisión o internet no es «asistir» a misa, ya que la liturgia requiere la presencia física y la participación en la comunión sacramental. Sin embargo, para quien está impedido grave, verla es un acto de piedad muy loable y recomendado que ayuda a santificar el día del Señor.",
+      "smId": "pj0p9g"
+    },
+    {
+      "word": "Exequias",
+      "definition": "Las exequias son el conjunto de ritos y oraciones que la Iglesia católica celebra ante el fallecimiento de un fiel. Su significado principal es celebrar el misterio pascual (pasión, muerte y resurrección de Cristo), despidiendo a la persona de la comunidad y encomendando su alma a la misericordia divina.",
+      "smId": "pj0p9g"
+    },
+    {
+      "word": "Gradual (Graduale Romanum)",
+      "definition": "El Gradual Romano (Graduale Romanum) es el libro litúrgico que contiene todas las partes de la misa que deben ser cantadas por el coro o la schola cantorum a lo largo del año (cantos de entrada, graduales, aleluyas, ofertorios y comunión). Sus textos están musicalizados casi en su totalidad en canto gregoriano con la notación de partitura clásica de cuatro líneas (tetragrama).\n\nHay otra versión llamada Graduale Simplex (Gradual Simple), creada después del Concilio Vaticano II, que ofrece melodías mucho más fáciles y accesibles para las parroquias que no tienen un coro profesional de canto gregoriano.",
+      "smId": "pj0p9g"
     },
     {
       "word": "Leccionario",
       "definition": "El Leccionario es el libro litúrgico que reúne de forma ordenada las lecturas de las Sagradas Escrituras (Antiguo Testamento, Salmos, Evangelio y Epístolas) asignadas para cada día del año. A diferencia del Evangeliario, el Leccionario permanece siempre en el Ambón y se utiliza en todas las celebraciones, incluyendo las Misas ordinarias de entre semana. Se divide según los ciclos litúrgicos (A, B y C para los domingos; I y II para los días feriales) y tiempos específicos.",
+      "smId": "pj0p9g",
       "image": "leccionario2.jpg",
       "related": [
         "Misal Romano",
@@ -2237,6 +2026,7 @@
     {
       "word": "Manutergio",
       "definition": "El manutergio es un paño con el que el celebrante se seca las manos cuando se las lava en la Misa. Puede ser de lino, de toalla, o de otro material que sea absorbente.",
+      "smId": "pj0p9g",
       "image": "manutergio.jpg",
       "contextImage": "panos_altar.jpg",
       "contextLabel": "+ ver los lienzos litúrgicos",
@@ -2249,6 +2039,7 @@
     {
       "word": "Misal Romano",
       "definition": "Es el libro litúrgico oficial que contiene las oraciones presidenciales y las rúbricas (instrucciones) necesarias para la celebración de la Eucaristía. Su contenido se divide en el Ordinario de la Misa —partes fijas del rito— y el Propio —oraciones que varían según el tiempo o festividad—. Aunque se utiliza en la Sede durante los ritos iniciales y finales, su lugar principal es el Altar, donde el sacerdote lo emplea para proclamar el Prefacio y la Plegaria Eucarística, momento cumbre que incluye la Consagración.",
+      "smId": "pj0p9g",
       "image": "misalromano2.jpg",
       "related": [
         "Leccionario",
@@ -2258,6 +2049,7 @@
     {
       "word": "Obispo",
       "definition": "El Obispo es el ministro ordenado que posee el tercer grado y la plenitud del Sacramento del Orden Sagrado. Como sucesor directo de los Apóstoles, es el pastor principal y la máxima autoridad de una diócesis, encargado de enseñar, santificar y gobernar a la comunidad eclesial en comunión con el Papa.\n\nA diferencia del diácono y del presbítero, el obispo posee la autoridad apostólica total, lo que lo convierte en el único ministro capaz de conferir el Sacramento del Orden en todos sus grados. Mientras los presbíteros y diáconos ejercen su ministerio de forma delegada en parroquias o servicios locales, el obispo tiene la potestad ordinaria y el cuidado pastoral de toda la Iglesia particular (diócesis) a su cargo.",
+      "smId": "pj0p9g",
       "related": [
         "Diácono",
         "Presbítero"
@@ -2266,6 +2058,7 @@
     {
       "word": "Ordinario",
       "definition": "Se denomina así al conjunto de textos y ritos que, por su naturaleza inmutable, se repiten en cada celebración eucarística, constituyendo la estructura fija de la liturgia (como el Kyrie, Gloria, Credo, Prefacio y Doxología). Se distingue del «Propio», el cual comprende las oraciones y lecturas que varían según el tiempo litúrgico o la festividad del santoral.",
+      "smId": "pj0p9g",
       "related": [
         "Propio"
       ]
@@ -2273,6 +2066,7 @@
     {
       "word": "Palia",
       "definition": "La palia es una pieza cuadrada de tela rígida, generalmente de lino blanco almidonado, que se utiliza para cubrir el cáliz durante la celebración de la Misa, en el marco del ritual eucarístico. Su función principal es proteger el contenido del cáliz y los elementos sagrados de polvo, insectos u otros contaminantes externos; entre estos paños, ocupa un lugar propio por su uso específico sobre los vasos sagrados.\n\nNo lo dispone ninguna norma, pero los manuales de liturgia recomiendan que al poner y al retirar la palia del cáliz se coloque la mano izquierda sobre la base del cáliz, con el objeto de evitar que accidentalmente se tire este vaso sagrado. De esta forma, la mano izquierda está en la base del cáliz y con la mano derecha se maneja la palia.",
+      "smId": "pj0p9g",
       "image": "palia.jpg",
       "contextImage": "panos_altar.jpg",
       "contextLabel": "+ ver los lienzos litúrgicos",
@@ -2285,6 +2079,7 @@
     {
       "word": "Patena",
       "definition": "El vaso eucarístico conocido como la patena es un plato o disco pequeño poco profundo de metal precioso sobre el que se ofrece a Dios el elemento del pan en el ofertorio de la Misa, y en el que se coloca de nuevo la hostia consagrada después de la fracción. \n\nLa patena debe ser de oro o de plata dorada, y no se puede utilizar antes de que un obispo lo haya consagrado con el crisma. La forma empleada habla del vaso como bendito «para la administración de la Eucaristía de Jesucristo, para que el Cuerpo de nuestro Señor pueda ser roto sobre ella»; y también como «el sepulcro nuevo del Cuerpo y la Sangre de Jesucristo».",
+      "smId": "pj0p9g",
       "image": "patena.jpg",
       "contextImage": "Vasos_sagrados.jpg",
       "contextLabel": "+ ver vasos sagrados",
@@ -2297,6 +2092,7 @@
     {
       "word": "Píxide",
       "definition": "La píxide (del latín pyx, gr. pyxis) es un vaso pequeño destinado a contener la Sagrada Eucaristía (las Hostias consagradas), sobre todo para llevar el Viático a los enfermos. A menudo, el píxide de comunión se cuelga alrededor del cuello. Ello le recuerda a la persona que la lleva, así como a quienes la rodean, que lleva el Santísimo Sacramento.\n\nA veces, un píxide se lleva en una pequeña bolsa similar a un bolso que está diseñada para proteger aún más la píxide y las hostias consagradas en su interior. Sobre todo, el píxide debe manejarse con sumo cuidado, reconociendo que quien la sostiene con la Eucaristía dentro, está sosteniendo a Jesús, el Señor.",
+      "smId": "pj0p9g",
       "image": "pixide.jpg",
       "contextImage": "Vasos_sagrados.jpg",
       "contextLabel": "+ ver vasos sagrados",
@@ -2307,8 +2103,17 @@
       ]
     },
     {
+      "word": "Presbiterio",
+      "definition": "Es el área principal donde se desarrolla la liturgia, generalmente precedida por gradas o una barandilla para distinguirla de la nave central. Es donde se encuentra el Altar, la Sede —el asiento o cátedra del celebrante principal (sacerdote u obispo)—, el Ambón —el atril desde el cual se proclama la Palabra de Dios—, Credencia —una pequeña mesa auxiliar utilizada por los ministros—",
+      "smId": "pj0p9g",
+      "related": [
+        "ambón"
+      ]
+    },
+    {
       "word": "Presbítero",
       "definition": "El Presbítero —conocido comúnmente como sacerdote o padre— es el ministro que ha recibido el segundo grado del Sacramento del Orden Sagrado y colabora directamente con el Obispo en su misión pastoral.\n\nA diferencia del diácono, el presbítero sí participa del sacerdocio ministerial, lo que le permite actuar in persona Christi Capitis para consagrar la Eucaristía y absolver los pecados. Por otro lado, a diferencia del obispo, el presbítero no posee la plenitud del orden, por lo que sus facultades dependen de la comunión con su Pastor y no puede conferir el Sacramento del Orden (ordenar diáconos o sacerdotes) ni administrar habitualmente la Confirmación, además de estar llamado a guiar una comunidad parroquial específica y no una diócesis entera.",
+      "smId": "pj0p9g",
       "related": [
         "Obispo",
         "Diácono"
@@ -2317,6 +2122,7 @@
     {
       "word": "Propio",
       "definition": "Conjunto de textos y cantos de la liturgia que varían según el día, la festividad o el tiempo litúrgico (Adviento, Cuaresma, Pascua, Tiempo Ordinario). Comprende las oraciones presidenciales (Colecta, Ofrenda y Poscomunión), las lecturas bíblicas del Leccionario y las antífonas de entrada y comunión. Su función es resaltar el misterio específico de la vida de Cristo o la memoria de los santos que la Iglesia celebra en una fecha determinada.",
+      "smId": "pj0p9g",
       "related": [
         "ordinario"
       ]
@@ -2324,6 +2130,7 @@
     {
       "word": "Purificador",
       "definition": "El purificador es una pieza de lino de color blanco puro o cáñamo que se utiliza para limpiar el cáliz. Se pliega en tres capas. Se le puede labrar una pequeña cruz en su centro, para distinguirlo de las pequeñas toallas para los dedos usadas en el \"lavabo\", aunque esto no está prescrito. No se bendice. \n\nAntes de la Misa se coloca sobre el cáliz, y encima del purificador se dispone la patena con la hostia de mayor tamaño. En el ofertorio, antes de preparar el cáliz, se coloca a la derecha del corporal, y de ahí es tomado para ser usado por el sacerdote. Tras las abluciones, se vuelve a colocar encima del cáliz, como al inicio de la Misa.",
+      "smId": "pj0p9g",
       "image": "purificador.jpg",
       "contextImage": "panos_altar.jpg",
       "contextLabel": "+ ver los lienzos litúrgicos",
@@ -2335,50 +2142,47 @@
     },
     {
       "word": "Rúbicas",
-      "definition": "Significado etimológico: La palabra proviene del latín rubrica (que deriva de ruber, rojo). Recibe este nombre porque, en los libros litúrgicos impresos, estas instrucciones se escriben tradicionalmente en letras rojas para distinguirlas del texto que el sacerdote o la asamblea deben decir o cantar, el cual va impreso en letras negras.\n\nPropósito: Las rúbricas no contienen las oraciones en sí, sino las instrucciones operativas. Indican:\n\nGestos y posturas corporales: Cuándo ponerse de pie, de rodillas, sentarse, hacer una reverencia, extender las manos o hacer la señal de la cruz.\n\nAcciones rituales: Cuándo incensar el altar, verter el vino y el agua en el cáliz, lavar las manos o besar el altar.\n\nDesplazamientos y ministerios: Quién debe realizar cada acción (el sacerdote, el diácono, el acólito o el lector) y en qué lugar del presbiterio.\n\nOpciones permitidas: Cuándo se le permite al celebrante elegir entre diferentes fórmulas o moniciones alternativas dependiendo de las circunstancias pastorales.\n\nEn resumen: En los libros de liturgia rige un principio clásico: «Lo negro se dice (o canta), lo rojo se hace». Las rúbricas son precisamente «lo rojo», el mapa de acción que garantiza la solemnidad, el orden y la universalidad de la Misa."
-    },
-    {
-      "word": "Tiempo Ordinario",
-      "definition": "El Tiempo Ordinario es el tiempo litúrgico más extenso del año (consta de 33 o 34 semanas) y se divide en dos periodos: el primero se ubica entre la Navidad y la Cuaresma, y el segundo entre Pentecostés y el Adviento. Lejos de significar algo \"común\" o de menor importancia, la palabra ordinario proviene de \"orden\", indicando el caminar ordenado y progresivo de la Iglesia. Durante estas semanas, el color litúrgico es el verde y no se celebra un misterio único de la vida de Jesús, sino que se medita su vida pública, sus milagros y sus enseñanzas en su totalidad."
-    },
-    {
-      "word": "Transubstanciación",
-      "definition": "Decreto sobre la Eucaristía del Concilio de Trento: «Porque Cristo nuestro Redentor dijo que era verdaderamente su cuerpo lo que ofrecía bajo las especies del pan, siempre ha sido la convicción de la Iglesia de Dios, y este santo Concilio declara ahora de nuevo, que por la consagración del pan y el vino se produce un cambio de toda la sustancia del pan en la sustancia del cuerpo de Cristo nuestro Señor y de toda la sustancia del vino en la sustancia de su sangre. A este cambio la santa Iglesia Católica lo ha llamado apropiada y apropiadamente transubstanciación» (Concilio de Trento (1551): DS 1642, en CIC # 1376). \n\nTransubstanciación, un cambio de sustancia. La sustancia del pan y del vino se transforma en la sustancia de Cristo mismo (cuerpo, sangre, alma y divinidad), aunque el pan y el vino conservan sus propiedades o accidentes."
-    },
-    {
-      "word": "Vinajeras",
-      "definition": "Un pequeño envase para contener el vino y el agua requeridos para el Santo Sacrificio de la Misa. Siempre se usan dos. El Misal Romano (Rubricæ Gen., XX) prescribe que estén hechos de vidrio. Este es el material más adecuado porque se limpian fácilmente, y su transparencia evita el peligro de confundir el agua y el vino. Sin embargo, se usan otros materiales como oro, plata y otros metales preciosos. En este caso es aconsejable ponerle una V (Vinum) a la vinajera del vino y una A (aqua) a la del agua, para poder distinguirlas fácilmente.\n\nAntes de la Misa, deben colocarse sobre la credencia con suficiente agua y vino. De ahí son llevadas al altar para preparar el cáliz. Después, se regresan a la credencia. Si los fieles presentan el vino al sacerdote en el ofertorio, se colocan en una mesa fuera del presbiterio, donde las toman los fieles. Una vez preparado el cáliz, se llevan a la credencia.",
-      "image": "vinajeras.jpg"
-    },
-    {
-      "word": "Presbiterio",
-      "definition": "Es el área principal donde se desarrolla la liturgia, generalmente precedida por gradas o una barandilla para distinguirla de la nave central. Es donde se encuentra el Altar, la Sede —el asiento o cátedra del celebrante principal (sacerdote u obispo)—, el Ambón —el atril desde el cual se proclama la Palabra de Dios—, Credencia —una pequeña mesa auxiliar utilizada por los ministros—",
-      "related": [
-        "ambón"
-      ]
+      "definition": "Significado etimológico: La palabra proviene del latín rubrica (que deriva de ruber, rojo). Recibe este nombre porque, en los libros litúrgicos impresos, estas instrucciones se escriben tradicionalmente en letras rojas para distinguirlas del texto que el sacerdote o la asamblea deben decir o cantar, el cual va impreso en letras negras.\n\nPropósito: Las rúbricas no contienen las oraciones en sí, sino las instrucciones operativas. Indican:\n\nGestos y posturas corporales: Cuándo ponerse de pie, de rodillas, sentarse, hacer una reverencia, extender las manos o hacer la señal de la cruz.\n\nAcciones rituales: Cuándo incensar el altar, verter el vino y el agua en el cáliz, lavar las manos o besar el altar.\n\nDesplazamientos y ministerios: Quién debe realizar cada acción (el sacerdote, el diácono, el acólito o el lector) y en qué lugar del presbiterio.\n\nOpciones permitidas: Cuándo se le permite al celebrante elegir entre diferentes fórmulas o moniciones alternativas dependiendo de las circunstancias pastorales.\n\nEn resumen: En los libros de liturgia rige un principio clásico: «Lo negro se dice (o canta), lo rojo se hace». Las rúbricas son precisamente «lo rojo», el mapa de acción que garantiza la solemnidad, el orden y la universalidad de la Misa.",
+      "smId": "pj0p9g"
     },
     {
       "word": "Sagrario",
-      "definition": "El sagrario es el recinto en la Iglesia destinado para la reserva de la Eucaristía. No solo es sólo un lugar de resguardo, también es un espacio en el que los fieles podemos orar frente a Jesús.\n\nHasta el Concilio Vaticano II, las normas litúrgicas ordenaban que el Sagrario se colocara justo al centro del altar. \n\nActualmente, esto ha cambiado.\nIGMR 314. \"Para cualquier estructura de la iglesia y según las legítimas costumbres de los lugares, consérvese el Santísimo Sacramento en el Sagrario, en la parte más noble de la iglesia, insigne, visible, hermosamente adornada y apta para la oración. Como norma general, el tabernáculo debe ser uno solo, inamovible, elaborado de materia sólida e inviolable, no transparente y cerrado de tal manera que se evite al máximo el peligro de profanación. Conviene, además, que se bendiga según el rito descrito en el Ritual Romano antes de destinarlo al uso litúrgico.\"\n\nIGMR 316. \"Cerca del sagrario, según la costumbre tradicional, alumbre permanentemente una lámpara especial, alimentada con aceite o cera, por la cual se indique y honre la presencia de Cristo.\""
-    },
-    {
-      "word": "Gradual (Graduale Romanum)",
-      "definition": "El Gradual Romano (Graduale Romanum) es el libro litúrgico que contiene todas las partes de la misa que deben ser cantadas por el coro o la schola cantorum a lo largo del año (cantos de entrada, graduales, aleluyas, ofertorios y comunión). Sus textos están musicalizados casi en su totalidad en canto gregoriano con la notación de partitura clásica de cuatro líneas (tetragrama).\n\nHay otra versión llamada Graduale Simplex (Gradual Simple), creada después del Concilio Vaticano II, que ofrece melodías mucho más fáciles y accesibles para las parroquias que no tienen un coro profesional de canto gregoriano."
-    },
-    {
-      "word": "Exequias",
-      "definition": "Las exequias son el conjunto de ritos y oraciones que la Iglesia católica celebra ante el fallecimiento de un fiel. Su significado principal es celebrar el misterio pascual (pasión, muerte y resurrección de Cristo), despidiendo a la persona de la comunidad y encomendando su alma a la misericordia divina."
+      "definition": "El sagrario es el recinto en la Iglesia destinado para la reserva de la Eucaristía. No solo es sólo un lugar de resguardo, también es un espacio en el que los fieles podemos orar frente a Jesús.\n\nHasta el Concilio Vaticano II, las normas litúrgicas ordenaban que el Sagrario se colocara justo al centro del altar. \n\nActualmente, esto ha cambiado.\nIGMR 314. \"Para cualquier estructura de la iglesia y según las legítimas costumbres de los lugares, consérvese el Santísimo Sacramento en el Sagrario, en la parte más noble de la iglesia, insigne, visible, hermosamente adornada y apta para la oración. Como norma general, el tabernáculo debe ser uno solo, inamovible, elaborado de materia sólida e inviolable, no transparente y cerrado de tal manera que se evite al máximo el peligro de profanación. Conviene, además, que se bendiga según el rito descrito en el Ritual Romano antes de destinarlo al uso litúrgico.\"\n\nIGMR 316. \"Cerca del sagrario, según la costumbre tradicional, alumbre permanentemente una lámpara especial, alimentada con aceite o cera, por la cual se indique y honre la presencia de Cristo.\"",
+      "smId": "pj0p9g"
     },
     {
       "word": "Sede",
       "definition": "El asiento del sacerdote que preside una celebración litúrgica se llama sede. Debe de en un lugar idóneo que permita que el sacerdote sea visto como presidente de la asamblea y moderador de la oración. La Instrucción General del Misal Romano indica que su lugar más adecuado es vuelto hacia el pueblo, al fondo del presbiterio, a no ser que la estructura del edificio u otra circunstancia lo impidan, por ejemplo, si por la gran distancia se torna difícil la comunicación entre el sacerdote y la asamblea congregada, o si el tabernáculo está situado en la mitad, detrás del altar (n. 310).\n\nEn las catedral de cada diócesis, en vez de una sede hay una cátedra, signo del magisterio y de la potestad del pastor de la Iglesia particular, y signo de la unidad de los creyentes en la fe que el obispo anuncia como pastor de su grey.\n\nEn la cátedra solo puede sentarse el obispo diocesano, pero puede permitir que otro obispo se siente en ella (Ceremonial de Obispos nn. 47 y 174). Si un obispo celebra en una catedral que no es la suya, o un presbiterio celebra en la catedral, debe sentarse en una silla distinta a la cátedra, que debe de preparársele para ese efecto.",
+      "smId": "pj0p9g",
       "related": [
         "ambón"
       ]
     },
     {
-      "word": "Altar",
-      "definition": "El altar es la mesa de sacrificio y de banquete en el que el sacerdote, representando a Cristo el Señor, hace lo mismo que Él hizo y ordenó a sus discípulos que los hicieran en su memoria.\n\nCristo, el Señor, al instituir el memorial del sacrificio que había de ofrecer al Padre en el ara de la cruz, bajo la forma de un banquete sacrificial, convirtiera en sagrada la mesa alrededor de la cual se reunirían los fieles para celebrar su Pascua. En efecto, el altar es mesa de sacrificio y de banquete en la que el sacerdote, representando a Cristo el Señor, hace lo mismo que él hizo y ordenó a sus discípulos que lo hicieran en su memoria. Todo esto fue resumido admirablemente por el Apóstol San Pablo, cuando dice: «El cáliz de bendición que bendecimos, ¿no es acaso comunión con la sangre de Cristo?; y el pan que partimos ¿no es comunión con el cuerpo de Cristo? Ya que hay un solo pan, aunque somos muchos, todos nosotros formamos un solo cuerpo, porque participamos de un único pan» (I Cor 10,16-17)."
+      "word": "Tiempo Ordinario",
+      "definition": "El Tiempo Ordinario es el tiempo litúrgico más extenso del año (consta de 33 o 34 semanas) y se divide en dos periodos: el primero se ubica entre la Navidad y la Cuaresma, y el segundo entre Pentecostés y el Adviento. Lejos de significar algo \"común\" o de menor importancia, la palabra ordinario proviene de \"orden\", indicando el caminar ordenado y progresivo de la Iglesia. Durante estas semanas, el color litúrgico es el verde y no se celebra un misterio único de la vida de Jesús, sino que se medita su vida pública, sus milagros y sus enseñanzas en su totalidad.",
+      "smId": "pj0p9g"
+    },
+    {
+      "word": "Transubstanciación",
+      "definition": "Decreto sobre la Eucaristía del Concilio de Trento: «Porque Cristo nuestro Redentor dijo que era verdaderamente su cuerpo lo que ofrecía bajo las especies del pan, siempre ha sido la convicción de la Iglesia de Dios, y este santo Concilio declara ahora de nuevo, que por la consagración del pan y el vino se produce un cambio de toda la sustancia del pan en la sustancia del cuerpo de Cristo nuestro Señor y de toda la sustancia del vino en la sustancia de su sangre. A este cambio la santa Iglesia Católica lo ha llamado apropiada y apropiadamente transubstanciación» (Concilio de Trento (1551): DS 1642, en CIC # 1376). \n\nTransubstanciación, un cambio de sustancia. La sustancia del pan y del vino se transforma en la sustancia de Cristo mismo (cuerpo, sangre, alma y divinidad), aunque el pan y el vino conservan sus propiedades o accidentes.",
+      "smId": "pj0p9g"
+    },
+    {
+      "word": "Vinajeras",
+      "definition": "Un pequeño envase para contener el vino y el agua requeridos para el Santo Sacrificio de la Misa. Siempre se usan dos. El Misal Romano (Rubricæ Gen., XX) prescribe que estén hechos de vidrio. Este es el material más adecuado porque se limpian fácilmente, y su transparencia evita el peligro de confundir el agua y el vino. Sin embargo, se usan otros materiales como oro, plata y otros metales preciosos. En este caso es aconsejable ponerle una V (Vinum) a la vinajera del vino y una A (aqua) a la del agua, para poder distinguirlas fácilmente.\n\nAntes de la Misa, deben colocarse sobre la credencia con suficiente agua y vino. De ahí son llevadas al altar para preparar el cáliz. Después, se regresan a la credencia. Si los fieles presentan el vino al sacerdote en el ofertorio, se colocan en una mesa fuera del presbiterio, donde las toman los fieles. Una vez preparado el cáliz, se llevan a la credencia.",
+      "smId": "pj0p9g",
+      "image": "vinajeras.jpg"
+    },
+    {
+      "word": "TEST",
+      "definition": "tewrewrewrewrer\nwe\nrew\nr\newr",
+      "smId": "9x09kl"
+    },
+    {
+      "word": "test2",
+      "definition": "rwerwere",
+      "smId": "mk3o08"
     }
   ],
   "documents": [
@@ -3980,7 +3784,8 @@
           "num": "399",
           "text": "Y así el Misal Romano, aunque en la diversidad de lenguas y con cierta diversidad de costumbres,[165] debe conservarse en adelante como instrumento y signo preclaro de la integridad y la unidad del Rito Romano.[166]"
         }
-      ]
+      ],
+      "smId": "pj0p9g"
     },
     {
       "id": "taq0vi",
@@ -4016,15 +3821,16 @@
           "num": "10",
           "text": "No obstante, la Liturgia es la cumbre a la cual tiende la actividad de la Iglesia y al mismo tiempo la fuente de donde mana toda su fuerza. Pues los trabajos apostólicos se ordenan a que, una vez hechos hijos de Dios por la fe y el bautismo, todos se reúnan para alabar a Dios en medio de la Iglesia, participen en el sacrificio y coman la cena del Señor. Por su parte, la Liturgia misma impulsa a los fieles a que, saciados \"con los sacramentos pascuales\", sean \"concordes en la piedad\"; ruega a Dios que \"conserven en su vida lo que recibieron en la fe\", y la renovación de la Alianza del Señor con los hombres en la Eucaristía enciende y arrastra a los fieles a la apremiante caridad de Cristo. Por tanto, de la Liturgia, sobre todo de la Eucaristía, mana hacia nosotros la gracia como de su fuente y se obtiene con la máxima eficacia aquella santificación de los hombres en Cristo y aquella glorificación de Dios, a la cual las demás obras de la Iglesia tienden como a su fin."
         }
-      ]
+      ],
+      "smId": "pj0p9g"
     }
   ],
   "appInfo": {
     "name": "La Misa Explicada",
-    "tagline": "Formación LITURGICA",
+    "tagline": "",
     "description": "Conoce la belleza y verdad de la Liturgia Católica.",
     "footerText": "\"Ite, Missa est\" La Misa ha terminado. Hemos sido enviados.",
-    "version": "1.1.2",
+    "version": "1.5",
     "imageBlockAnimation": "slideUpFade",
     "headerImageAnimation": "none",
     "imageBlockAnimDelay": 100,
@@ -4033,20 +3839,885 @@
     "headingFontSizePhone": 22,
     "headingFontSizeTablet": 28,
     "headingColor": "#B5922A",
-    "cardDesign": "B",
-    "portadaDesign": "B",
     "noteFontSizeDelta": -1,
     "noteAsSheet": true,
     "headerImageParallax": true,
     "imageBlockParallax": true,
-    "imgSliderTextAnimation": "slideUpFade"
+    "imgSliderTextAnimation": "slideUpFade",
+    "portadaDesign": "B",
+    "cardDesign": "B"
   },
   "modules": {
     "defsInFAB": false,
     "defsAsCard": true,
     "infoLinkId": "fab-informacion",
     "liturgyHoursLinkId": "xcjae8",
-    "testGroupId": "xb4gw3"
+    "testGroupId": null
   },
-  "contentLastEdited": "2026-07-27T20:35:48.496Z"
+  "contentLastEdited": "2026-07-31T19:19:53.708Z",
+  "masterSections": [
+    {
+      "id": "pj0p9g",
+      "name": "La Misa Explicada",
+      "homeCard": {
+        "title": "La Misa Explicada",
+        "subtitle": "Comprende cada parte y vive la Eucaristía",
+        "image": "Widget_MISA.png",
+        "icon": "consagracion",
+        "design": "MA"
+      },
+      "homePresentation": "hero",
+      "portadaDesign": "B",
+      "cardDesign": "B",
+      "legacyTree": true
+    },
+    {
+      "id": "mk3o08",
+      "name": "Pruebas",
+      "homeCard": {
+        "title": "Pruebas",
+        "subtitle": "",
+        "image": "",
+        "icon": "consagracion",
+        "design": "MA"
+      },
+      "homePresentation": "hero",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "pruebas": true,
+      "sections": [
+        {
+          "id": "xb4gw3",
+          "type": "section",
+          "tag": "Nueva",
+          "title": "PRUEBAS CARLOS",
+          "subtitle": "Descripción",
+          "color": "#8B1A1A",
+          "icon": "+",
+          "image": "Basilica-San-Francisco-de-Asis_Colecta.jpg",
+          "cardImage": "Basilica-San-Francisco-de-Asis_Colecta.jpg",
+          "content": [
+            {
+              "type": "text",
+              "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n«En este divino sacrificio que se hace en la Misa, se contiene y sacrifica incruentamente aquel mismo Cristo que se ofreció por una vez cruentamente en el ara de la cruz» —==Concilio de trneto==\n\n\n"
+            },
+            {
+              "type": "audio",
+              "value": "hauntsync-gregorian-chant-private-prayer-to-mary-337672.mp3",
+              "title": "",
+              "caption": ""
+            },
+            {
+              "type": "image360",
+              "value": "Panorama360_1.jpg",
+              "caption": ""
+            },
+            {
+              "type": "video",
+              "value": "RS8NrJ0Y5O8",
+              "caption": ""
+            },
+            {
+              "type": "text",
+              "value": "La Misa es, a la vez e inseparablemente, el memorial sacrificial en que se perpetúa el sacrificio de la cruz, y el banquete sagrado de la comunión en el Cuerpo y la Sangre del Señor. Pero la celebración del sacrificio eucarístico está totalmente orientada hacia la unión íntima de los fieles con Cristo por medio de la comunión. Comulgar es recibir a Cristo mismo que se ofrece por nosotros.\n\nEn la Misa, Cristo está presente de un modo especial:\n\n- En su Palabra, porque Él mismo habla cuando se leen las Escrituras\n- En el sacrificio, por el ministerio de la Iglesia\n- Y especialmente bajo las especies eucarísticas\n- Cuando la Iglesia suplica y canta salmos\n\nFinalmente, la Misa no termina en el altar: concluye con el envío (missio), para que los fieles cumplan la voluntad de Dios en su vida diaria. Así, la Misa es memoria que salva, comunión que transforma y misión que ilumina el mundo. sds\n\n«En este divino sacrificio que se hace en la Misa, se contiene y sacrifica incruentamente aquel mismo Cristo que se ofreció por una vez cruentamente en el ara de la cruz.»"
+            }
+          ],
+          "subsections": [
+            {
+              "id": "oft1pu",
+              "type": "article",
+              "tag": "Nueva",
+              "title": "Pruebas",
+              "subtitle": "Descripción",
+              "color": "#2A5F8B",
+              "icon": "+",
+              "image": "10-1940-dig-01-o3.jpg",
+              "cardImage": "10-1940-dig-01-o3.jpg",
+              "youtubeId": null,
+              "keyPoints": [
+                "Testing"
+              ],
+              "content": [
+                {
+                  "type": "heading",
+                  "value": "Testing"
+                },
+                {
+                  "type": "text",
+                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+                },
+                {
+                  "type": "video",
+                  "value": "",
+                  "caption": ""
+                },
+                {
+                  "type": "text",
+                  "value": "**Lorem** ipsum dolor sit amet consectetur _adipiscing_ elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n`Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.` \n\nLorem ipsum dolor sit ^^amet consectetur adipiscing elit. Quisque faucibus ex sapien^^ vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n{{leermas}}\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n"
+                },
+                {
+                  "type": "text",
+                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n@@Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.@@\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n%%Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.%%"
+                },
+                {
+                  "type": "image",
+                  "value": "305165639_n.jpg",
+                  "caption": ""
+                },
+                {
+                  "type": "image",
+                  "value": "305165639_n.jpg",
+                  "caption": "",
+                  "size": "original"
+                },
+                {
+                  "type": "image",
+                  "value": "305165639_n.jpg",
+                  "caption": "",
+                  "size": "small"
+                },
+                {
+                  "type": "text",
+                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos [[himenaeos|Cáliz]].\n\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. {{Tempus leo eu aenean|qolj09|45,378,34}} sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n![img:aberystwyth-university-school-of-art-museum-and-galleries.jpg|left|w:38%]\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+                },
+                {
+                  "type": "popover",
+                  "icon": "🔔",
+                  "title": "pop over 1",
+                  "text": "",
+                  "tabs": [
+                    {
+                      "label": "Tab 1",
+                      "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n@@Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.@@\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n%%Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.%%"
+                    },
+                    {
+                      "label": "Tab 2",
+                      "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos ⟨himenaeos⟩.\n\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. {{Tempus leo eu aenean|qolj09|45,378,34}} sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n![img:aberystwyth-university-school-of-art-museum-and-galleries.jpg|left|w:38%]\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+                    },
+                    {
+                      "label": "Tab 3",
+                      "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n![slider:square|annie-williams-oKQWqShxjXY-unsplash.jpg;;Basilica-Guadalupe-Misa.jpg;;Basilica-San-Francisco-de-Asis_Colecta.jpg;;Agnus_Konstantin_Korobov.jpg]"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n![slider:square|annie-williams-oKQWqShxjXY-unsplash.jpg;;Basilica-Guadalupe-Misa.jpg;;Basilica-San-Francisco-de-Asis_Colecta.jpg;;Agnus_Konstantin_Korobov.jpg]"
+                },
+                {
+                  "type": "text",
+                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n![flip:horizontal|100|left|10-1940-dig-01-o3.jpg~|text|Dios es Dios~Cristo es Dios~dark]"
+                },
+                {
+                  "type": "quote",
+                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. ",
+                  "author": "autor"
+                },
+                {
+                  "type": "separator"
+                },
+                {
+                  "type": "tabs",
+                  "tabs": [
+                    {
+                      "label": "Tab 1",
+                      "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+                    },
+                    {
+                      "label": "Tab 2",
+                      "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+                    }
+                  ]
+                },
+                {
+                  "type": "button",
+                  "label": "",
+                  "dest": "url",
+                  "value": "",
+                  "style": "solid",
+                  "align": "center"
+                },
+                {
+                  "type": "icontext",
+                  "icon": "📌",
+                  "title": "sdsdslkdsldksl",
+                  "text": "s´ñdlsdsadsdsd sadsa\ndsdsadsadsa\ndsadsadsadsadd\nasd\nsad\nsad"
+                },
+                {
+                  "type": "accordion",
+                  "title": "sdsadas",
+                  "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus **bibendum** egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia _nostra_ inceptos himenaeos.\n\n![img:SJuan_Raul_Berzosa.jpg|left|w:38%]\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+                },
+                {
+                  "type": "imageleft",
+                  "value": "diocesi-di-roma-23.jpg",
+                  "caption": "sds",
+                  "text": "sdsds sdsdLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n\n![slider:square|annie-williams-oKQWqShxjXY-unsplash.jpg;;Basilica-Guadalupe-Misa.jpg;;Basilica-San-Francisco-de-Asis_Colecta.jpg;;Agnus_Konstantin_Korobov.jpg]"
+                },
+                {
+                  "type": "imgslider",
+                  "shape": "vertical",
+                  "images": [
+                    {
+                      "value": "acerca.jpg",
+                      "title": "sdsd"
+                    },
+                    {
+                      "value": "Agnus_Konstantin_Korobov.jpg",
+                      "title": "sdsds"
+                    }
+                  ]
+                },
+                {
+                  "type": "bibliography",
+                  "value": "sdsdsdsds"
+                },
+                {
+                  "type": "sliderquotes",
+                  "quotes": [
+                    {
+                      "text": "sdsd",
+                      "author": "sdsd"
+                    },
+                    {
+                      "text": "sdsdsd",
+                      "author": "sds"
+                    },
+                    {
+                      "text": "sdsds",
+                      "author": "sdsds"
+                    }
+                  ]
+                },
+                {
+                  "type": "mosaic",
+                  "caption": "",
+                  "images": [
+                    {
+                      "value": "jan-cornelisz-vermeyen-la-santisima-trinidad.jpg"
+                    },
+                    {
+                      "value": "490838200-18062625386101198-8924686681594670110-n.jpg"
+                    },
+                    {
+                      "value": "20180323-121340-20180321t0843.jpg"
+                    }
+                  ]
+                },
+                {
+                  "type": "strip",
+                  "images": [
+                    {
+                      "value": "305165639_n.jpg"
+                    },
+                    {
+                      "value": "480652531_n2.jpg"
+                    },
+                    {
+                      "value": "acerca.jpg"
+                    },
+                    {
+                      "value": "bendicion.jpg"
+                    },
+                    {
+                      "value": "gabriella-clare-marino-uYbE4uedh20-unsplash.jpg"
+                    },
+                    {
+                      "value": "lapaz.jpg"
+                    }
+                  ]
+                },
+                {
+                  "type": "autocredit",
+                  "value": "Dig\nDesconocido\nDesconocido\nDesconocido\nAberystwyth University School Of Art Museum And Galleries\nAberystwyth University School Of Art Museum And Galleries\nSJuan Raul Berzosa\nsds\nAcerca\nAgnus Konstantin Korobov\nJan Cornelisz Vermeyen La Santisima Trinidad\nDesconocido\nDesconocido\nDesconocido\nDesconocido\nAcerca\nBendicion\nGabriella Clare Marino / Unsplash\nLapaz"
+                },
+                {
+                  "type": "recommendations",
+                  "icon": "📜",
+                  "title": "Recomendaciones",
+                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n![slider:square|annie-williams-oKQWqShxjXY-unsplash.jpg;;Basilica-Guadalupe-Misa.jpg;;Basilica-San-Francisco-de-Asis_Colecta.jpg;;Agnus_Konstantin_Korobov.jpg]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "todos-los-bloques",
+          "type": "article",
+          "tag": "Pruebas",
+          "title": "TODOS LOS BLOQUES",
+          "subtitle": "Un bloque de cada tipo registrado en BLOCK_REGISTRY — usar para probar renderers",
+          "color": "#8B1A1A",
+          "icon": "🧩",
+          "image": "Comunion3.jpg",
+          "cardImage": "Comunion3.jpg",
+          "youtubeId": null,
+          "keyPoints": [
+            "Texto e inline",
+            "Imágenes",
+            "Video y audio"
+          ],
+          "content": [
+            {
+              "type": "heading",
+              "value": "Texto e inline"
+            },
+            {
+              "type": "text",
+              "value": "Este párrafo tiene **negrita**, _itálica_ y un término de glosario: el [[Ambón|Ambón]] es donde se proclama la Palabra.\n\n^^Esta nota entera va envuelta en doble acento circunflejo, como indica la guía de contenido.^^"
+            },
+            {
+              "type": "quote",
+              "value": "Bienaventurados los que son invitados a la cena del Cordero.",
+              "author": "Apocalipsis 19,9"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Rito",
+                  "Momento"
+                ],
+                [
+                  "Ritos Iniciales",
+                  "Apertura"
+                ],
+                [
+                  "Liturgia de la Palabra",
+                  "Lecturas"
+                ],
+                [
+                  "Liturgia Eucarística",
+                  "Consagración"
+                ]
+              ],
+              "hasHeader": true,
+              "hasFooter": false,
+              "footerText": "",
+              "hAlign": "left",
+              "vAlign": "center"
+            },
+            {
+              "type": "faq",
+              "title": "Preguntas frecuentes",
+              "items": [
+                {
+                  "q": "¿Qué es la Misa?",
+                  "a": "El memorial sacrificial de la Cruz y banquete de comunión."
+                },
+                {
+                  "q": "¿Por qué se guarda silencio?",
+                  "a": "Para disponer el corazón al Misterio que se celebra."
+                }
+              ]
+            },
+            {
+              "type": "tabs",
+              "tabs": [
+                {
+                  "label": "Forma ordinaria",
+                  "value": "La Misa según el Misal Romano de Pablo VI, en lengua vernácula."
+                },
+                {
+                  "label": "Forma extraordinaria",
+                  "value": "La Misa según el Misal Romano de 1962, en latín, de cara al Oriente."
+                }
+              ]
+            },
+            {
+              "type": "accordion",
+              "title": "¿Sabías que...?",
+              "text": "El incienso simboliza las oraciones de los fieles que suben hasta la presencia de Dios (Sal 141,2)."
+            },
+            {
+              "type": "popover",
+              "icon": "📖",
+              "title": "Formularios del saludo inicial",
+              "text": "",
+              "tabs": [
+                {
+                  "label": "Formulario A",
+                  "value": "«La gracia de nuestro Señor Jesucristo... esté con todos vosotros»."
+                },
+                {
+                  "label": "Formulario B",
+                  "value": "«El Señor esté con vosotros»."
+                }
+              ]
+            },
+            {
+              "type": "sliderquotes",
+              "quotes": [
+                {
+                  "text": "El silencio es el lenguaje de Dios; todo lo demás es mala traducción.",
+                  "author": "San Juan de la Cruz"
+                },
+                {
+                  "text": "Dame la Eucaristía y el paraíso me basta.",
+                  "author": "San Felipe Neri"
+                }
+              ]
+            },
+            {
+              "type": "button",
+              "label": "Leer la IGMR completa",
+              "dest": "url",
+              "value": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_sp.html",
+              "style": "solid",
+              "align": "center"
+            },
+            {
+              "type": "separator"
+            },
+            {
+              "type": "icontext",
+              "icon": "🕯️",
+              "title": "Cirio pascual",
+              "text": "Símbolo de Cristo resucitado, luz que vence las tinieblas."
+            },
+            {
+              "type": "recommendations",
+              "icon": "📖",
+              "title": "Recomendaciones",
+              "value": "Catecismo de la Iglesia Católica, nn. 1345-1355.\nSacrosanctum Concilium, cap. II."
+            },
+            {
+              "type": "bibliography",
+              "value": "Catecismo de la Iglesia Católica (CEC) 1345-1355.\nInstrucción General del Misal Romano (IGMR)."
+            },
+            {
+              "type": "document",
+              "documentId": "qolj09"
+            },
+            {
+              "type": "heading",
+              "value": "Imágenes"
+            },
+            {
+              "type": "image",
+              "value": "Comunion3.jpg",
+              "caption": "La sagrada comunión."
+            },
+            {
+              "type": "imageleft",
+              "value": "Persignarse.jpg",
+              "caption": "Persignarse",
+              "text": "Al comenzar la Misa, el fiel se persigna en memoria de su Bautismo."
+            },
+            {
+              "type": "photocredit",
+              "value": "Foto: archivo parroquial, dominio público."
+            },
+            {
+              "type": "gallery",
+              "images": [
+                {
+                  "value": "SHARE_1.jpg",
+                  "caption": "Detalle 1"
+                },
+                {
+                  "value": "SHARE_2.jpg",
+                  "caption": "Detalle 2"
+                }
+              ],
+              "animation": "slide"
+            },
+            {
+              "type": "mosaic",
+              "caption": "Momentos de la Misa",
+              "images": [
+                {
+                  "value": "WIDGET_HOY_1.jpg"
+                },
+                {
+                  "value": "WIDGET_HOY_2.jpg"
+                },
+                {
+                  "value": "WIDGET_HOY_3.jpg"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "Strip con 7 fotos — la 4ª muestra +N."
+            },
+            {
+              "type": "strip",
+              "images": [
+                {
+                  "value": "WIDGET_HOY_1.jpg"
+                },
+                {
+                  "value": "WIDGET_HOY_2.jpg"
+                },
+                {
+                  "value": "WIDGET_HOY_3.jpg"
+                },
+                {
+                  "value": "WIDGET_HOY_4.jpg"
+                },
+                {
+                  "value": "WIDGET_HOY_5.jpg"
+                },
+                {
+                  "value": "WIDGET_HOY_6.jpg"
+                },
+                {
+                  "value": "WIDGET_HOY_7.jpg"
+                }
+              ]
+            },
+            {
+              "type": "imgslider",
+              "shape": "square",
+              "images": [
+                {
+                  "value": "gestos9.jpg",
+                  "title": "Gesto 1",
+                  "caption": "Inclinación"
+                },
+                {
+                  "value": "reverencia.jpg",
+                  "title": "Gesto 2",
+                  "caption": "Reverencia"
+                }
+              ]
+            },
+            {
+              "type": "flipcard",
+              "shape": "square",
+              "value": "santiguarse.jpg",
+              "caption": "Frente",
+              "backType": "text",
+              "backValue": "",
+              "backCaption": "",
+              "title": "¿Sabías qué?",
+              "text": "El dorso de esta tarjeta muestra texto en vez de imagen.",
+              "backTheme": "dark"
+            },
+            {
+              "type": "hotspots",
+              "value": "Altar_Completo.jpg",
+              "caption": "El presbiterio",
+              "hotspots": [
+                {
+                  "x": 30,
+                  "y": 35,
+                  "title": "Ambón",
+                  "text": "Desde aquí se proclama la Palabra de Dios."
+                },
+                {
+                  "x": 65,
+                  "y": 50,
+                  "title": "Altar",
+                  "text": "Mesa del sacrificio eucarístico."
+                },
+                {
+                  "x": 50,
+                  "y": 82,
+                  "title": "Sede",
+                  "text": "Asiento del que preside la celebración."
+                }
+              ]
+            },
+            {
+              "type": "image360",
+              "value": "Panorama360_1.jpg",
+              "caption": "La nave central en 360° — arrastra para mirar alrededor."
+            },
+            {
+              "type": "heading",
+              "value": "Video y audio"
+            },
+            {
+              "type": "video",
+              "value": "dQw4w9WgXcQ",
+              "caption": "Video de YouTube de prueba",
+              "start": 30
+            },
+            {
+              "type": "video",
+              "value": "https://www.w3schools.com/html/mov_bbb.mp4",
+              "caption": "Video de archivo remoto (muestra pública, solo dev)",
+              "source": "file",
+              "poster": "Comunion3.jpg",
+              "muted": true
+            },
+            {
+              "type": "audio",
+              "value": "https://www.w3schools.com/html/horse.mp3",
+              "title": "Audio de prueba",
+              "caption": "Muestra remota de dominio público (solo dev)"
+            },
+            {
+              "type": "autocredit",
+              "value": "Desconocido\nLa sagrada comunión.\nPersignarse\nDetalle 1\nDetalle 2\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nInclinación\nReverencia\nFrente\nEl presbiterio\nLa nave central en 360° — arrastra para mirar alrededor.\nDesconocido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1bdqt",
+      "name": "El Arte en la Iglesia",
+      "homeCard": {
+        "title": "El Arte en la Iglesia",
+        "subtitle": "",
+        "image": "Arte-iglesia-duccio.jpg",
+        "icon": "consagracion",
+        "design": "MB"
+      },
+      "homePresentation": "strip",
+      "stripId": "t4msq6",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "badge": "proximamente",
+      "badgeUntil": "2027-01-30",
+      "sections": [
+        {
+          "id": "m9htm1",
+          "type": "article",
+          "tag": "Nueva",
+          "title": "Nueva sección",
+          "subtitle": "Descripción",
+          "color": "#8B1A1A",
+          "icon": "+",
+          "image": "basilica-san-francisco-de-asis-francisco-de-asis.jpg",
+          "cardImage": "basilica-san-francisco-de-asis-francisco-de-asis.jpg",
+          "cardImageAlign": "top",
+          "youtubeId": null,
+          "keyPoints": [
+            "dsdfds"
+          ],
+          "content": [
+            {
+              "type": "heading",
+              "value": "dsdfds"
+            },
+            {
+              "type": "text",
+              "value": "fsdfsdfsdfdsfdsfdsfdsf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q55j45",
+      "name": "Blog",
+      "homeCard": {
+        "title": "Blog",
+        "subtitle": "",
+        "image": "San-agustin-estudiando.jpg",
+        "icon": "consagracion",
+        "design": "MB"
+      },
+      "homePresentation": "blog",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "badge": "proximamente",
+      "badgeUntil": "2026-12-10",
+      "sections": [
+        {
+          "id": "kmshys",
+          "type": "article",
+          "tag": "",
+          "title": "Inclinaciones en la Misa",
+          "subtitle": "Descripción",
+          "color": "#8B1A1A",
+          "icon": "+",
+          "image": "305165639_n.jpg",
+          "cardImage": "20180323-121340-20180321t0843.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi corazón”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de acercarse a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
+            }
+          ]
+        },
+        {
+          "id": "bi45rb",
+          "type": "article",
+          "tag": "",
+          "title": "Inclinaciones en la Misa (copia)",
+          "subtitle": "Descripción",
+          "color": "#8B1A1A",
+          "icon": "+",
+          "image": "305165639_n.jpg",
+          "cardImage": "20180323-121340-20180321t0843.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi corazón”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de acercarse a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9x09kl",
+      "name": "PRUEBA 2",
+      "homeCard": {
+        "title": "PRUEBA 2",
+        "subtitle": "",
+        "image": "annie-williams-oKQWqShxjXY-unsplash.jpg",
+        "icon": "consagracion",
+        "design": "MB"
+      },
+      "homePresentation": "hero",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "pruebas": true,
+      "badge": "nuevo",
+      "badgeUntil": "2026-08-30",
+      "sections": [
+        {
+          "id": "9accs8",
+          "type": "article",
+          "tag": "Nueva",
+          "title": "Nueva sección",
+          "subtitle": "Descripción",
+          "color": "#8B1A1A",
+          "icon": "+",
+          "image": "305165639_n.jpg",
+          "cardImage": "20180323-121340-20180321t0843.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "sdsdswdasfafs"
+            }
+          ]
+        },
+        {
+          "id": "xqqy7t",
+          "type": "article",
+          "tag": "",
+          "title": "Inclinaciones en la Misa (copia) (copia)",
+          "subtitle": "Descripción",
+          "color": "#8B1A1A",
+          "icon": "+",
+          "image": "305165639_n.jpg",
+          "cardImage": "20180323-121340-20180321t0843.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi [[corazón|TEST]]”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de [[acercarse|test2]] a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "homeLayout": [
+    {
+      "type": "hero",
+      "smId": "pj0p9g"
+    },
+    {
+      "type": "strip",
+      "id": "t4msq6",
+      "title": "Más secciones"
+    },
+    {
+      "type": "blog",
+      "smId": "q55j45"
+    },
+    {
+      "type": "hero",
+      "smId": "mk3o08"
+    }
+  ],
+  "features": {
+    "shareWidget": "dev",
+    "shareNotes": "dev",
+    "notifPrePrompt": "dev"
+  },
+  "shareImages": [
+    "SHARE_1.jpg",
+    "SHARE_2.jpg",
+    "SHARE_3.jpg",
+    "SHARE_4.jpg",
+    "SHARE_5.jpg",
+    "SHARE_6.jpg",
+    "SHARE_7.jpg",
+    "SHARE_8.jpg",
+    "SHARE_9.jpg",
+    "share-10.jpg"
+  ],
+  "widgetImages": {
+    "rotation": [
+      "WIDGET_HOY_1.jpg",
+      "WIDGET_HOY_2.jpg",
+      "WIDGET_HOY_3.jpg",
+      "WIDGET_HOY_4.jpg",
+      "WIDGET_HOY_5.jpg",
+      "WIDGET_HOY_6.jpg",
+      "WIDGET_HOY_7.jpg",
+      "WIDGET_HOY_8.jpg",
+      "WIDGET_HOY_9.jpg",
+      "WIDGET_HOY_10.jpg",
+      "WIDGET_HOY_11.jpg",
+      "WIDGET_HOY_12.jpg",
+      "WIDGET_HOY_13.jpg",
+      "WIDGET_HOY_14.jpg",
+      "WIDGET_HOY_15.jpg",
+      "WIDGET_HOY_16.jpg",
+      "WIDGET_HOY_17.jpg",
+      "WIDGET_HOY_18.jpg",
+      "WIDGET_HOY_19.jpg",
+      "WIDGET_HOY_20.jpg",
+      "WIDGET_HOY_21.jpg",
+      "WIDGET_HOY_22.jpg",
+      "WIDGET_HOY_23.jpg",
+      "WIDGET_HOY_24.jpg",
+      "WIDGET_HOY_25.jpg",
+      "WIDGET_HOY_26.jpg",
+      "WIDGET_HOY_27.jpg",
+      "WIDGET_HOY_28.jpg",
+      "WIDGET_HOY_29.jpg",
+      "WIDGET_HOY_30.jpg",
+      "WIDGET_HOY_31.jpg",
+      "WIDGET_HOY_32.jpg",
+      "WIDGET_HOY_33.jpg",
+      "WIDGET_HOY_34.jpg",
+      "WIDGET_HOY_35.jpg",
+      "WIDGET_HOY_36.jpg",
+      "WIDGET_HOY_37.jpg",
+      "WIDGET_HOY_38.jpg",
+      "WIDGET_HOY_39.jpg",
+      "WIDGET_HOY_40.jpg",
+      "WIDGET_HOY_41.jpg",
+      "WIDGET_HOY_42.jpg",
+      "WIDGET_HOY_43.jpg",
+      "WIDGET_HOY_44.jpg",
+      "WIDGET_HOY_45.jpg",
+      "WIDGET_HOY_46.jpg",
+      "WIDGET_HOY_47.jpg",
+      "WIDGET_HOY_48.jpg",
+      "WIDGET_HOY_49.jpg",
+      "WIDGET_HOY_50.jpg",
+      "WIDGET_HOY_51.jpg",
+      "WIDGET_HOY_52.jpg"
+    ],
+    "specials": {
+      "María, Madre de Dios": "WIDGET_ESPECIAL_MADREDEDIOS.jpg",
+      "Anunciación": "WIDGET_ESPECIAL_ANUNCIACION.jpg",
+      "La Asunción de la Santísima Virgen María": "WIDGET_ESPECIAL_ASUNCION.jpg",
+      "Todos los Santos": "WIDGET_ESPECIAL_TODOSSANTOS.jpg",
+      "Jesucristo, Rey del Universo": "WIDGET_ESPECIAL_CRISTOREY.jpg",
+      "Inmaculada Concepción de María": "WIDGET_ESPECIAL_INMACULADA.jpg",
+      "Nuestra Señora de Guadalupe, Patrona de América": "WIDGET_ESPECIAL_GUADALUPE.jpg",
+      "Navidad": "WIDGET_ESPECIAL_NAVIDAD.jpg",
+      "Pentecostés": "widget-especial-apentecostes.jpg"
+    },
+    "marianFallback": "WIDGET_ESPECIAL_VIRGEN.jpg"
+  }
 }
