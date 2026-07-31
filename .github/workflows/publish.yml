@@ -28,6 +28,15 @@ on:
       - "*.jpeg"
       - "*.png"
       - "*.webp"
+      # Canal de media (audio/video) -- mismas extensiones que MEDIA_EXT_RE
+      # en migracion/publish-content.mjs; mantener en sintonía.
+      - "*.mp3"
+      - "*.m4a"
+      - "*.wav"
+      - "*.aac"
+      - "*.mp4"
+      - "*.mov"
+      - "*.m4v"
 
 permissions:
   contents: write
@@ -59,5 +68,6 @@ jobs:
             homilies.json santoral_sanctus.json liturgiaplus_biografias.json \
             hours-patch.json readings-patch.json \
             *.jpg *.jpeg *.png *.webp \
+            *.mp3 *.m4a *.wav *.aac *.mp4 *.mov *.m4v \
             --title "Contenido v${{ steps.meta.outputs.version }} (build ${{ github.run_number }})" \
             --notes "Publicado automáticamente al actualizar el contenido editorial. 'latest' apunta aquí."
