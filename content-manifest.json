@@ -1,12 +1,12 @@
 {
-  "contentVersion": 5,
+  "contentVersion": 6,
   "minSchema": 1,
-  "generatedAt": "2026-07-31",
+  "generatedAt": "2026-08-01",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
   "bundle": {
     "file": "content_bundle.json",
-    "bytes": 479220,
-    "sha256": "cbd858553815d2b5b3694c70b18886a502451b06b701f8b9342d94ee909dde58"
+    "bytes": 479457,
+    "sha256": "fe7986b462d1b94500292977556672893d5c2f9f1c035ecbb1ad876b4011df27"
   },
   "images": [
     {
@@ -635,6 +635,11 @@
       "sha256": "e643c7e4295c82118fa4b19eab17e83ef3404b8f1d5d5c3863bffaa810e57cc4"
     },
     {
+      "file": "catholic-church-england-and-wales-0013.jpg",
+      "bytes": 153322,
+      "sha256": "b27d1a66c114489d43ce7e189a8dc747e4af5526e780baee53fec77c61297590"
+    },
+    {
       "file": "catholic-church-england-and-wales-0031.jpg",
       "bytes": 166180,
       "sha256": "db3662746437c2d80fb9c3cc65c1364371ca1d536ff07924ca0495b3a315eb89"
@@ -1052,6 +1057,11 @@
       "file": "hauntsync-gregorian-chant-private-prayer-to-mary-337672.mp3",
       "bytes": 8273664,
       "sha256": "c933e1afd18f53b14651ec2ba6b7f4c089a7299d2cd8eb38868bc3136181d2a4"
+    },
+    {
+      "file": "sigmamusicart-football-football-music-551346.mp3",
+      "bytes": 1891584,
+      "sha256": "6d726554fe438d8b30955b8fd431015aa5564ccc1a9c391e8a5ae31a4fdc075c"
     }
   ]
 }

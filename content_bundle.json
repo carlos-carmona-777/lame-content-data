@@ -3854,7 +3854,7 @@
     "liturgyHoursLinkId": "xcjae8",
     "testGroupId": null
   },
-  "contentLastEdited": "2026-07-31T22:19:12.971Z",
+  "contentLastEdited": "2026-08-01T13:09:49.556Z",
   "masterSections": [
     {
       "id": "pj0p9g",
@@ -3877,7 +3877,7 @@
       "homeCard": {
         "title": "Pruebas",
         "subtitle": "",
-        "image": "20260402-popeleoxiv-chrismmass-vaticanmedia-01.jpg",
+        "image": "catholic-church-england-and-wales-0013.jpg",
         "icon": "consagracion",
         "design": "MB"
       },
@@ -3897,6 +3897,12 @@
           "image": "Basilica-San-Francisco-de-Asis_Colecta.jpg",
           "cardImage": "Basilica-San-Francisco-de-Asis_Colecta.jpg",
           "content": [
+            {
+              "type": "audio",
+              "value": "sigmamusicart-football-football-music-551346.mp3",
+              "title": "Futbol",
+              "caption": "Mundial"
+            },
             {
               "type": "text",
               "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n«En este divino sacrificio que se hace en la Misa, se contiene y sacrifica incruentamente aquel mismo Cristo que se ofreció por una vez cruentamente en el ara de la cruz» —==Concilio de trneto==\n\n\n"
@@ -3953,7 +3959,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "**Lorem** ipsum dolor sit amet consectetur _adipiscing_ elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n`Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.` \n\nLorem ipsum dolor sit ^^amet consectetur adipiscing elit. Quisque faucibus ex sapien^^ vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n{{leermas}}\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n"
+                  "value": "**Lorem** ipsum dolor sit amet consectetur _adipiscing_ elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n\n`Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.` \n\n\nLorem ipsum dolor sit \n\n^^amet consectetur adipiscing elit. Quisque faucibus ex sapien^^ \n\nvitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n{{leermas}}\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n"
                 },
                 {
                   "type": "text",
@@ -3992,7 +3998,7 @@
                     },
                     {
                       "label": "Tab 2",
-                      "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos ⟨himenaeos⟩.\n\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. {{Tempus leo eu aenean|qolj09|45,378,34}} sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n![img:aberystwyth-university-school-of-art-museum-and-galleries.jpg|left|w:38%]\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+                      "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos ⟨himenaeos⟩.\n\n\n\nLorem ipsum dolor sit amet consectetur **adipiscing** elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. {{Tempus leo eu aenean|qolj09|45,378,34}} sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n![img:aberystwyth-university-school-of-art-museum-and-galleries.jpg|left|w:38%]\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos \n\n\n`himenaeos`."
                     },
                     {
                       "label": "Tab 3",
@@ -4458,6 +4464,63 @@
       ]
     },
     {
+      "id": "9x09kl",
+      "name": "PRUEBA 2",
+      "homeCard": {
+        "title": "PRUEBA 2",
+        "subtitle": "",
+        "image": "annie-williams-oKQWqShxjXY-unsplash.jpg",
+        "icon": "consagracion",
+        "design": "MB"
+      },
+      "homePresentation": "hero",
+      "portadaDesign": "B",
+      "cardDesign": "A",
+      "pruebas": true,
+      "badge": "nuevo",
+      "badgeUntil": "2026-08-30",
+      "sections": [
+        {
+          "id": "9accs8",
+          "type": "article",
+          "tag": "Nueva",
+          "title": "Nueva sección",
+          "subtitle": "Descripción",
+          "color": "#8B1A1A",
+          "icon": "+",
+          "image": "305165639_n.jpg",
+          "cardImage": "20180323-121340-20180321t0843.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "sdsdswdasfafs"
+            }
+          ]
+        },
+        {
+          "id": "xqqy7t",
+          "type": "article",
+          "tag": "",
+          "title": "Inclinaciones en la Misa (copia) (copia)",
+          "subtitle": "Descripción",
+          "color": "#8B1A1A",
+          "icon": "+",
+          "image": "305165639_n.jpg",
+          "cardImage": "20180323-121340-20180321t0843.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi [[corazón|TEST]]”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de [[acercarse|test2]] a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e1bdqt",
       "name": "El Arte en la Iglesia",
       "homeCard": {
@@ -4519,7 +4582,7 @@
         {
           "id": "kmshys",
           "type": "article",
-          "tag": "",
+          "tag": "Artículos de Blog",
           "title": "Inclinaciones en la Misa",
           "subtitle": "Descripción",
           "color": "#8B1A1A",
@@ -4551,63 +4614,6 @@
             {
               "type": "text",
               "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi corazón”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de acercarse a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9x09kl",
-      "name": "PRUEBA 2",
-      "homeCard": {
-        "title": "PRUEBA 2",
-        "subtitle": "",
-        "image": "annie-williams-oKQWqShxjXY-unsplash.jpg",
-        "icon": "consagracion",
-        "design": "MB"
-      },
-      "homePresentation": "hero",
-      "portadaDesign": "B",
-      "cardDesign": "A",
-      "pruebas": true,
-      "badge": "nuevo",
-      "badgeUntil": "2026-08-30",
-      "sections": [
-        {
-          "id": "9accs8",
-          "type": "article",
-          "tag": "Nueva",
-          "title": "Nueva sección",
-          "subtitle": "Descripción",
-          "color": "#8B1A1A",
-          "icon": "+",
-          "image": "305165639_n.jpg",
-          "cardImage": "20180323-121340-20180321t0843.jpg",
-          "youtubeId": null,
-          "keyPoints": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "sdsdswdasfafs"
-            }
-          ]
-        },
-        {
-          "id": "xqqy7t",
-          "type": "article",
-          "tag": "",
-          "title": "Inclinaciones en la Misa (copia) (copia)",
-          "subtitle": "Descripción",
-          "color": "#8B1A1A",
-          "icon": "+",
-          "image": "305165639_n.jpg",
-          "cardImage": "20180323-121340-20180321t0843.jpg",
-          "youtubeId": null,
-          "keyPoints": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi [[corazón|TEST]]”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de [[acercarse|test2]] a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
             }
           ]
         }
