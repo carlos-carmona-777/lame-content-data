@@ -3854,7 +3854,7 @@
     "liturgyHoursLinkId": "xcjae8",
     "testGroupId": null
   },
-  "contentLastEdited": "2026-08-01T13:09:49.556Z",
+  "contentLastEdited": "2026-08-01T13:27:40.566Z",
   "masterSections": [
     {
       "id": "pj0p9g",
@@ -4644,8 +4644,8 @@
     }
   ],
   "features": {
-    "shareWidget": "dev",
-    "shareNotes": "dev",
+    "shareWidget": "on",
+    "shareNotes": "on",
     "notifPrePrompt": "dev"
   },
   "shareImages": [
