@@ -22,6 +22,7 @@ on:
       - homilies.json
       - santoral_sanctus.json
       - liturgiaplus_biografias.json
+      - santoral_rico.json
       - hours-patch.json
       - readings-patch.json
       - "*.jpg"
@@ -66,6 +67,7 @@ jobs:
           gh release create "$TAG" \
             content-manifest.json content_bundle.json \
             homilies.json santoral_sanctus.json liturgiaplus_biografias.json \
+            santoral_rico.json \
             hours-patch.json readings-patch.json \
             *.jpg *.jpeg *.png *.webp \
             *.mp3 *.m4a *.wav *.aac *.mp4 *.mov *.m4v \

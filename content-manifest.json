@@ -1,12 +1,12 @@
 {
-  "contentVersion": 7,
+  "contentVersion": 8,
   "minSchema": 1,
-  "generatedAt": "2026-08-01",
+  "generatedAt": "2026-08-02",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
   "bundle": {
     "file": "content_bundle.json",
-    "bytes": 479455,
-    "sha256": "e2c62b453f2c6d6df096ae77f7c0fcbfd053003016d9543f1bba1f8023e3eb16"
+    "bytes": 480128,
+    "sha256": "90f8e76b1df70eff1faea73edb033c06ae3c64835016872a57bb8337b08f8659"
   },
   "images": [
     {
@@ -965,6 +965,16 @@
       "sha256": "81f6e4c8a11d28a6f7c126dd57560a333b0ecb8fd084a53895f4de839587150b"
     },
     {
+      "file": "sta-rosa-de-lima-por-claudio-coello.jpg",
+      "bytes": 115068,
+      "sha256": "a8c133c5a421a5bb56958a1054c32ad50707490f53b92dd9103678866eb84c9f"
+    },
+    {
+      "file": "ultima-cena-juan-de-juanes.jpg",
+      "bytes": 171174,
+      "sha256": "1a43faa0c93fa53b8505123c28d5a671d53e85ad8f0a8dbf254be4533247ee88"
+    },
+    {
       "file": "vest_azul.jpeg",
       "bytes": 62667,
       "sha256": "da4b2f17663328a1703d3991937a2e895655d41e71349fbc7559bdcc411fb88e"
@@ -1033,13 +1043,18 @@
     },
     {
       "file": "santoral_sanctus.json",
-      "bytes": 840922,
-      "sha256": "2b6bd87e7a204064cadf1f4d80e560083f4d93f6836c69930749e008941c477e"
+      "bytes": 840941,
+      "sha256": "077f7ab96f8d7e404ff2df6b7595ec56a25bfe096710a177c6c00d1051c87ad7"
     },
     {
       "file": "liturgiaplus_biografias.json",
       "bytes": 3106558,
       "sha256": "dc57c9facc8d9ae21d0df43e48d2d4ab67d289d6f252bf9a0cae4bb6e3b7990f"
+    },
+    {
+      "file": "santoral_rico.json",
+      "bytes": 14117,
+      "sha256": "811a916ec5b32f1f98bf44f957bba44d01a646aff843d580efc0dc01afceb93b"
     },
     {
       "file": "hours-patch.json",
@@ -1048,8 +1063,8 @@
     },
     {
       "file": "readings-patch.json",
-      "bytes": 3,
-      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+      "bytes": 365650,
+      "sha256": "2c733af2422036937f2d2cfae863ec94e749bea70428ebb6578429acefd2c14a"
     }
   ],
   "media": [
