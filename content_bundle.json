@@ -3854,7 +3854,7 @@
     "liturgyHoursLinkId": "xcjae8",
     "testGroupId": null
   },
-  "contentLastEdited": "2026-08-02T01:25:25.438Z",
+  "contentLastEdited": "2026-08-03T20:29:56.390Z",
   "masterSections": [
     {
       "id": "pj0p9g",
@@ -3869,26 +3869,84 @@
       "homePresentation": "hero",
       "portadaDesign": "C",
       "cardDesign": "B",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
       "legacyTree": true
     },
     {
       "id": "mk3o08",
-      "name": "Pruebas",
+      "name": "ICONO HERO",
       "homeCard": {
-        "title": "Pruebas",
+        "title": "ícono",
         "subtitle": "",
         "image": "img-0726.jpg",
         "imageFocus": {
           "x": 0.484,
           "y": 0.155
         },
-        "icon": "consagracion",
-        "design": "MB"
+        "icon": "segunda_lectura",
+        "design": "A"
       },
       "homePresentation": "hero",
       "portadaDesign": "B",
       "cardDesign": "A",
-      "pruebas": true,
+      "badge": "nuevo",
+      "badgeUntil": "2026-09-02",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "quotesDisabled": true,
+      "linkBar": {
+        "position": "inicio",
+        "links": [
+          {
+            "label": "¿Qué es la misa?",
+            "icon": "",
+            "dest": "misa://art/que-es-la-misa"
+          },
+          {
+            "label": "Blog",
+            "icon": "plegaria_eucaristica",
+            "dest": "misa://sm/q55j45"
+          },
+          {
+            "label": "El Testigo fiel",
+            "icon": "",
+            "dest": "www.eltestigofiel.org"
+          }
+        ]
+      },
       "sections": [
         {
           "id": "xb4gw3",
@@ -4476,6 +4534,232 @@
       ]
     },
     {
+      "id": "kp492m",
+      "name": "MB Inmersiva ancha HERO",
+      "homeCard": {
+        "title": "MB Inmersiva ancha",
+        "subtitle": "subtitulo",
+        "image": "catholic-church-england-and-wales-051.jpg",
+        "icon": "consagracion",
+        "design": "MB"
+      },
+      "homePresentation": "hero",
+      "portadaDesign": "E",
+      "cardDesign": "A",
+      "badge": "1/2 Hero",
+      "badgeUntil": "2026-09-02",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": [
+        {
+          "id": "xax4cu",
+          "type": "article",
+          "tag": "Nueva",
+          "title": "Nueva sección",
+          "subtitle": "",
+          "color": "#8B1A1A",
+          "icon": "+",
+          "image": "598156417_1303153858509806_5756579719379516857_n.jpg",
+          "cardImage": "598156417_1303153858509806_5756579719379516857_n.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": []
+        },
+        {
+          "id": "15ddx7",
+          "type": "article",
+          "tag": "Nueva",
+          "title": "Nueva sección",
+          "subtitle": "",
+          "color": "#8B1A1A",
+          "icon": "+",
+          "image": "annie-williams-oKQWqShxjXY-unsplash.jpg",
+          "cardImage": "20180323-121340-20180321t0843.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": []
+        },
+        {
+          "id": "d27t6t",
+          "type": "article",
+          "tag": "Nueva",
+          "title": "Nueva sección",
+          "subtitle": "",
+          "color": "#8B1A1A",
+          "icon": "+",
+          "image": "acerca.jpg",
+          "cardImage": "716353236-18104048093101198-2807024506901054998-n.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": []
+        },
+        {
+          "id": "uobw24",
+          "type": "article",
+          "tag": "Nueva",
+          "title": "Nueva sección",
+          "subtitle": "",
+          "color": "#8B1A1A",
+          "icon": "+",
+          "image": "305165639_n.jpg",
+          "cardImage": "20180323-121340-20180321t0843.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": []
+        }
+      ]
+    },
+    {
+      "id": "idylr6",
+      "name": "HERO TARJETA B",
+      "homeCard": {
+        "title": "HERO TARJETA B",
+        "subtitle": "sub",
+        "image": "20260402-popeleoxiv-chrismmass-vaticanmedia-01.jpg",
+        "icon": "consagracion",
+        "design": "B"
+      },
+      "homePresentation": "hero",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "badge": "proximamente",
+      "badgeUntil": "2026-09-02",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "8xf3gs",
+      "name": "HERO C",
+      "homeCard": {
+        "title": "HERO C",
+        "subtitle": "sub",
+        "image": "alfonso-scarpa-Y7289sV3BIo-unsplash.jpg",
+        "icon": "consagracion",
+        "design": "C"
+      },
+      "homePresentation": "hero",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "h4g5u8",
+      "name": "HERO D",
+      "homeCard": {
+        "title": "HERO D",
+        "subtitle": "sub",
+        "image": "annie-williams-oKQWqShxjXY-unsplash.jpg",
+        "icon": "consagracion",
+        "design": "D"
+      },
+      "homePresentation": "hero",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "xbklx8",
+      "name": "HERO E",
+      "homeCard": {
+        "title": "HERO E",
+        "subtitle": "",
+        "image": "Catedral-san-patricio-ny-lavatorio.jpg",
+        "icon": "consagracion",
+        "design": "E"
+      },
+      "homePresentation": "hero",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
       "id": "9x09kl",
       "name": "PRUEBA 2",
       "homeCard": {
@@ -4483,14 +4767,23 @@
         "subtitle": "",
         "image": "annie-williams-oKQWqShxjXY-unsplash.jpg",
         "icon": "consagracion",
-        "design": "MB"
+        "design": "B"
       },
       "homePresentation": "hero",
-      "portadaDesign": "B",
+      "portadaDesign": "D",
       "cardDesign": "A",
-      "pruebas": true,
-      "badge": "nuevo",
+      "badge": "B",
       "badgeUntil": "2026-08-30",
+      "quotes": [
+        {
+          "text": "sdasd",
+          "author": "Santo as de dAquino"
+        },
+        {
+          "text": "sadsds",
+          "author": "sdsadasdads"
+        }
+      ],
       "sections": [
         {
           "id": "9accs8",
@@ -4548,6 +4841,24 @@
       "cardDesign": "A",
       "badge": "proximamente",
       "badgeUntil": "2027-01-30",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
       "sections": [
         {
           "id": "m9htm1",
@@ -4590,6 +4901,24 @@
       "homePresentation": "blog",
       "portadaDesign": "C",
       "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
       "sections": [
         {
           "id": "kmshys",
@@ -4614,7 +4943,26 @@
           "id": "bi45rb",
           "type": "article",
           "tag": "",
-          "title": "Inclinaciones en la Misa (copia)",
+          "title": "Titulo de blog",
+          "subtitle": "Descripción",
+          "color": "#8B1A1A",
+          "icon": "+",
+          "image": "305165639_n.jpg",
+          "cardImage": "20180323-121340-20180321t0843.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi corazón”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de acercarse a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
+            }
+          ]
+        },
+        {
+          "id": "ty8vgd",
+          "type": "article",
+          "tag": "",
+          "title": "Titulo de blog 4 ssdsd",
           "subtitle": "Descripción",
           "color": "#8B1A1A",
           "icon": "+",
@@ -4630,6 +4978,445 @@
           ]
         }
       ]
+    },
+    {
+      "id": "itineg",
+      "name": "MEDIA A",
+      "homeCard": {
+        "title": "MEDIA A",
+        "subtitle": "",
+        "image": "",
+        "icon": "consagracion",
+        "design": "A"
+      },
+      "homePresentation": "medio-hero",
+      "portadaDesign": "D",
+      "cardDesign": "A",
+      "badge": "nuevo",
+      "badgeUntil": "2026-09-02",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "ym00et",
+      "name": "MEDIA B",
+      "homeCard": {
+        "title": "MEDIA B",
+        "subtitle": "",
+        "image": "10-1940-dig-01-o3.jpg",
+        "icon": "consagracion",
+        "design": "B"
+      },
+      "homePresentation": "medio-hero",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "346iko",
+      "name": "MEDIA C",
+      "homeCard": {
+        "title": "MEDIA C",
+        "subtitle": "",
+        "image": "598156417_1303153858509806_5756579719379516857_n.jpg",
+        "icon": "consagracion",
+        "design": "C"
+      },
+      "homePresentation": "medio-hero",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "n68fr3",
+      "name": "MEDIA D",
+      "homeCard": {
+        "title": "MEDIA D",
+        "subtitle": "",
+        "image": "",
+        "icon": "consagracion",
+        "design": "D"
+      },
+      "homePresentation": "medio-hero",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "kxkl4p",
+      "name": "MEDIA E",
+      "homeCard": {
+        "title": "MEDIA E",
+        "subtitle": "",
+        "image": "606394259_1307774538057716_1387371614566085349_n.jpg",
+        "icon": "consagracion",
+        "design": "E"
+      },
+      "homePresentation": "medio-hero",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "byv8om",
+      "name": "STRIP 3 A",
+      "homeCard": {
+        "title": "STRIP 3 A",
+        "subtitle": "",
+        "image": "716353236-18104048093101198-2807024506901054998-n.jpg",
+        "icon": "consagracion",
+        "design": "MA"
+      },
+      "homePresentation": "strip",
+      "stripId": "th113g",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "miq32i",
+      "name": "STRIP 3 B",
+      "homeCard": {
+        "title": "STRIP 3 B",
+        "subtitle": "",
+        "image": "",
+        "icon": "consagracion",
+        "design": "MA"
+      },
+      "homePresentation": "strip",
+      "stripId": "th113g",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "raunod",
+      "name": "STRIP 3 C",
+      "homeCard": {
+        "title": "STRIP 3 C",
+        "subtitle": "",
+        "image": "",
+        "icon": "consagracion",
+        "design": "MA"
+      },
+      "homePresentation": "strip",
+      "stripId": "th113g",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "2fj7gs",
+      "name": "STRIP 3 D",
+      "homeCard": {
+        "title": "STRIP 3 D",
+        "subtitle": "",
+        "image": "",
+        "icon": "consagracion",
+        "design": "MA"
+      },
+      "homePresentation": "strip",
+      "stripId": "th113g",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "890bsu",
+      "name": "STRIP 3 E",
+      "homeCard": {
+        "title": "STRIP 3 E",
+        "subtitle": "",
+        "image": "",
+        "icon": "consagracion",
+        "design": "MA"
+      },
+      "homePresentation": "strip",
+      "stripId": "th113g",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "qli56o",
+      "name": "STRIP 3 F",
+      "homeCard": {
+        "title": "STRIP 3 F",
+        "subtitle": "",
+        "image": "",
+        "icon": "consagracion",
+        "design": "MA"
+      },
+      "homePresentation": "strip",
+      "stripId": "th113g",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "q0hyin",
+      "name": "STRIP 3 G",
+      "homeCard": {
+        "title": "STRIP 3 G",
+        "subtitle": "",
+        "image": "",
+        "icon": "consagracion",
+        "design": "MA"
+      },
+      "homePresentation": "strip",
+      "stripId": "th113g",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "lyymtr",
+      "name": "STRIP 3 SDD",
+      "homeCard": {
+        "title": "STRIP 3 SDD",
+        "subtitle": "",
+        "image": "",
+        "icon": "consagracion",
+        "design": "MA"
+      },
+      "homePresentation": "strip",
+      "stripId": "th113g",
+      "portadaDesign": "A",
+      "cardDesign": "A",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "sections": []
     }
   ],
   "homeLayout": [
@@ -4647,12 +5434,76 @@
       "smId": "q55j45"
     },
     {
+      "type": "widget",
+      "kind": "hours"
+    },
+    {
+      "type": "widget",
+      "kind": "gospel",
+      "badge": "Evangelio de hoy",
+      "badgeUntil": "2026-09-02"
+    },
+    {
+      "type": "widget",
+      "kind": "saints"
+    },
+    {
+      "type": "widget",
+      "kind": "badges"
+    },
+    {
+      "type": "hero",
+      "smId": "9x09kl"
+    },
+    {
       "type": "hero",
       "smId": "mk3o08"
     },
     {
       "type": "hero",
-      "smId": "9x09kl"
+      "smId": "kp492m"
+    },
+    {
+      "type": "hero",
+      "smId": "idylr6"
+    },
+    {
+      "type": "hero",
+      "smId": "8xf3gs"
+    },
+    {
+      "type": "hero",
+      "smId": "xbklx8"
+    },
+    {
+      "type": "halfHero",
+      "smId": "itineg"
+    },
+    {
+      "type": "halfHero",
+      "smId": "ym00et"
+    },
+    {
+      "type": "halfHero",
+      "smId": "346iko"
+    },
+    {
+      "type": "halfHero",
+      "smId": "n68fr3"
+    },
+    {
+      "type": "hero",
+      "smId": "h4g5u8"
+    },
+    {
+      "type": "halfHero",
+      "smId": "kxkl4p"
+    },
+    {
+      "type": "strip",
+      "id": "th113g",
+      "title": "STRIP 3",
+      "design": "B"
     }
   ],
   "features": {
