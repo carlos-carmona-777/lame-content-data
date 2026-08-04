@@ -1,7 +1,7 @@
 {
-  "contentVersion": 9,
+  "contentVersion": 10,
   "minSchema": 1,
-  "generatedAt": "2026-08-03",
+  "generatedAt": "2026-08-04",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
   "bundle": {
     "file": "content_bundle.json",
@@ -13,6 +13,11 @@
       "file": "10-1940-dig-01-o3.jpg",
       "bytes": 128870,
       "sha256": "8e85c9213c103842afbc1c75d280d7bc839d8fe384431da1b43c1d0cf62556e4"
+    },
+    {
+      "file": "1280px-fra-angelico-052.jpg",
+      "bytes": 153255,
+      "sha256": "04028deac011f51181ecbdb2bae62afea0c85f8f836417e015046bdf598a5d20"
     },
     {
       "file": "20180323-121340-20180321t0843.jpg",
@@ -610,6 +615,11 @@
       "sha256": "c5be489efe64876946c3635f6dbfbaf8710ba71479d446a55b40aec0e3cba262"
     },
     {
+      "file": "aparicion-de-la-virgen-a-san-bernardo.jpg",
+      "bytes": 145554,
+      "sha256": "268eab8afa816d89271188e2afbd9c3c480ed942ace83395b5b86c3bcac4c7bb"
+    },
+    {
       "file": "basilica-san-francisco-de-asis-francisco-de-asis.jpg",
       "bytes": 248140,
       "sha256": "7dba94d95298aa75c1db1a18dc353e5602cd47f2404085ced3db93a83be633cb"
@@ -1053,8 +1063,8 @@
     },
     {
       "file": "santoral_rico.json",
-      "bytes": 14117,
-      "sha256": "811a916ec5b32f1f98bf44f957bba44d01a646aff843d580efc0dc01afceb93b"
+      "bytes": 44709,
+      "sha256": "500d8431c23d11715fafe3f37679c61912b363a837dc600b3d7187b6f9934935"
     },
     {
       "file": "hours-patch.json",
