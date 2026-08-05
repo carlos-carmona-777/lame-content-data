@@ -1,7 +1,7 @@
 {
-  "contentVersion": 10,
+  "contentVersion": 11,
   "minSchema": 1,
-  "generatedAt": "2026-08-04",
+  "generatedAt": "2026-08-05",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
   "bundle": {
     "file": "content_bundle.json",
@@ -1054,12 +1054,12 @@
     {
       "file": "santoral_sanctus.json",
       "bytes": 840941,
-      "sha256": "077f7ab96f8d7e404ff2df6b7595ec56a25bfe096710a177c6c00d1051c87ad7"
+      "sha256": "461c3fddcdfb2a55e7f0fe5be5867374dd00189f1129c31604a60c2ef3406c7c"
     },
     {
       "file": "liturgiaplus_biografias.json",
-      "bytes": 3106558,
-      "sha256": "dc57c9facc8d9ae21d0df43e48d2d4ab67d289d6f252bf9a0cae4bb6e3b7990f"
+      "bytes": 3106682,
+      "sha256": "a3b2a9ca64876a7d2be3c9af2edbbbf81007cc9697494ad495c37a47cc17588e"
     },
     {
       "file": "santoral_rico.json",
