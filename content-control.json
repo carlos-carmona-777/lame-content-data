@@ -1,5 +1,5 @@
 {
-  "purgeUpTo": 0,
+  "purgeUpTo": 11,
   "urgentMinVersion": 0,
   "checkIntervalHours": 168,
   "featureOverrides": {
