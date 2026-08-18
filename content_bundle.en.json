@@ -1695,7 +1695,8 @@
       "smId": "pj0p9g",
       "image": "606394259_1307774538057716_1387371614566085349_n.jpg",
       "contextImage": "Altar_Completo.jpg",
-      "contextLabel": "+ see on the altar"
+      "contextLabel": "+ see on the altar",
+      "display": "Ambo"
     },
     {
       "word": "Cáliz",
@@ -1708,7 +1709,8 @@
         "copón",
         "patena",
         "píxide"
-      ]
+      ],
+      "display": "Chalice"
     },
     {
       "word": "Copón",
@@ -1721,7 +1723,8 @@
         "patena",
         "píxide",
         "cáliz"
-      ]
+      ],
+      "display": "Ciborium"
     },
     {
       "word": "Corporal",
@@ -1743,12 +1746,14 @@
       "related": [
         "Obispo",
         "Presbítero"
-      ]
+      ],
+      "display": "Deacon"
     },
     {
       "word": "Domingos, solemnidades y fiestas",
       "definition": "Sunday: the Day of the Lord and the primordial feast of the universal Church. Because it commemorates the Resurrection of Christ, it is considered \"the weekly Easter\" and holds a unique rank: it stands above memorials and feasts, and even the Sundays of Advent, Lent, and Easter carry more weight than any solemnity. On Sunday the singing of the Gloria and the recitation of the Creed are obligatory.\n\nSolemnities: the celebrations of the highest rank, reserved for the most important mysteries of our faith (for example, Easter, Pentecost, Christ the King). On these the singing of the Gloria and the recitation of the Creed are obligatory.\n\nFeasts: these honor some mystery or title of Jesus, of the Virgin Mary, or of saints of particular importance to the universal Church. On these celebrations the Gloria is obligatory, but the Creed is omitted.\n\nMemorials: these are generally the celebrations of the saints, though they can also commemorate some aspect of Jesus or of the Virgin Mary. They are divided into obligatory memorials (which must be celebrated) and free or optional ones (left to the celebrant's discretion).\n\nWeekdays (ferias): this is the name given to days of the week on which none of the above celebrations falls. They have no office of their own and do not commemorate a particular saint. The weekdays of Holy Week, Ash Wednesday, and the weekdays of Advent from December 17 to 24 are exceptionally \"privileged.\"",
-      "smId": "pj0p9g"
+      "smId": "pj0p9g",
+      "display": "Sundays, Solemnities, and Feasts"
     },
     {
       "word": "Evangeliario",
@@ -1758,22 +1763,26 @@
       "related": [
         "Misal Romano",
         "Leccionario"
-      ]
+      ],
+      "display": "Book of the Gospels"
     },
     {
       "word": "Excusados",
       "definition": "When a grave impediment exists, the precept of attending Mass is lifted. In these cases, the Church does not bind you to the impossible. Technically, watching Mass on television or online is not \"attending\" Mass, since the liturgy requires physical presence and participation in sacramental communion. However, for someone who is gravely impeded, watching it is a most praiseworthy and recommended act of piety that helps to sanctify the Lord's day.",
-      "smId": "pj0p9g"
+      "smId": "pj0p9g",
+      "display": "Excused (from the Sunday Obligation)"
     },
     {
       "word": "Exequias",
       "definition": "Funeral rites are the set of rites and prayers the Catholic Church celebrates upon the death of one of the faithful. Their principal meaning is to celebrate the paschal mystery (the passion, death, and resurrection of Christ), bidding farewell to the person on behalf of the community and entrusting his or her soul to divine mercy.",
-      "smId": "pj0p9g"
+      "smId": "pj0p9g",
+      "display": "Funeral Rites"
     },
     {
       "word": "Gradual (Graduale Romanum)",
       "definition": "The Roman Gradual (Graduale Romanum) is the liturgical book that contains all the parts of the Mass to be sung by the choir or schola cantorum throughout the year (entrance chants, graduals, alleluias, offertory chants, and communion chants). Its texts are set almost entirely to Gregorian chant, using the classic four-line staff notation (tetragram).\n\nThere is another version called the Graduale Simplex (Simple Gradual), created after the Second Vatican Council, which offers much simpler and more accessible melodies for parishes that do not have a professional Gregorian chant choir.",
-      "smId": "pj0p9g"
+      "smId": "pj0p9g",
+      "display": "Gradual (Roman Gradual)"
     },
     {
       "word": "Leccionario",
@@ -1783,7 +1792,8 @@
       "related": [
         "Misal Romano",
         "Evangeliario"
-      ]
+      ],
+      "display": "Lectionary"
     },
     {
       "word": "Manutergio",
@@ -1796,7 +1806,8 @@
         "corporal",
         "purificador",
         "palia"
-      ]
+      ],
+      "display": "Lavabo Towel"
     },
     {
       "word": "Misal Romano",
@@ -1806,7 +1817,8 @@
       "related": [
         "Leccionario",
         "Evangeliario"
-      ]
+      ],
+      "display": "Roman Missal"
     },
     {
       "word": "Obispo",
@@ -1815,7 +1827,8 @@
       "related": [
         "Diácono",
         "Presbítero"
-      ]
+      ],
+      "display": "Bishop"
     },
     {
       "word": "Ordinario",
@@ -1823,7 +1836,8 @@
       "smId": "pj0p9g",
       "related": [
         "Propio"
-      ]
+      ],
+      "display": "Ordinary"
     },
     {
       "word": "Palia",
@@ -1836,7 +1850,8 @@
         "corporal",
         "manutergio",
         "purificador"
-      ]
+      ],
+      "display": "Pall"
     },
     {
       "word": "Patena",
@@ -1849,7 +1864,8 @@
         "copón",
         "píxide",
         "cáliz"
-      ]
+      ],
+      "display": "Paten"
     },
     {
       "word": "Píxide",
@@ -1862,7 +1878,8 @@
         "copón",
         "patena",
         "cáliz"
-      ]
+      ],
+      "display": "Pyx"
     },
     {
       "word": "Presbiterio",
@@ -1870,7 +1887,8 @@
       "smId": "pj0p9g",
       "related": [
         "ambón"
-      ]
+      ],
+      "display": "Sanctuary"
     },
     {
       "word": "Presbítero",
@@ -1879,7 +1897,8 @@
       "related": [
         "Obispo",
         "Diácono"
-      ]
+      ],
+      "display": "Priest"
     },
     {
       "word": "Propio",
@@ -1887,7 +1906,8 @@
       "smId": "pj0p9g",
       "related": [
         "ordinario"
-      ]
+      ],
+      "display": "Proper"
     },
     {
       "word": "Purificador",
@@ -1900,17 +1920,20 @@
         "corporal",
         "manutergio",
         "palia"
-      ]
+      ],
+      "display": "Purificator"
     },
     {
       "word": "Rúbicas",
       "definition": "Etymological meaning: the word comes from the Latin *rubrica* (which derives from *ruber*, red). It receives this name because, in printed liturgical books, these instructions have traditionally been written in red letters to distinguish them from the text that the priest or the assembly is to say or sing, which is printed in black letters.\n\nPurpose: the rubrics do not contain the prayers themselves, but the operative instructions. They indicate:\n\nGestures and bodily postures: when to stand, kneel, sit, bow, extend the hands, or make the sign of the cross.\n\nRitual actions: when to incense the altar, pour the wine and water into the chalice, wash the hands, or kiss the altar.\n\nMovements and ministries: who is to perform each action (the priest, the deacon, the acolyte, or the lector) and in what part of the sanctuary.\n\nPermitted options: when the celebrant is allowed to choose among different formulas or introductions, depending on pastoral circumstances.\n\nIn summary: a classic principle governs liturgical books: \"What is black is said (or sung), what is red is done.\" The rubrics are precisely \"the red\" — the map of action that guarantees the solemnity, order, and universality of the Mass.",
-      "smId": "pj0p9g"
+      "smId": "pj0p9g",
+      "display": "Rubrics"
     },
     {
       "word": "Sagrario",
       "definition": "The tabernacle is the space in the church set aside for the reservation of the Eucharist. It is not only a place of safekeeping; it is also a space where the faithful can pray before Jesus.\n\nUntil the Second Vatican Council, liturgical norms required that the tabernacle be placed at the very center of the altar.\n\nToday, this has changed.\nGIRM 314: \"In accordance with the structure of each church and legitimate local customs, the Most Blessed Sacrament should be reserved in a tabernacle in a part of the church that is truly noble, prominent, readily visible, beautifully decorated, and suitable for prayer. The one tabernacle should be immovable, be made of solid and inviolable material that is not transparent, and be locked in such a way that the danger of profanation is prevented to the greatest extent possible. Moreover, it is appropriate that, before it is put into liturgical use, it be blessed according to the rite described in the Roman Ritual.\"\n\nGIRM 316: \"In accordance with traditional custom, near the tabernacle a special lamp, fueled by oil or wax, should be kept alight to indicate and honor the presence of Christ.\"",
-      "smId": "pj0p9g"
+      "smId": "pj0p9g",
+      "display": "Tabernacle"
     },
     {
       "word": "Sede",
@@ -1918,23 +1941,27 @@
       "smId": "pj0p9g",
       "related": [
         "ambón"
-      ]
+      ],
+      "display": "Chair"
     },
     {
       "word": "Tiempo Ordinario",
       "definition": "Ordinary Time is the longest liturgical season of the year (made up of 33 or 34 weeks) and is divided into two periods: the first falls between Christmas and Lent, and the second between Pentecost and Advent. Far from meaning something \"common\" or of lesser importance, the word ordinary comes from \"order,\" pointing to the Church's ordered, progressive journey. During these weeks the liturgical color is green, and no single mystery of the life of Jesus is celebrated; instead, his public life, his miracles, and his teachings are contemplated in their entirety.",
-      "smId": "pj0p9g"
+      "smId": "pj0p9g",
+      "display": "Ordinary Time"
     },
     {
       "word": "Transubstanciación",
       "definition": "Decree on the Eucharist of the Council of Trent: \"Because Christ our Redeemer said that it was truly his body that he was offering under the species of bread, it has always been the conviction of the Church of God, and this holy Council now declares it anew, that by the consecration of the bread and wine there takes place a change of the whole substance of the bread into the substance of the body of Christ our Lord, and of the whole substance of the wine into the substance of his blood. This change the holy Catholic Church has fittingly and properly named transubstantiation\" (Council of Trent (1551): DS 1642, cited in CCC 1376).\n\nTransubstantiation, a change of substance. The substance of the bread and wine is changed into the substance of Christ himself (body, blood, soul, and divinity), although the bread and wine retain their properties, or accidents.",
-      "smId": "pj0p9g"
+      "smId": "pj0p9g",
+      "display": "Transubstantiation"
     },
     {
       "word": "Vinajeras",
       "definition": "A small vessel for holding the wine and water needed for the Holy Sacrifice of the Mass. Two are always used. The Roman Missal (Rubricae Gen., XX) prescribes that they be made of glass. This is the most suitable material because it is easily cleaned, and its transparency avoids any danger of confusing the water and the wine. However, other materials are also used, such as gold, silver, and other precious metals. In that case it is advisable to mark the wine cruet with a V (Vinum) and the water cruet with an A (Aqua), so that they can be told apart easily.\n\nBefore Mass, they should be placed on the credence table with enough water and wine. From there they are brought to the altar to prepare the chalice. Afterward, they are returned to the credence table. If the faithful present the wine to the priest at the offertory, they are placed on a table outside the sanctuary, where the faithful take them from. Once the chalice has been prepared, they are brought back to the credence table.",
       "smId": "pj0p9g",
-      "image": "vinajeras.jpg"
+      "image": "vinajeras.jpg",
+      "display": "Cruets"
     },
     {
       "word": "TEST",
@@ -1944,7 +1971,8 @@
     {
       "word": "test2",
       "definition": "rwerwere",
-      "smId": "mk3o08"
+      "smId": "mk3o08",
+      "display": "Test2"
     }
   ],
   "documents": [
@@ -3616,13 +3644,13 @@
     "liturgyHoursLinkId": "xcjae8",
     "testGroupId": null
   },
-  "contentLastEdited": "2026-08-18T01:38:55.457Z",
+  "contentLastEdited": "2026-08-18T13:13:15.841Z",
   "masterSections": [
     {
       "id": "pj0p9g",
-      "name": "La Misa Explicada",
+      "name": "The Mass, Explained",
       "homeCard": {
-        "title": "La Misa Explicada",
+        "title": "The Mass, Explained",
         "subtitle": "Understand every part and live the Eucharist",
         "image": "Widget_MISA.png",
         "icon": "consagracion",
@@ -3653,7 +3681,7 @@
     },
     {
       "id": "e1bdqt",
-      "name": "El Año Litúrgico",
+      "name": "The Liturgical Year",
       "homeCard": {
         "title": "The Liturgical Year",
         "subtitle": "",
@@ -3665,7 +3693,7 @@
       "stripId": "t4msq6",
       "portadaDesign": "B",
       "cardDesign": "C",
-      "badge": "coming soon",
+      "badge": "proximamente",
       "badgeUntil": "2027-02-27",
       "quotes": [
         {
@@ -3745,7 +3773,7 @@
     },
     {
       "id": "mk3o08",
-      "name": "Pruebas",
+      "name": "Test",
       "homeCard": {
         "title": "icon",
         "subtitle": "",
@@ -4390,7 +4418,7 @@
     },
     {
       "id": "9x09kl",
-      "name": "PRUEBA 2",
+      "name": "TEST 2",
       "homeCard": {
         "title": "TEST 2",
         "subtitle": "",
@@ -4402,7 +4430,7 @@
       "portadaDesign": "C",
       "cardDesign": "A",
       "pruebas": true,
-      "badge": "new",
+      "badge": "nuevo",
       "badgeUntil": "2026-08-30",
       "quotes": [
         {
@@ -4458,7 +4486,7 @@
     },
     {
       "id": "pgua3b",
-      "name": "Módulos",
+      "name": "Modules",
       "homeCard": {
         "title": "Modules",
         "subtitle": "",
