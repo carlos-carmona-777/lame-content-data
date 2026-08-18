@@ -1,11 +1,11 @@
 {
-  "contentVersion": 2,
+  "contentVersion": 3,
   "minSchema": 1,
   "generatedAt": "2026-08-18",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
   "bundle": {
     "file": "content_bundle.en.json",
-    "bytes": 486949,
-    "sha256": "b98796750e6beefee10bf780e167b628855abedb77f87b2e031da76af32b0274"
+    "bytes": 484522,
+    "sha256": "836bb0efa43a637b1bde5e516dae9a0398ae98bdb220130d567992a10d3ac20f"
   }
 }
