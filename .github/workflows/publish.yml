@@ -17,8 +17,10 @@ on:
   push:
     branches: [main]
     paths:
-      - content-manifest.json
-      - content_bundle.json
+      # Globs: cubren el es (content-manifest.json) y los manifests/bundles
+      # por idioma (content-manifest.en.json, content_bundle.en.json, ...)
+      - "content-manifest*.json"
+      - "content_bundle*.json"
       - homilies.json
       - santoral_sanctus.json
       - liturgiaplus_biografias.json
@@ -65,7 +67,7 @@ jobs:
           echo "Publicando $TAG"
           shopt -s nullglob
           gh release create "$TAG" \
-            content-manifest.json content_bundle.json \
+            content-manifest*.json content_bundle*.json \
             homilies.json santoral_sanctus.json liturgiaplus_biografias.json \
             santoral_rico.json \
             hours-patch.json readings-patch.json \
