@@ -1,12 +1,12 @@
 {
-  "contentVersion": 13,
+  "contentVersion": 15,
   "minSchema": 1,
   "generatedAt": "2026-08-28",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
   "bundle": {
     "file": "content_bundle.json",
-    "bytes": 505511,
-    "sha256": "210f3eca96ee9440040f35c53101f2e44277a08d2b41e3052927ad1dd1712687"
+    "bytes": 489360,
+    "sha256": "250442b8e0a188354e399ade7d7db9addd8ed67627e8a6323b19005227cb4042"
   },
   "images": [
     {
@@ -18,6 +18,11 @@
       "file": "1280px-fra-angelico-052.jpg",
       "bytes": 153255,
       "sha256": "04028deac011f51181ecbdb2bae62afea0c85f8f836417e015046bdf598a5d20"
+    },
+    {
+      "file": "1688663932-1567677980065220-8-luca-giordano-2.jpg",
+      "bytes": 123907,
+      "sha256": "647e59647b08a3b1af4eec2e17936f2305d6a3286eac74106a422692ad0024c3"
     },
     {
       "file": "20180323-121340-20180321t0843.jpg",
@@ -43,6 +48,11 @@
       "file": "490838200-18062625386101198-8924686681594670110-n.jpg",
       "bytes": 156441,
       "sha256": "8343e150117533861921802688a2fd86ce3dd7c4bbdadfa9cc920ae2888d1510"
+    },
+    {
+      "file": "574104045-1251833783652979-3220663262263555288-n.jpg",
+      "bytes": 110198,
+      "sha256": "da904251f7d7017dad4daae2ba69f858d925e5675c4f1665e670495dd96ac4bb"
     },
     {
       "file": "598156417_1303153858509806_5756579719379516857_n.jpg",
@@ -115,6 +125,11 @@
       "sha256": "222f87596be954915348942cb7c23cd12fb837ccc2a250774727128b78ddb112"
     },
     {
+      "file": "Compare-una-imagen.jpg",
+      "bytes": 108601,
+      "sha256": "c3e8ed8b0dde2bc0cff2467479b7e743afe8d011ac2fdbd33093786fe55d7a46"
+    },
+    {
       "file": "Comunion3.jpg",
       "bytes": 162039,
       "sha256": "8be7d1815cdec1c050d20092293689f584f8efc97698dbec27260c58e4212d70"
@@ -128,11 +143,6 @@
       "file": "FraAngelico _Anunciacion.jpg",
       "bytes": 216354,
       "sha256": "74fcd254b6fcef2075b70f543e6aa350bfdd709b76112f0e516558c8c0fee0d7"
-    },
-    {
-      "file": "Fracción.jpg",
-      "bytes": 98459,
-      "sha256": "ee6ed32461dc6e6588804992b69edeaf1279c05e48b8c604dd9b112ede5fe8ef"
     },
     {
       "file": "Guadalupe-Incienso.jpg",
@@ -163,11 +173,6 @@
       "file": "Ofertorio_Preparacion.jpg",
       "bytes": 149618,
       "sha256": "f75f78b762e4f80088b375a2a773b1ba8eb4a71e77144ec4c55b7691cc775f93"
-    },
-    {
-      "file": "OraciónComunion.jpg",
-      "bytes": 162321,
-      "sha256": "5e207deca134156af260c2b5aae3813c3416b3ffc60e50f3938ec7062ba6a820"
     },
     {
       "file": "Panorama360_1.jpg",
@@ -620,6 +625,11 @@
       "sha256": "268eab8afa816d89271188e2afbd9c3c480ed942ace83395b5b86c3bcac4c7bb"
     },
     {
+      "file": "basilica-san-francisco-de-asis-crucifijo.jpg",
+      "bytes": 128154,
+      "sha256": "560e10795263d80aed54bef87ed229c4eba6f776b984fd4dd97a2494a537bc5c"
+    },
+    {
       "file": "basilica-san-francisco-de-asis-francisco-de-asis.jpg",
       "bytes": 248140,
       "sha256": "7dba94d95298aa75c1db1a18dc353e5602cd47f2404085ced3db93a83be633cb"
@@ -640,9 +650,19 @@
       "sha256": "c3d8ca3aa8623b94a1f5a7b70d53401ed5d070f5d0c79886c9b106b99f64c356"
     },
     {
+      "file": "caliz-2.jpg",
+      "bytes": 95430,
+      "sha256": "b4c4b362a2689e0531aebccbd49a087ea3e96c6b4a93b4dccf149b44ec482c78"
+    },
+    {
       "file": "caliz.jpg",
       "bytes": 48498,
       "sha256": "e643c7e4295c82118fa4b19eab17e83ef3404b8f1d5d5c3863bffaa810e57cc4"
+    },
+    {
+      "file": "catholic-church-england-and-wales-0011.jpg",
+      "bytes": 191333,
+      "sha256": "6b4d9193ef3b0300367b3d015970fe7f1cadfacaa681b0451699bdb679af76ff"
     },
     {
       "file": "catholic-church-england-and-wales-0013.jpg",
@@ -665,6 +685,11 @@
       "sha256": "86288c544c8ae6358527fd98ca7702e77e27a8e9251bfd749d352aab65dd42ce"
     },
     {
+      "file": "catholic-church-england-and-wales-021.jpg",
+      "bytes": 106179,
+      "sha256": "31725b425a43b0bd4b8b4459388648a60f3ea0a07b8b78081a45ccf0540a2825"
+    },
+    {
       "file": "catholic-church-england-and-wales-046.jpg",
       "bytes": 238481,
       "sha256": "e440bddb1fd2fb6004d0b8edc75fc333106083b3377c41efdf5c12c40dcaf691"
@@ -678,6 +703,11 @@
       "file": "catholic-church-england-and-wales-051.jpg",
       "bytes": 136875,
       "sha256": "59b28512b666f16e0ae578aa1b73f3ea36376515a0ec1a0dbf562408a316bb34"
+    },
+    {
+      "file": "catholic-church-england-and-wales-075.jpg",
+      "bytes": 180793,
+      "sha256": "5cc62d44de187dc539495469eeb856b03e562f98daf8cffcee85753c826d6403"
     },
     {
       "file": "catholic-church-england-and-wales11.jpg",
@@ -730,9 +760,19 @@
       "sha256": "d39a4557cff0943d7f79149961f7c4d85ed2da35432e7163e4d7069f35226d08"
     },
     {
+      "file": "copones-3.jpg",
+      "bytes": 69312,
+      "sha256": "84748cebc80c3a9d904779c4725afce91ab1fd9603bd311913ddcc805d3b1054"
+    },
+    {
       "file": "copones.jpg",
       "bytes": 53112,
       "sha256": "9916423d5fa841dfd659994cfe27afc33d3c90781de6f45dfd6c84ff91f3caf3"
+    },
+    {
+      "file": "corporal-2.jpg",
+      "bytes": 21545,
+      "sha256": "207223143dd83a5b21d4b02374ca36ae128cce36735ef5281772cbc65aa78ec4"
     },
     {
       "file": "corporal.jpg",
@@ -830,6 +870,11 @@
       "sha256": "cc5621c69344c343fcac5a76563acf2b31c43a5947696c145021c5cbd54133de"
     },
     {
+      "file": "img-1073.jpg",
+      "bytes": 267373,
+      "sha256": "32cb7a993708be52f58a986b1cd11e85ed3f15d0ef66c4e7f0b9630c5b7ad62b"
+    },
+    {
       "file": "img-4499.jpg",
       "bytes": 237435,
       "sha256": "e025bd899fe8efe56ac2d7da5716f58c20cd8d08ec6dd1a1cbd9bb82de003212"
@@ -875,6 +920,11 @@
       "sha256": "37ee64e45c76eb0cb1e6fa60765809f9e496ac5f4460a2ec3f4a31eb50289d85"
     },
     {
+      "file": "jesus-and-peter-on-the-water-by-gustave-brion.jpg",
+      "bytes": 126367,
+      "sha256": "7d7faef37073fffe9c302e4eaa28f976d77d2b936d1f6df374496aff8e4c4f0c"
+    },
+    {
       "file": "lapaz.jpg",
       "bytes": 223366,
       "sha256": "4763239a213290667da57cfc3218417fcb236150b9e316c986830489469ec197"
@@ -883,6 +933,11 @@
       "file": "leccionario2.jpg",
       "bytes": 128355,
       "sha256": "2261030bfc9ba9e78bf3912fafb843fa4e91af26b13612cf05c53742c9a7d72d"
+    },
+    {
+      "file": "manutergio-2.jpg",
+      "bytes": 13775,
+      "sha256": "acf220b06bbbcbdaefc67ae5ca635cef11ea5da3fded9d41b69a01f158b1fc36"
     },
     {
       "file": "manutergio.jpg",
@@ -905,9 +960,19 @@
       "sha256": "a42c41914a3cbcd982014ab0da6c271cac5616f3efbc924047f68ce96487b26a"
     },
     {
+      "file": "palia-2.jpg",
+      "bytes": 60295,
+      "sha256": "23300d9168ed989a639f24f7b3ab45c15a13743babaa6cce17227321452231c2"
+    },
+    {
       "file": "palia.jpg",
       "bytes": 50488,
       "sha256": "628aa51adf9b5d45059377b0bee23e3980a52f025d1786962c6805ef0c870233"
+    },
+    {
+      "file": "panos-altar.jpg",
+      "bytes": 46535,
+      "sha256": "9bf4c6a2682d7203d2874bebcd878aa6f20bc25e50b6e0e328c32c9900a05013"
     },
     {
       "file": "panos_altar.jpg",
@@ -920,14 +985,29 @@
       "sha256": "2a8e7c91757697c49b0590b830b133bca638a30318b8ca85497c2e6137d65beb"
     },
     {
+      "file": "patena-2.jpg",
+      "bytes": 20147,
+      "sha256": "342e54f69f8b9380ad222dbcaafe5c41ec356a80ab03493af07adc8605e838fb"
+    },
+    {
       "file": "patena.jpg",
       "bytes": 18276,
       "sha256": "8b76da6f7bfe7f5451061762c86a615a3f13a07ec886a2fd80ece364f3771df1"
     },
     {
+      "file": "pixide-2.jpg",
+      "bytes": 59301,
+      "sha256": "18121ff39a24f5204e8cd7354ccb599658f93cfe32448a595f384708d713e7a0"
+    },
+    {
       "file": "pixide.jpg",
       "bytes": 44009,
       "sha256": "4f5d45f48736f16e65d44d273a239d21f1eb371c3b353475f1160b43a4789cb2"
+    },
+    {
+      "file": "purificador-2.jpg",
+      "bytes": 9648,
+      "sha256": "adc66fa4adb794c5209cfba4924056a7628b749405855fb63602fc5c64e62b57"
     },
     {
       "file": "purificador.jpg",
@@ -983,6 +1063,11 @@
       "file": "ultima-cena-juan-de-juanes.jpg",
       "bytes": 171174,
       "sha256": "1a43faa0c93fa53b8505123c28d5a671d53e85ad8f0a8dbf254be4533247ee88"
+    },
+    {
+      "file": "vasos-sagrados.jpg",
+      "bytes": 127464,
+      "sha256": "0b6cde22e6f57dc1e88540c3ad370533a81ab71f91e75f73de114a85b1ced5a4"
     },
     {
       "file": "vest_azul.jpeg",

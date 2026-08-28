@@ -126,6 +126,10 @@
       "image": "catholic-church-england-and-wales75.jpg",
       "cardImage": "catholic-church-england-and-wales75.jpg",
       "cardImageAlign": "top",
+      "cardImageFocus": {
+        "x": 0.318,
+        "y": 0.299
+      },
       "subsections": [
         {
           "id": "ritos-iniciales",
@@ -496,7 +500,7 @@
             },
             {
               "type": "text",
-              "value": "La Proclamación del Evangelio es la parte central y más importante de toda la **Liturgia de la Palabra**. Prueba de ello son todos los gestos y símbolos que acompañan a esta proclamación:\n\n\n![img:fortunino-matania.jpg|right|w:50%|Fortunino Matania, el Sermón del Monte]\n- Tiene una Aclamación antes de su anuncio.\n- Proclamación propia de los ministros ordenados y en especial del diácono.\n- Cuando preside el Obispo el que proclamará, sea Diácono o Presbítero, le pide la bendición.\n- Libro litúrgico propio: el Evangeliario.\n- Procesión con el Evangeliario del Altar al Ambón, mostrando el vínculo que existe entre las dos mesas: la mesa de la Palabra con la mesa de la Eucaristía.\n- Incensación de la Palabra.\n- Se recomienda cantar el Evangelio para solemnizar más su proclamación.\n- La Asamblea lo escucha de pie.\n- Su proclamación y escucha tiene el poder de perdonar los pecados veniales.\n- Se venera con un beso al final de la proclamación.\n\nEs el momento en que la Iglesia escucha y recibe el anuncio del propio Cristo, porque «Dios mismo habla a su pueblo» y Cristo, presente en su propia palabra, proclama el Evangelio.\n\nEl Evangelio se lee desde el [[Evangeliario|Evangeliario]] en los [[domingos|El Domingo: es el Día del Señor y la fiesta primordial de la Iglesia universal. Al conmemorar la Resurrección de Cristo, se considera «la Pascua semanal» y tiene una categoría única: está por encima de las memorias y las fiestas, e incluso los domingos de Adviento, Cuaresma y Pascua tienen más peso que cualquier solemnidad. En la Misa dominical es obligatorio el canto del Gloria y la proclamación del Credo.\n\nSolemnidades: son las celebraciones de grado más alto, reservadas a los misterios más importantes de nuestra fe (por ejemplo: la Pascua, Pentecostés, Cristo Rey). En ellas es obligatorio el canto del Gloria y la proclamación del Credo.\n\nFiestas: honran algún misterio o título de Jesús, de la Virgen María o de santos especialmente relevantes para la Iglesia universal. En estas celebraciones es obligatorio el Gloria, pero se omite el Credo.\n\nMemorias: son generalmente las celebraciones de los santos, aunque también pueden conmemorar algún aspecto de Jesús o de la Virgen. Se dividen en memorias obligatorias (que deben celebrarse) y libres u opcionales (que quedan a discreción del celebrante).\n\nFerias: se denomina así a los días de la semana en los que no coincide ninguna de las celebraciones anteriores. No tienen un oficio propio ni conmemoran a un santo en particular. Son excepcionalmente «privilegiadas» las ferias de la Semana Santa, el Miércoles de Ceniza y las ferias de Adviento del 17 al 24 de diciembre.]], solemnidades y fiestas. El resto de los días se usa el [[Leccionario|Leccionario]]."
+              "value": "La Proclamación del Evangelio es la parte central y más importante de toda la **Liturgia de la Palabra**. Prueba de ello son todos los gestos y símbolos que acompañan a esta proclamación:\n\n\n![img:fortunino-matania.jpg|right|w:50%|Fortunino Matania, el Sermón del Monte]\n- Tiene una Aclamación antes de su anuncio.\n- Proclamación propia de los ministros ordenados y en especial del diácono.\n- Cuando preside el Obispo el que proclamará, sea Diácono o Presbítero, le pide la bendición.\n- Libro litúrgico propio: el Evangeliario.\n- Procesión con el Evangeliario del Altar al Ambón, mostrando el vínculo que existe entre las dos mesas: la mesa de la Palabra con la mesa de la Eucaristía.\n- Incensación de la Palabra.\n- Se recomienda cantar el Evangelio para solemnizar más su proclamación.\n- La Asamblea lo escucha de pie.\n- Su proclamación y escucha tiene el poder de perdonar los pecados veniales.\n- Se venera con un beso al final de la proclamación.\n\nEs el momento en que la Iglesia escucha y recibe el anuncio del propio Cristo, porque «Dios mismo habla a su pueblo» y Cristo, presente en su propia palabra, proclama el Evangelio.\n\nEl Evangelio se lee desde el [[Evangeliario|Evangeliario]] en los [[domingos|Domingos, solemnidades y fiestas]], solemnidades y fiestas. El resto de los días se usa el [[Leccionario|Leccionario]]."
             },
             {
               "type": "recommendations",
@@ -1363,156 +1367,29 @@
       "subtitle": "",
       "color": "#8B1A1A",
       "icon": "extra_03",
-      "image": "BasilicadeGuadalupe.jpg",
-      "cardImage": "BasilicadeGuadalupe.jpg",
-      "cardImageAlign": "top",
+      "image": "SHARE_8.jpg",
+      "cardImage": "SHARE_8.jpg",
+      "cardImageFocus": {
+        "x": 0.508,
+        "y": 0.429
+      },
+      "inlineStrip": "A",
       "subsections": [
-        {
-          "id": "3a8m9l",
-          "type": "article",
-          "tag": "",
-          "title": "La Misa es un acto comunitario",
-          "subtitle": "",
-          "color": "#8B1A1A",
-          "icon": "fraccion_pan",
-          "image": "catholic-church-england-and-wales6.jpg",
-          "cardImage": "catholic-church-england-and-wales6.jpg",
-          "youtubeId": null,
-          "keyPoints": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "Las celebraciones litúrgicas son actos comunitarios por excelencia, no son actos personales.\n\n\n![img:catholic-church-england-and-wales-008.jpg|right|w:50%]\nPor ello, nuestras oraciones, gestos y posturas deben hacerse en comunidad, haciéndolo todos, conforme lo dicta el Magisterio de la Iglesia.\n\nHay una serie de gestos que no aparecen en el misal y sin embargo, muchas personas los realizan como algo normal. Por otro lado, hay gestos que se indican y que, sin embargo, muy poca gente los hace.\n\nUn ejemplo muy claro es en el Credo, (o _symbolum_): ¿Sabías que cuando rezamos el Credo debemos hacer una inclinación?\n\n_[...] y por nuestra salvación bajó del cielo_\n\n**(En las palabras que siguen, hasta se hizo hombre, todos se inclinan)**\n\n_y por obra del Espíritu Santo se encarnó de María la Virgen, y se hizo hombre [...]_\n\n"
-            },
-            {
-              "type": "text",
-              "value": "Ejemplos de devociones personales que no están indicadas en la Instrucción General del Misal Romano:\n\n- Persignarse antes de dar la paz y antes o después de comulgar.\n\n- Elevar las manos durante «Por Cristo, con Él y en Él...» o durante «Tuyo es el poder y la gloria...» o cuando decimos «Y con tu Espíritu».\n\n- Decir en voz alta «Dios mío y Señor mío» durante la consagración (mejor decirse en el interior)."
-            },
-            {
-              "type": "imageleft",
-              "value": "participacionizq.jpg",
-              "caption": "",
-              "text": "La misa no se “oye”, se participa en ella.\n\nEn la acción litúrgica no hay lugar para espectadores o miembros pasivos; desafortunadamente hoy en día todavía podemos escuchar a personas que dicen: «yo vengo a oír misa».\n\nComo nos dice el Sacrosanctum Concilium No.11, «los fieles deben participar en la liturgia de manera consciente y activa»."
-            }
-          ]
-        },
-        {
-          "id": "nah6bz",
-          "type": "article",
-          "tag": "",
-          "title": "Gestos",
-          "subtitle": "",
-          "color": "#2A5F8B",
-          "icon": "bendicion_final",
-          "image": "gestos9.jpg",
-          "cardImage": "gestos9.jpg",
-          "cardImageAlign": "top",
-          "youtubeId": null,
-          "keyPoints": [
-            "Introducción",
-            "Inclinación Profunda",
-            "Inclinación Simple",
-            "Santiguarse",
-            "Signarse",
-            "Persignarse"
-          ],
-          "content": [
-            {
-              "type": "heading",
-              "value": "Introducción"
-            },
-            {
-              "type": "text",
-              "value": "Las celebraciones litúrgicas son actos comunitarios por excelencia, no son actos personales. Por ello, nuestras oraciones, gestos y posturas deben hacerse en comunidad, haciéndolo todos, conforme lo dicta el Magisterio de la Iglesia."
-            },
-            {
-              "type": "heading",
-              "value": "Inclinación Profunda"
-            },
-            {
-              "type": "imageleft",
-              "value": "inclinacionprofunda.jpg",
-              "caption": "",
-              "text": "Se hace desde la cintura, expresando gran reverencia.",
-              "imageFit": "contain"
-            },
-            {
-              "type": "text",
-              "value": "**Momentos** \n**En el Credo:** Durante las palabras _«por obra del Espíritu Santo se encarnó de María, la Virgen, y se hizo hombre»._ En las solemnidades de la Anunciación y Natividad del Señor, se genuflecta en lugar de la inclinación profunda.\n\n**Después de la Consagración:** Si por razones de salud, espacio u otras no pueden arrodillarse, los fieles hacen una inclinación profunda cuando el sacerdote genuflecta tras elevar la hostia y el cáliz."
-            },
-            {
-              "type": "heading",
-              "value": "Inclinación Simple"
-            },
-            {
-              "type": "imageleft",
-              "value": "reverencia.jpg",
-              "caption": "",
-              "text": "Esta es un gesto más sutil, de la cabeza solamente.",
-              "imageFit": "contain"
-            },
-            {
-              "type": "text",
-              "value": "**Momentos**\n \n«La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa». ({{IGMR 275|qolj09|275}})."
-            },
-            {
-              "type": "heading",
-              "value": "Santiguarse"
-            },
-            {
-              "type": "imageleft",
-              "value": "santiguarse.jpg",
-              "caption": "",
-              "text": "Consiste en dibujar una cruz grande sobre uno mismo con la mano derecha. \nFrente → pecho → hombro izquierdo → hombro derecho\n\n_«En el nombre del Padre, y del Hijo, y del Espíritu Santo. Amén»._\n",
-              "imageFit": "contain"
-            },
-            {
-              "type": "text",
-              "value": "**Momentos: **\nAl inicio y final de la misa mientras el sacerdote dice «En el nombre del Padre...» y la asamblea dice «Amén»"
-            },
-            {
-              "type": "heading",
-              "value": "Signarse"
-            },
-            {
-              "type": "imageleft",
-              "value": "signarse.jpg",
-              "caption": "",
-              "text": "Consiste en hacer tres cruces pequeñas con el dedo pulgar (generalmente sobre el dedo índice en forma de cruz), en la frente, en la boca y en el pecho.",
-              "imageFit": "contain"
-            },
-            {
-              "type": "text",
-              "value": "**Momentos: **\nAntes de la proclamación del Evangelio cuando el diácono o sacerdote dice:\n\n_«Lectura del santo Evangelio según...»_\n\nMientras se hace te santiguas dices: _«Gloria a ti, Señor»_ (no se dice «Por la señal de la Santa Cruz...»)"
-            },
-            {
-              "type": "heading",
-              "value": "Persignarse"
-            },
-            {
-              "type": "imageleft",
-              "value": "Persignarse.jpg",
-              "caption": "",
-              "text": "Es la combinación de los dos anteriores.\n\n_«Por la señal de la Santa Cruz, de nuestros enemigos, líbranos Señor, Dios nuestro. En el nombre del Padre, y del Hijo, y del Espíritu Santo. Amén»._",
-              "imageFit": "contain"
-            },
-            {
-              "type": "text",
-              "value": "**Momentos:**\nEs un acto devocional, no está prescrito a ser usado en la Liturgia. Algunos Sacerdotes lo utilizan al final de la misa."
-            }
-          ]
-        },
         {
           "id": "s91s8h",
           "type": "article",
-          "tag": "Nueva",
-          "title": "Las Celebraciones",
-          "subtitle": "Descripción",
+          "tag": "",
+          "title": "Colores Litúrgicos y Celebraciones",
+          "subtitle": "",
           "color": "#2A5F8B",
           "icon": "extra_02",
-          "image": "LawrenceOP_555.jpg",
-          "cardImage": "LawrenceOP_555.jpg",
+          "image": "catholic-church-england-and-wales-0011.jpg",
+          "cardImage": "catholic-church-england-and-wales-0011.jpg",
           "cardImageAlign": "top",
+          "cardImageFocus": {
+            "x": 0.507,
+            "y": 0.275
+          },
           "youtubeId": null,
           "keyPoints": [
             "Clasificación de Celebraciones",
@@ -1619,8 +1496,151 @@
               "imageFit": "contain"
             }
           ]
+        },
+        {
+          "id": "nah6bz",
+          "type": "article",
+          "tag": "",
+          "title": "Gestos",
+          "subtitle": "",
+          "color": "#2A5F8B",
+          "icon": "bendicion_final",
+          "image": "catholic-church-england-and-wales-075.jpg",
+          "cardImage": "catholic-church-england-and-wales-075.jpg",
+          "cardImageFocus": {
+            "x": 0.556,
+            "y": 0.577
+          },
+          "youtubeId": null,
+          "keyPoints": [
+            "Introducción",
+            "Inclinación Profunda",
+            "Inclinación Simple",
+            "Santiguarse",
+            "Signarse",
+            "Persignarse"
+          ],
+          "content": [
+            {
+              "type": "heading",
+              "value": "Introducción"
+            },
+            {
+              "type": "text",
+              "value": "Las celebraciones litúrgicas son actos comunitarios por excelencia, no son actos personales. Por ello, nuestras oraciones, gestos y posturas deben hacerse en comunidad, haciéndolo todos, conforme lo dicta el Magisterio de la Iglesia."
+            },
+            {
+              "type": "heading",
+              "value": "Inclinación Profunda"
+            },
+            {
+              "type": "imageleft",
+              "value": "inclinacionprofunda.jpg",
+              "caption": "",
+              "text": "Se hace desde la cintura, expresando gran reverencia.",
+              "imageFit": "contain"
+            },
+            {
+              "type": "text",
+              "value": "**Momentos** \n**En el Credo:** Durante las palabras _«por obra del Espíritu Santo se encarnó de María, la Virgen, y se hizo hombre»._ En las solemnidades de la Anunciación y Natividad del Señor, se genuflecta en lugar de la inclinación profunda.\n\n**Después de la Consagración:** Si por razones de salud, espacio u otras no pueden arrodillarse, los fieles hacen una inclinación profunda cuando el sacerdote genuflecta tras elevar la hostia y el cáliz."
+            },
+            {
+              "type": "heading",
+              "value": "Inclinación Simple"
+            },
+            {
+              "type": "imageleft",
+              "value": "reverencia.jpg",
+              "caption": "",
+              "text": "Esta es un gesto más sutil, de la cabeza solamente.",
+              "imageFit": "contain"
+            },
+            {
+              "type": "text",
+              "value": "**Momentos**\n \n«La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa». ({{IGMR 275|qolj09|275}})."
+            },
+            {
+              "type": "heading",
+              "value": "Santiguarse"
+            },
+            {
+              "type": "imageleft",
+              "value": "santiguarse.jpg",
+              "caption": "",
+              "text": "Consiste en dibujar una cruz grande sobre uno mismo con la mano derecha. \nFrente → pecho → hombro izquierdo → hombro derecho\n\n_«En el nombre del Padre, y del Hijo, y del Espíritu Santo. Amén»._\n",
+              "imageFit": "contain"
+            },
+            {
+              "type": "text",
+              "value": "**Momentos: **\nAl inicio y final de la misa mientras el sacerdote dice «En el nombre del Padre...» y la asamblea dice «Amén»"
+            },
+            {
+              "type": "heading",
+              "value": "Signarse"
+            },
+            {
+              "type": "imageleft",
+              "value": "signarse.jpg",
+              "caption": "",
+              "text": "Consiste en hacer tres cruces pequeñas con el dedo pulgar (generalmente sobre el dedo índice en forma de cruz), en la frente, en la boca y en el pecho.",
+              "imageFit": "contain"
+            },
+            {
+              "type": "text",
+              "value": "**Momentos: **\nAntes de la proclamación del Evangelio cuando el diácono o sacerdote dice:\n\n_«Lectura del santo Evangelio según...»_\n\nMientras se hace te santiguas dices: _«Gloria a ti, Señor»_ (no se dice «Por la señal de la Santa Cruz...»)"
+            },
+            {
+              "type": "heading",
+              "value": "Persignarse"
+            },
+            {
+              "type": "imageleft",
+              "value": "Persignarse.jpg",
+              "caption": "",
+              "text": "Es la combinación de los dos anteriores.\n\n_«Por la señal de la Santa Cruz, de nuestros enemigos, líbranos Señor, Dios nuestro. En el nombre del Padre, y del Hijo, y del Espíritu Santo. Amén»._",
+              "imageFit": "contain"
+            },
+            {
+              "type": "text",
+              "value": "**Momentos:**\nEs un acto devocional, no está prescrito a ser usado en la Liturgia. Algunos Sacerdotes lo utilizan al final de la misa."
+            }
+          ]
+        },
+        {
+          "id": "3a8m9l",
+          "type": "article",
+          "tag": "",
+          "title": "La Misa es un acto comunitario",
+          "subtitle": "",
+          "color": "#8B1A1A",
+          "icon": "fraccion_pan",
+          "image": "catholic-church-england-and-wales6.jpg",
+          "cardImage": "catholic-church-england-and-wales6.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Las celebraciones litúrgicas son actos comunitarios por excelencia, no son actos personales.\n\n\n![img:catholic-church-england-and-wales-008.jpg|right|w:50%]\nPor ello, nuestras oraciones, gestos y posturas deben hacerse en comunidad, haciéndolo todos, conforme lo dicta el Magisterio de la Iglesia.\n\nHay una serie de gestos que no aparecen en el misal y sin embargo, muchas personas los realizan como algo normal. Por otro lado, hay gestos que se indican y que, sin embargo, muy poca gente los hace.\n\nUn ejemplo muy claro es en el Credo, (o _symbolum_): ¿Sabías que cuando rezamos el Credo debemos hacer una inclinación?\n\n_[...] y por nuestra salvación bajó del cielo_\n\n**(En las palabras que siguen, hasta se hizo hombre, todos se inclinan)**\n\n_y por obra del Espíritu Santo se encarnó de María la Virgen, y se hizo hombre [...]_\n\n"
+            },
+            {
+              "type": "text",
+              "value": "Ejemplos de devociones personales que no están indicadas en la Instrucción General del Misal Romano:\n\n- Persignarse antes de dar la paz y antes o después de comulgar.\n\n- Elevar las manos durante «Por Cristo, con Él y en Él...» o durante «Tuyo es el poder y la gloria...» o cuando decimos «Y con tu Espíritu».\n\n- Decir en voz alta «Dios mío y Señor mío» durante la consagración (mejor decirse en el interior)."
+            },
+            {
+              "type": "imageleft",
+              "value": "participacionizq.jpg",
+              "caption": "",
+              "text": "La misa no se “oye”, se participa en ella.\n\nEn la acción litúrgica no hay lugar para espectadores o miembros pasivos; desafortunadamente hoy en día todavía podemos escuchar a personas que dicen: «yo vengo a oír misa».\n\nComo nos dice el Sacrosanctum Concilium No.11, «los fieles deben participar en la liturgia de manera consciente y activa»."
+            }
+          ]
         }
       ]
+    },
+    {
+      "type": "divider",
+      "id": "15rphq",
+      "label": "DOCUMENTOS"
     },
     {
       "id": "u9ovi6",
@@ -1632,6 +1652,7 @@
       "icon": "✦",
       "image": "catholic-church-england-and-wales9.jpg",
       "cardImage": "catholic-church-england-and-wales9.jpg",
+      "inlineStrip": "A",
       "subsections": [
         {
           "id": "f5i5v1",
@@ -1653,271 +1674,16 @@
           ]
         },
         {
-          "type": "defsmodule"
+          "type": "defsmodule",
+          "title": "Glosario Litúrgico",
+          "icon": "segunda_lectura",
+          "cardImage": "catholic-church-england-and-wales-021.jpg",
+          "cardImageFocus": {
+            "x": 0.537,
+            "y": 0.481
+          }
         }
       ]
-    },
-    {
-      "type": "divider",
-      "id": "ujo10r",
-      "label": "SECCIONES NO EN PORTADA",
-      "visible": false
-    },
-    {
-      "id": "fab-informacion",
-      "type": "section",
-      "tag": "",
-      "title": "Información",
-      "subtitle": "",
-      "color": "#8B1A1A",
-      "icon": "i",
-      "image": "img-8420.jpg",
-      "cardImage": "img-8420.jpg",
-      "content": [
-        {
-          "type": "text",
-          "value": "Cualquier error o bug puedes reportarlo fácilmente aquí:"
-        },
-        {
-          "type": "button",
-          "label": "Contáctame",
-          "dest": "url",
-          "value": "https://www.liturgico.org/contacto",
-          "style": "solid",
-          "align": "center"
-        }
-      ],
-      "subsections": [
-        {
-          "id": "7dwl3g",
-          "type": "article",
-          "tag": "",
-          "title": "El App",
-          "subtitle": "¿Cómo usarla?",
-          "color": "#2A5F8B",
-          "icon": "▶",
-          "image": "shutterstock-1651037905.jpg",
-          "cardImage": "shutterstock-1651037905.jpg",
-          "youtubeId": null,
-          "keyPoints": [
-            "Funcionalidad",
-            "Califica el app",
-            "Contacto"
-          ],
-          "content": [
-            {
-              "type": "heading",
-              "value": "Funcionalidad"
-            },
-            {
-              "type": "imageleft",
-              "value": "calendario.jpeg",
-              "caption": "",
-              "text": "**Calendario Litúrgico de Hoy**\nArriba a la derecha puedes ver que se celebra hoy. Ahí mismo puedes elegir otra fecha para ver las Lecturas de ese día.",
-              "imageFit": "contain"
-            },
-            {
-              "type": "imageleft",
-              "value": "Anotaciones.jpeg",
-              "caption": "",
-              "text": "**La Misa Explicada**\nEn esta sección puedes ver todo acerca de la Misa, además puedes subrayar y tomar notas.\n\nTus notas guardadas las puedes ver en el menú de notas."
-            },
-            {
-              "type": "imageleft",
-              "value": "notificaciones.jpeg",
-              "caption": "",
-              "text": "**Notificaciones** En tu Perfil puedes activar notificaciones para diferentes tipos de recordatorios.\n\n\n"
-            },
-            {
-              "type": "imageleft",
-              "value": "widget_i.jpeg",
-              "caption": "",
-              "text": "**Widget** Agrega el Widget a tu pantalla.\n\n\n",
-              "imageFit": "contain"
-            },
-            {
-              "type": "heading",
-              "value": "Califica el app"
-            },
-            {
-              "type": "text",
-              "value": "Si el App te ayuda a conocer más de la Liturgia, por favor deja una calificación positiva y una reseña. Si encuentras algún error, contáctame."
-            },
-            {
-              "type": "heading",
-              "value": "Contacto"
-            },
-            {
-              "type": "text",
-              "value": "Ponte en contacto conmigo para:\n- Comentarios\n- Reporte de errores en los textos/conceptos\n- Reporte de bugs\n- Aclaración de uso de fotos"
-            },
-            {
-              "type": "button",
-              "label": "Contáctame",
-              "dest": "url",
-              "value": "https://www.liturgico.org/contacto",
-              "style": "solid",
-              "align": "center"
-            },
-            {
-              "type": "separator"
-            },
-            {
-              "type": "text",
-              "value": "Esta APP se está construyendo de buena fe, cualquier error favor de reportarlo en el botón de arriba.\n\nTextos 21.07.26\nApp: 1.1.2"
-            }
-          ]
-        },
-        {
-          "id": "acerca-del-app",
-          "type": "article",
-          "tag": "",
-          "title": "Quién y Porque",
-          "subtitle": "",
-          "color": "#3D2B6B",
-          "icon": "extra_06",
-          "image": "acerca.jpg",
-          "cardImage": "acerca.jpg",
-          "cardImageAlign": "top",
-          "youtubeId": null,
-          "keyPoints": [
-            "¿Quién?",
-            "Agradecimientos Personales",
-            "Reconocimientos"
-          ],
-          "content": [
-            {
-              "type": "heading",
-              "value": "¿Quién?"
-            },
-            {
-              "type": "text",
-              "value": "La inspiración para crear esta aplicación nació el jueves 4 de junio, Solemnidad de _Corpus Christi_ en México.\n\nDurante años ignoré la profundidad y el significado de la Liturgia, hasta que fui invitado a formar parte del equipo de animación litúrgica de mi parroquia.\n\nDesde entonces, nació en mí el deseo de compartir la belleza y la fuerza transformadora de la Liturgia Católica: un tesoro, visible e invisible, del cual se alimenta toda nuestra vida espiritual."
-            },
-            {
-              "type": "heading",
-              "value": "Agradecimientos Personales"
-            },
-            {
-              "type": "text",
-              "value": "A **Dios**, quien se dignó a llamarme por mi nombre.\nA mi **madre**, que me enseñó la fe.\nA mi **padre**, que me enseñó a poner a la familia en primer lugar.\nA mi **hermana**, que siempre me ha acompañado.\n\nA mi **esposa**, pues gracias a su amor y dedicación a nuestra familia puedo disponer del tiempo para realizar estos proyectos.\n\nA mis **hijos**, que siempre me inspiran a ser un mejor padre. También a Pollito y a Juanito.\n\nA **Fernando** y **Betty**, por sus largas y enriquecedoras charlas sobre la fe. Así como a **Abel** Della Costa (fundador de www.eltestigofiel.org).\n\nA mi parroquia Santa María de Guadalupe, a todos los miembros del equipo de animación litúrgica y, especialmente, a:\n- **Jorge** Fernández, quien despertó en mí el amor por la liturgia.\n- Al Sr. Cura **Juan** Bojórquez, quien nos regala en cada Misa un amor visible por la Eucaristía.\n- Al Pbro. **Fernando** Ocegueda, quien celebra cada Misa con una dignidad intachable.\n- A **Alfredo** Espinosa, coordinador de liturgia, y a **Manuel** Gamboa, por su incansable dedicación.\n\nTambién a todos los que me ayudaron con sus pruebas BETA. Su retroalimentación ha sido invaluable."
-            },
-            {
-              "type": "heading",
-              "value": "Reconocimientos"
-            },
-            {
-              "type": "text",
-              "value": "**Un reconocimiento destacado al Pbro. Dr. Oscar José García García, autor de parte del material expuesto en la sección de \"La Misa Explicada\"**\n\nEl Pbro. Dr. García es:\n- Doctor en Sagrada Liturgia por el Ateneo San Paciano, de Barcelona\n- Profesor de Liturgia en el Seminario Diocesano de Morelia\n- Profesor de Liturgia en la Universidad Pontificia de México\n- Perito de la Comisión Episcopal para la Pastoral Litúrgica, de la Conferencia del Episcopado Mexicano\n- Maestro de las Celebraciones Litúrgicas de la Insigne Nacional Basílica de Guadalupe"
-            },
-            {
-              "type": "text",
-              "value": "También a **Miguel Martínez Serrano**, autor del repositorio abierto _Breviarium_, el cual utilicé y modifiqué para la funcionalidad de la Liturgia de las Horas.\n\nA José de **Liturgiapapal.org**, por su extensa librería de recursos litúrgicos que fueron parte valiosa de mi investigación.\n"
-            }
-          ]
-        },
-        {
-          "id": "1fzvy9",
-          "type": "article",
-          "tag": "Por su intercesión",
-          "title": "Patronazgo",
-          "subtitle": "",
-          "color": "#2A5F8B",
-          "icon": "extra_05",
-          "image": "san-sisto-madonna-4ff8ba67c18ee.jpg",
-          "cardImage": "san-sisto-madonna-4ff8ba67c18ee.jpg",
-          "cardImageAlign": "top",
-          "youtubeId": null,
-          "keyPoints": [
-            "San Carlo Acutis",
-            "San Juan",
-            "Santa María de Guadalupe"
-          ],
-          "content": [
-            {
-              "type": "heading",
-              "value": "San Carlo Acutis"
-            },
-            {
-              "type": "imageleft",
-              "value": "Carlo_Acutis_Raul_Berzosa.jpg",
-              "caption": "Pintura de © Raúl Berzosa",
-              "text": "Carlo utilizó sus talentos tecnológicos para llevar su amor a la eucaristía a miles de personas. \n\nEs así que bajo su intercesión pongo todos los proyectos tecnológicos que vaya a crear para el bien de la Iglesia y la Gloria de Dios.",
-              "imageFit": "contain"
-            },
-            {
-              "type": "heading",
-              "value": "San Juan"
-            },
-            {
-              "type": "imageleft",
-              "value": "SJuan_Raul_Berzosa.jpg",
-              "caption": "Pintura de © Raúl Berzosa",
-              "text": "San Juan fue uno de los primeros Apóstoles que comprendió la Encarnación. Bajo su amparo pongo este proyecto, para que todos dentro de la Iglesia Católica lleguen a comprender que _«La Eucaristía es el compendio y la suma de nuestra fe.»_",
-              "imageFit": "contain"
-            },
-            {
-              "type": "heading",
-              "value": "Santa María de Guadalupe"
-            },
-            {
-              "type": "imageleft",
-              "value": "virgen-guadalupe.jpeg",
-              "caption": "",
-              "text": "Nuestra Santa Madre —siempre guardando las cosas en su corazón— es la maestra de la contemplación. Que interceda por nosotros para que gocemos ya desde hoy, la alegría de contemplar el amor de Dios derramado a través de los signos visibles de la Liturgia.",
-              "imageFit": "contain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "xcjae8",
-      "type": "article",
-      "tag": "Ora",
-      "title": "La Liturgia de las Horas",
-      "subtitle": "La Liturgia de las Horas es la oración oficial de la Iglesia que santifica cada momento del día con los Salmos y la Palabra de Dios.",
-      "color": "#8B1A1A",
-      "icon": "salmo_responsorial",
-      "image": "",
-      "youtubeId": null,
-      "keyPoints": [
-        "¿Qué es?",
-        "Breve Historia",
-        "Su Importancia"
-      ],
-      "content": [
-        {
-          "type": "heading",
-          "value": "¿Qué es?"
-        },
-        {
-          "type": "text",
-          "value": "La Liturgia de las Horas —también llamada **Oficio Divino**— es la oración oficial y pública de la Iglesia, distribuida a lo largo del día para santificar el tiempo. Junto con la Eucaristía, constituye la cumbre de la vida de oración de la Iglesia, aunque a diferencia de la Misa, no es un sacramento sino una oración fundamentalmente hecha de Salmos, cánticos bíblicos, lecturas de la Escritura y de los Padres de la Iglesia, himnos e intercesiones.\n\nSe estructura en distintas \"horas\" que jalonan la jornada: el **Oficio de Lectura** (de carácter más contemplativo), **Laudes** (oración matutina, que consagra el inicio del día), la **Hora Intermedia** (Tercia, Sexta o Nona, según el momento), **Vísperas** (oración vespertina, acción de gracias por el día que termina) y **Completas** (antes de dormir, encomendando la noche a Dios). Así, el cristiano «reza sin cesar» (cf. 1 Tes 5,17), consagrando las horas del día y de la noche a Dios."
-        },
-        {
-          "type": "heading",
-          "value": "Breve Historia"
-        },
-        {
-          "type": "text",
-          "value": "Sus raíces se hunden en la práctica judía de orar a horas fijas —tres veces al día, como recuerda el libro de Daniel (Dn 6,11) y los Hechos de los Apóstoles (Hch 3,1; 10,9)—, heredada por los primeros cristianos. Desde el siglo II y III existía ya la costumbre de orar por la mañana y por la noche en las comunidades cristianas.\n\nCon el auge del monacato en los siglos IV y V, esta oración se organizó de manera más estructurada: figuras como san Basilio en Oriente y san Benito en Occidente fijaron esquemas detallados de horas y salmos que los monjes debían rezar en comunidad, dando origen a lo que conocemos como el \"Oficio Monástico\". Con el tiempo, el clero secular (obispos, sacerdotes y diáconos) adoptó también esta obligación de oración diaria, que fue evolucionando —a veces haciéndose excesivamente compleja— hasta las grandes reformas.\n\nEl Concilio Vaticano II, en la constitución _Sacrosanctum Concilium_ (1963), impulsó una renovación profunda: simplificó la estructura, restauró el valor de las horas como oración de todo el Pueblo de Dios (no solo del clero y los religiosos) y promulgó en 1970 la _Liturgia Horarum_, la forma que usamos hoy."
-        },
-        {
-          "type": "heading",
-          "value": "Su Importancia"
-        },
-        {
-          "type": "text",
-          "value": "La Liturgia de las Horas tiene una hondura que vale la pena subrayar:\n\n- **Es oración de Cristo y de la Iglesia entera.** Cuando alguien reza el Oficio, no ora solo: presta su voz a Cristo, Cabeza, que ora en nombre de todo su Cuerpo, la Iglesia. Por eso se dice que en cada momento del día, en algún lugar del mundo, esta oración está resonando sin interrupción.\n\n- **Santifica el tiempo.** Convierte las horas comunes —el amanecer, el mediodía, el atardecer, la noche— en momentos de encuentro con Dios, recordándonos que toda la jornada, no solo el domingo, pertenece a Él.\n\n- **Alimenta con la Palabra y los Salmos. **Es una escuela extraordinaria de oración bíblica: quien la reza con constancia termina \"orando con las palabras de Dios mismo\".\n\n- **Está abierta a todos. **Aunque es obligación de clérigos y religiosos, el Concilio la propuso como tesoro para todo el Pueblo de Dios: catequistas, familias y laicos comprometidos pueden y son invitados a rezarla, en la medida de sus posibilidades."
-        }
-      ]
-    },
-    {
-      "type": "divider",
-      "id": "g9pz56",
-      "label": "P R U E B A S",
-      "visible": false
     }
   ],
   "definitions": [
@@ -1932,15 +1698,86 @@
       "definition": "El Ambón es el lugar litúrgico sagrado y reservado desde el cual se proclama exclusivamente la Palabra de Dios. Diseñado como una estructura fija y elevada que manifiesta la dignidad del mensaje divino, es considerado la «Mesa de la Palabra», desde donde se realizan las lecturas, el Salmo, el Evangelio y la Homilía (la Homilía también se puede dar en la Sede), conectando de manera directa con el Altar o Mesa de la Eucaristía.",
       "smId": "pj0p9g",
       "image": "606394259_1307774538057716_1387371614566085349_n.jpg",
-      "contextImage": "Altar_Completo.jpg",
+      "imagePosition": "top right",
+      "contextImage": "img-1073.jpg",
+      "contextHotspots": [
+        {
+          "x": 8.5,
+          "y": 56.6,
+          "title": "Ambón",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.7,
+          "y": 61.9,
+          "title": "Altar",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 75.9,
+          "y": 61.3,
+          "title": "Sede",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver en el altar"
     },
     {
       "word": "Cáliz",
       "definition": "El cáliz es el vaso sagrado que se usa para consagrar el vino que se convertirá en la Sangre de Cristo en la Misa. Debe ser de oro o de plata con doradura en el interior, o puede ser la copa de plata con doradura en el interior; en cuyo caso la base y el tallo pueden ser de cualquier metal, siempre que sea sólido, limpio y adecuado (Mis, Rom., Ritus celebr., tit. I, n. 1). \n\nLa base puede ser redonda, hexagonal u octogonal, y debe ser tan grande de modo que no haya temor de que el cáliz se vire. Cerca de la mitad del tallo, entre la base y la copa, se recomienda que tenga una perilla, a fin de que el cáliz pueda ser manejado fácilmente, especialmente después de la consagración, cuando el sacerdote tiene sus dedos índice y pulgar unidos. \n\nAntes de que el cáliz y la patena se utilicen en el Sacrificio de la Misa deben de ser bendecidos por el obispo o sacerdote. Además, si el cáliz pierden su bendición, —lo cual ocurre, por ejemplo si se rompe o se perfora la copa, o incluso si se ha tenido que enviar para que la copa sea redorada— es necesario que se vuelva a bendecir antes que se pueda utilizar de nuevo. \n\nEn rigor, sólo a los sacerdotes y a los diáconos se les permite tocar el cáliz o la patena, pero a menudo se les concede licencia a los sacristanes y a aquellos designados oficialmente para hacerse cargo de las vestimentas y los vasos sagrados.",
       "smId": "pj0p9g",
-      "image": "caliz.jpg",
-      "contextImage": "Vasos_sagrados.jpg",
+      "image": "caliz-2.jpg",
+      "contextImage": "vasos-sagrados.jpg",
+      "contextHotspots": [
+        {
+          "x": 21.4,
+          "y": 42.3,
+          "title": "Cáliz",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 33.7,
+          "y": 73.1,
+          "title": "Patena",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.4,
+          "y": 10.3,
+          "title": "Custodia",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 70.1,
+          "y": 39.9,
+          "title": "Copón",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 89.7,
+          "y": 67.7,
+          "title": "Píxide",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver vasos sagrados",
       "related": [
         "copón",
@@ -1952,8 +1789,51 @@
       "word": "Copón",
       "definition": "El copón es un vaso en forma de cáliz utilizado para guardar el Santísimo Sacramento. \n\nSe utilizan dos vasos para reservar el Santísimo Sacramento: uno, llamada píxide, es una caja pequeña y redonda y sirve para llevar el Santísimo Sacramento a los enfermos; y el otro, generalmente llamado copón, se utiliza para distribuir la Sagrada Comunión en las iglesias y para reservar las partículas consagradas en el sagrario.\n\nEl copón es bendecido por un obispo o un sacerdote delegado por él, según la forma dada en el Ritual Romano. Mientras contiene las sagradas especies debe estar cubierto con un velo blanco pequeño de seda o con un paño dorado, y sólo puede ser manejado por los ministros sagrados; cuando está vacío y purificado puede ser tocado por todos los clérigos (Cong. de Ritos, enero, 1907), y por laicos especialmente autorizados.",
       "smId": "pj0p9g",
-      "image": "copones.jpg",
-      "contextImage": "Vasos_sagrados.jpg",
+      "image": "copones-3.jpg",
+      "contextImage": "vasos-sagrados.jpg",
+      "contextHotspots": [
+        {
+          "x": 21.4,
+          "y": 42.3,
+          "title": "Cáliz",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 33.7,
+          "y": 73.1,
+          "title": "Patena",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.4,
+          "y": 10.3,
+          "title": "Custodia",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 70.1,
+          "y": 39.9,
+          "title": "Copón",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 89.7,
+          "y": 67.7,
+          "title": "Píxide",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver vasos sagrados",
       "related": [
         "patena",
@@ -1965,8 +1845,35 @@
       "word": "Corporal",
       "definition": "El corporal es un paño cuadrado de lino blanco, que se extiende durante la Misa encima del altar para colocar sobre ello el cáliz, el copón y la patena. Su nombre viene del latín corpus, que significa Cuerpo, pues sobre ella va a reposar el Cuerpo del Señor. Tradicionalmente se ha asociado con el santo sudario.\n\nSu uso en la Misa es obligatorio (IGMR 80). Además, se debe usar en la exposición del Santísimo, para colocar encima la custodia o copón. También se coloca sobre una mesita cuando se lleva la comunión a los enfermos.\n\nEl corporal se dobla siempre de una manera muy específica hacia adentro (en nueve cuadrados) para que, si quedó alguna partícula directamente sobre la tela, no caiga al suelo al retirarlo. En la Misa se extiende sobre el altar en el momento del ofertorio y tras la Comunión se lo dobla y retira.",
       "smId": "pj0p9g",
-      "image": "corporal.jpg",
-      "contextImage": "panos_altar.jpg",
+      "image": "corporal-2.jpg",
+      "contextImage": "panos-altar.jpg",
+      "contextHotspots": [
+        {
+          "x": 22.2,
+          "y": 49,
+          "title": "Corporal",
+          "text": ""
+        },
+        {
+          "x": 55.7,
+          "y": 15.6,
+          "title": "Palia",
+          "text": ""
+        },
+        {
+          "x": 73.9,
+          "y": 58,
+          "title": "Manutergio",
+          "text": ""
+        },
+        {
+          "x": 36.4,
+          "y": 68.2,
+          "title": "Purificador",
+          "text": ""
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver los lienzos litúrgicos",
       "related": [
         "manutergio",
@@ -2027,8 +1934,35 @@
       "word": "Manutergio",
       "definition": "El manutergio es un paño con el que el celebrante se seca las manos cuando se las lava en la Misa. Puede ser de lino, de toalla, o de otro material que sea absorbente.",
       "smId": "pj0p9g",
-      "image": "manutergio.jpg",
-      "contextImage": "panos_altar.jpg",
+      "image": "manutergio-2.jpg",
+      "contextImage": "panos-altar.jpg",
+      "contextHotspots": [
+        {
+          "x": 22.2,
+          "y": 49,
+          "title": "Corporal",
+          "text": ""
+        },
+        {
+          "x": 55.7,
+          "y": 15.6,
+          "title": "Palia",
+          "text": ""
+        },
+        {
+          "x": 73.9,
+          "y": 58,
+          "title": "Manutergio",
+          "text": ""
+        },
+        {
+          "x": 36.4,
+          "y": 68.2,
+          "title": "Purificador",
+          "text": ""
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver los lienzos litúrgicos",
       "related": [
         "corporal",
@@ -2067,8 +2001,35 @@
       "word": "Palia",
       "definition": "La palia es una pieza cuadrada de tela rígida, generalmente de lino blanco almidonado, que se utiliza para cubrir el cáliz durante la celebración de la Misa, en el marco del ritual eucarístico. Su función principal es proteger el contenido del cáliz y los elementos sagrados de polvo, insectos u otros contaminantes externos; entre estos paños, ocupa un lugar propio por su uso específico sobre los vasos sagrados.\n\nNo lo dispone ninguna norma, pero los manuales de liturgia recomiendan que al poner y al retirar la palia del cáliz se coloque la mano izquierda sobre la base del cáliz, con el objeto de evitar que accidentalmente se tire este vaso sagrado. De esta forma, la mano izquierda está en la base del cáliz y con la mano derecha se maneja la palia.",
       "smId": "pj0p9g",
-      "image": "palia.jpg",
-      "contextImage": "panos_altar.jpg",
+      "image": "palia-2.jpg",
+      "contextImage": "panos-altar.jpg",
+      "contextHotspots": [
+        {
+          "x": 22.2,
+          "y": 49,
+          "title": "Corporal",
+          "text": ""
+        },
+        {
+          "x": 55.7,
+          "y": 15.6,
+          "title": "Palia",
+          "text": ""
+        },
+        {
+          "x": 73.9,
+          "y": 58,
+          "title": "Manutergio",
+          "text": ""
+        },
+        {
+          "x": 36.4,
+          "y": 68.2,
+          "title": "Purificador",
+          "text": ""
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver los lienzos litúrgicos",
       "related": [
         "corporal",
@@ -2080,8 +2041,51 @@
       "word": "Patena",
       "definition": "El vaso eucarístico conocido como la patena es un plato o disco pequeño poco profundo de metal precioso sobre el que se ofrece a Dios el elemento del pan en el ofertorio de la Misa, y en el que se coloca de nuevo la hostia consagrada después de la fracción. \n\nLa patena debe ser de oro o de plata dorada, y no se puede utilizar antes de que un obispo lo haya consagrado con el crisma. La forma empleada habla del vaso como bendito «para la administración de la Eucaristía de Jesucristo, para que el Cuerpo de nuestro Señor pueda ser roto sobre ella»; y también como «el sepulcro nuevo del Cuerpo y la Sangre de Jesucristo».",
       "smId": "pj0p9g",
-      "image": "patena.jpg",
-      "contextImage": "Vasos_sagrados.jpg",
+      "image": "patena-2.jpg",
+      "contextImage": "vasos-sagrados.jpg",
+      "contextHotspots": [
+        {
+          "x": 21.4,
+          "y": 42.3,
+          "title": "Cáliz",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 33.7,
+          "y": 73.1,
+          "title": "Patena",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.4,
+          "y": 10.3,
+          "title": "Custodia",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 70.1,
+          "y": 39.9,
+          "title": "Copón",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 89.7,
+          "y": 67.7,
+          "title": "Píxide",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver vasos sagrados",
       "related": [
         "copón",
@@ -2093,8 +2097,51 @@
       "word": "Píxide",
       "definition": "La píxide (del latín pyx, gr. pyxis) es un vaso pequeño destinado a contener la Sagrada Eucaristía (las Hostias consagradas), sobre todo para llevar el Viático a los enfermos. A menudo, el píxide de comunión se cuelga alrededor del cuello. Ello le recuerda a la persona que la lleva, así como a quienes la rodean, que lleva el Santísimo Sacramento.\n\nA veces, un píxide se lleva en una pequeña bolsa similar a un bolso que está diseñada para proteger aún más la píxide y las hostias consagradas en su interior. Sobre todo, el píxide debe manejarse con sumo cuidado, reconociendo que quien la sostiene con la Eucaristía dentro, está sosteniendo a Jesús, el Señor.",
       "smId": "pj0p9g",
-      "image": "pixide.jpg",
-      "contextImage": "Vasos_sagrados.jpg",
+      "image": "pixide-2.jpg",
+      "contextImage": "vasos-sagrados.jpg",
+      "contextHotspots": [
+        {
+          "x": 21.4,
+          "y": 42.3,
+          "title": "Cáliz",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 33.7,
+          "y": 73.1,
+          "title": "Patena",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.4,
+          "y": 10.3,
+          "title": "Custodia",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 70.1,
+          "y": 39.9,
+          "title": "Copón",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 89.7,
+          "y": 67.7,
+          "title": "Píxide",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver vasos sagrados",
       "related": [
         "copón",
@@ -2131,8 +2178,35 @@
       "word": "Purificador",
       "definition": "El purificador es una pieza de lino de color blanco puro o cáñamo que se utiliza para limpiar el cáliz. Se pliega en tres capas. Se le puede labrar una pequeña cruz en su centro, para distinguirlo de las pequeñas toallas para los dedos usadas en el \"lavabo\", aunque esto no está prescrito. No se bendice. \n\nAntes de la Misa se coloca sobre el cáliz, y encima del purificador se dispone la patena con la hostia de mayor tamaño. En el ofertorio, antes de preparar el cáliz, se coloca a la derecha del corporal, y de ahí es tomado para ser usado por el sacerdote. Tras las abluciones, se vuelve a colocar encima del cáliz, como al inicio de la Misa.",
       "smId": "pj0p9g",
-      "image": "purificador.jpg",
-      "contextImage": "panos_altar.jpg",
+      "image": "purificador-2.jpg",
+      "contextImage": "panos-altar.jpg",
+      "contextHotspots": [
+        {
+          "x": 22.2,
+          "y": 49,
+          "title": "Corporal",
+          "text": ""
+        },
+        {
+          "x": 55.7,
+          "y": 15.6,
+          "title": "Palia",
+          "text": ""
+        },
+        {
+          "x": 73.9,
+          "y": 58,
+          "title": "Manutergio",
+          "text": ""
+        },
+        {
+          "x": 36.4,
+          "y": 68.2,
+          "title": "Purificador",
+          "text": ""
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver los lienzos litúrgicos",
       "related": [
         "corporal",
@@ -2173,16 +2247,6 @@
       "definition": "Un pequeño envase para contener el vino y el agua requeridos para el Santo Sacrificio de la Misa. Siempre se usan dos. El Misal Romano (Rubricæ Gen., XX) prescribe que estén hechos de vidrio. Este es el material más adecuado porque se limpian fácilmente, y su transparencia evita el peligro de confundir el agua y el vino. Sin embargo, se usan otros materiales como oro, plata y otros metales preciosos. En este caso es aconsejable ponerle una V (Vinum) a la vinajera del vino y una A (aqua) a la del agua, para poder distinguirlas fácilmente.\n\nAntes de la Misa, deben colocarse sobre la credencia con suficiente agua y vino. De ahí son llevadas al altar para preparar el cáliz. Después, se regresan a la credencia. Si los fieles presentan el vino al sacerdote en el ofertorio, se colocan en una mesa fuera del presbiterio, donde las toman los fieles. Una vez preparado el cáliz, se llevan a la credencia.",
       "smId": "pj0p9g",
       "image": "vinajeras.jpg"
-    },
-    {
-      "word": "TEST",
-      "definition": "tewrewrewrewrer\nwe\nrew\nr\newr",
-      "smId": "9x09kl"
-    },
-    {
-      "word": "test2",
-      "definition": "rwerwere",
-      "smId": "mk3o08"
     }
   ],
   "documents": [
@@ -3830,7 +3894,7 @@
     "tagline": "",
     "description": "Conoce la belleza y verdad de la Liturgia Católica.",
     "footerText": "\"Ite, Missa est\" La Misa ha terminado. Hemos sido enviados.",
-    "version": "1.5",
+    "version": "1.6",
     "imageBlockAnimation": "slideUpFade",
     "headerImageAnimation": "none",
     "imageBlockAnimDelay": 100,
@@ -3854,7 +3918,7 @@
     "liturgyHoursLinkId": "xcjae8",
     "testGroupId": null
   },
-  "contentLastEdited": "2026-08-03T20:29:56.390Z",
+  "contentLastEdited": "2026-08-20T23:33:39.765Z",
   "masterSections": [
     {
       "id": "pj0p9g",
@@ -3890,24 +3954,117 @@
       "legacyTree": true
     },
     {
+      "id": "e1bdqt",
+      "name": "El Año Litúrgico",
+      "homeCard": {
+        "title": "El Año Litúrgico",
+        "subtitle": "",
+        "image": "basilica-san-francisco-de-asis-crucifijo.jpg",
+        "icon": "extra_02",
+        "design": "MB"
+      },
+      "homePresentation": "strip",
+      "stripId": "t4msq6",
+      "portadaDesign": "B",
+      "cardDesign": "B",
+      "badge": "proximamente",
+      "badgeUntil": "2027-02-27",
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "quotesDisabled": true,
+      "sections": []
+    },
+    {
+      "id": "q55j45",
+      "name": "Blog",
+      "homeCard": {
+        "title": "Blog",
+        "subtitle": "",
+        "image": "San-agustin-estudiando.jpg",
+        "icon": "primera_lectura",
+        "design": "MB"
+      },
+      "homePresentation": "blog",
+      "portadaDesign": "B",
+      "cardDesign": "B",
+      "pruebas": true,
+      "quotes": [
+        {
+          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
+          "author": "Santo Tomás de Aquino"
+        },
+        {
+          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
+          "author": "San Pío X"
+        },
+        {
+          "text": "Dame la Eucaristía y el paraíso me basta.",
+          "author": "San Felipe Neri"
+        },
+        {
+          "text": "La Misa es el sol de la espiritualidad cristiana.",
+          "author": "San Pedro Julián Eymard"
+        }
+      ],
+      "quotesDisabled": true,
+      "sections": [
+        {
+          "id": "kmshys",
+          "type": "article",
+          "tag": "Artículos de Blog",
+          "title": "Inclinaciones en la Misa",
+          "subtitle": "Descripción",
+          "color": "#8B1A1A",
+          "icon": "+",
+          "image": "305165639_n.jpg",
+          "cardImage": "20180323-121340-20180321t0843.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi corazón”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de acercarse a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "mk3o08",
-      "name": "ICONO HERO",
+      "name": "Pruebas",
       "homeCard": {
         "title": "ícono",
         "subtitle": "",
-        "image": "img-0726.jpg",
+        "image": "Carlo_Acutis_Raul_Berzosa.jpg",
         "imageFocus": {
-          "x": 0.484,
-          "y": 0.155
+          "x": 0.519,
+          "y": 0.352
         },
-        "icon": "segunda_lectura",
-        "design": "A"
+        "icon": "✦",
+        "design": "B"
       },
       "homePresentation": "hero",
       "portadaDesign": "B",
       "cardDesign": "A",
-      "badge": "nuevo",
-      "badgeUntil": "2026-09-02",
+      "pruebas": true,
+      "badge": "Test",
+      "badgeUntil": "2026-09-04",
       "quotes": [
         {
           "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
@@ -3943,7 +4100,7 @@
           {
             "label": "El Testigo fiel",
             "icon": "",
-            "dest": "www.eltestigofiel.org"
+            "dest": "https://www.eltestigofiel.org"
           }
         ]
       },
@@ -4534,232 +4691,6 @@
       ]
     },
     {
-      "id": "kp492m",
-      "name": "MB Inmersiva ancha HERO",
-      "homeCard": {
-        "title": "MB Inmersiva ancha",
-        "subtitle": "subtitulo",
-        "image": "catholic-church-england-and-wales-051.jpg",
-        "icon": "consagracion",
-        "design": "MB"
-      },
-      "homePresentation": "hero",
-      "portadaDesign": "E",
-      "cardDesign": "A",
-      "badge": "1/2 Hero",
-      "badgeUntil": "2026-09-02",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": [
-        {
-          "id": "xax4cu",
-          "type": "article",
-          "tag": "Nueva",
-          "title": "Nueva sección",
-          "subtitle": "",
-          "color": "#8B1A1A",
-          "icon": "+",
-          "image": "598156417_1303153858509806_5756579719379516857_n.jpg",
-          "cardImage": "598156417_1303153858509806_5756579719379516857_n.jpg",
-          "youtubeId": null,
-          "keyPoints": [],
-          "content": []
-        },
-        {
-          "id": "15ddx7",
-          "type": "article",
-          "tag": "Nueva",
-          "title": "Nueva sección",
-          "subtitle": "",
-          "color": "#8B1A1A",
-          "icon": "+",
-          "image": "annie-williams-oKQWqShxjXY-unsplash.jpg",
-          "cardImage": "20180323-121340-20180321t0843.jpg",
-          "youtubeId": null,
-          "keyPoints": [],
-          "content": []
-        },
-        {
-          "id": "d27t6t",
-          "type": "article",
-          "tag": "Nueva",
-          "title": "Nueva sección",
-          "subtitle": "",
-          "color": "#8B1A1A",
-          "icon": "+",
-          "image": "acerca.jpg",
-          "cardImage": "716353236-18104048093101198-2807024506901054998-n.jpg",
-          "youtubeId": null,
-          "keyPoints": [],
-          "content": []
-        },
-        {
-          "id": "uobw24",
-          "type": "article",
-          "tag": "Nueva",
-          "title": "Nueva sección",
-          "subtitle": "",
-          "color": "#8B1A1A",
-          "icon": "+",
-          "image": "305165639_n.jpg",
-          "cardImage": "20180323-121340-20180321t0843.jpg",
-          "youtubeId": null,
-          "keyPoints": [],
-          "content": []
-        }
-      ]
-    },
-    {
-      "id": "idylr6",
-      "name": "HERO TARJETA B",
-      "homeCard": {
-        "title": "HERO TARJETA B",
-        "subtitle": "sub",
-        "image": "20260402-popeleoxiv-chrismmass-vaticanmedia-01.jpg",
-        "icon": "consagracion",
-        "design": "B"
-      },
-      "homePresentation": "hero",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "badge": "proximamente",
-      "badgeUntil": "2026-09-02",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "8xf3gs",
-      "name": "HERO C",
-      "homeCard": {
-        "title": "HERO C",
-        "subtitle": "sub",
-        "image": "alfonso-scarpa-Y7289sV3BIo-unsplash.jpg",
-        "icon": "consagracion",
-        "design": "C"
-      },
-      "homePresentation": "hero",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "h4g5u8",
-      "name": "HERO D",
-      "homeCard": {
-        "title": "HERO D",
-        "subtitle": "sub",
-        "image": "annie-williams-oKQWqShxjXY-unsplash.jpg",
-        "icon": "consagracion",
-        "design": "D"
-      },
-      "homePresentation": "hero",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "xbklx8",
-      "name": "HERO E",
-      "homeCard": {
-        "title": "HERO E",
-        "subtitle": "",
-        "image": "Catedral-san-patricio-ny-lavatorio.jpg",
-        "icon": "consagracion",
-        "design": "E"
-      },
-      "homePresentation": "hero",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
       "id": "9x09kl",
       "name": "PRUEBA 2",
       "homeCard": {
@@ -4769,10 +4700,11 @@
         "icon": "consagracion",
         "design": "B"
       },
-      "homePresentation": "hero",
-      "portadaDesign": "D",
-      "cardDesign": "A",
-      "badge": "B",
+      "homePresentation": "medio-hero",
+      "portadaDesign": "C",
+      "cardDesign": "D",
+      "pruebas": true,
+      "badge": "nuevo",
       "badgeUntil": "2026-08-30",
       "quotes": [
         {
@@ -4784,6 +4716,7 @@
           "author": "sdsadasdads"
         }
       ],
+      "quotesDisabled": true,
       "sections": [
         {
           "id": "9accs8",
@@ -4819,28 +4752,26 @@
           "content": [
             {
               "type": "text",
-              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi [[corazón|TEST]]”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de [[acercarse|test2]] a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
+              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi corazón”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de acercarse a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
             }
           ]
         }
       ]
     },
     {
-      "id": "e1bdqt",
-      "name": "El Arte en la Iglesia",
+      "id": "pgua3b",
+      "name": "Módulos",
       "homeCard": {
-        "title": "El Arte en la Iglesia",
+        "title": "Módulos",
         "subtitle": "",
-        "image": "Arte-iglesia-duccio.jpg",
+        "image": "",
         "icon": "consagracion",
-        "design": "MB"
+        "design": "MA"
       },
-      "homePresentation": "strip",
-      "stripId": "t4msq6",
+      "homePresentation": "hero",
       "portadaDesign": "B",
-      "cardDesign": "A",
-      "badge": "proximamente",
-      "badgeUntil": "2027-01-30",
+      "cardDesign": "B",
+      "oculta": true,
       "quotes": [
         {
           "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
@@ -4859,564 +4790,275 @@
           "author": "San Pedro Julián Eymard"
         }
       ],
+      "quotesDisabled": true,
       "sections": [
         {
-          "id": "m9htm1",
-          "type": "article",
-          "tag": "Nueva",
-          "title": "Nueva sección",
-          "subtitle": "Descripción",
+          "id": "fab-informacion",
+          "type": "section",
+          "tag": "",
+          "title": "Información",
+          "subtitle": "",
           "color": "#8B1A1A",
-          "icon": "+",
-          "image": "basilica-san-francisco-de-asis-francisco-de-asis.jpg",
-          "cardImage": "basilica-san-francisco-de-asis-francisco-de-asis.jpg",
-          "cardImageAlign": "top",
+          "icon": "i",
+          "image": "img-8420.jpg",
+          "cardImage": "img-8420.jpg",
+          "content": [
+            {
+              "type": "text",
+              "value": "Cualquier error o bug puedes reportarlo fácilmente aquí:"
+            },
+            {
+              "type": "button",
+              "label": "Contáctame",
+              "dest": "url",
+              "value": "https://www.liturgico.org/contacto",
+              "style": "solid",
+              "align": "center"
+            }
+          ],
+          "subsections": [
+            {
+              "id": "7dwl3g",
+              "type": "article",
+              "tag": "",
+              "title": "El App",
+              "subtitle": "¿Cómo usarla?",
+              "color": "#2A5F8B",
+              "icon": "▶",
+              "image": "shutterstock-1651037905.jpg",
+              "cardImage": "shutterstock-1651037905.jpg",
+              "youtubeId": null,
+              "keyPoints": [
+                "Funcionalidad",
+                "Califica la App",
+                "Contacto"
+              ],
+              "content": [
+                {
+                  "type": "heading",
+                  "value": "Funcionalidad"
+                },
+                {
+                  "type": "imageleft",
+                  "value": "calendario.jpeg",
+                  "caption": "",
+                  "text": "**Calendario Litúrgico de Hoy**\n\nArriba a la derecha puedes ver que se celebra hoy. Ahí mismo puedes elegir otra fecha para ver las Lecturas de ese día.",
+                  "imageFit": "contain"
+                },
+                {
+                  "type": "imageleft",
+                  "value": "Anotaciones.jpeg",
+                  "caption": "",
+                  "text": "**Anotaciones**\n\nEn muchas secciones puedes subrayar y hacer anotaciones. Todos tus guardados los puedes ver tocando el ícono de notas que está en la barra inferior.\n\nEn la página de notas a demás de ver los subrayados podrás:\n\n- Deslizar para compartirlos como texto o como imagen\n- Editarlos\n- Borrarlos"
+                },
+                {
+                  "type": "imageleft",
+                  "value": "notificaciones.jpeg",
+                  "caption": "",
+                  "text": "**Notificaciones** \n\nEn tu Perfil puedes activar notificaciones para diferentes tipos de recordatorios.\n\n\n"
+                },
+                {
+                  "type": "imageleft",
+                  "value": "widget_i.jpeg",
+                  "caption": "",
+                  "text": "**Widget** \n\n¿Quieres ver rápidamente qué se celebra hoy y qué Evangelio? Agrega el Widget de hoy a tu pantalla.\n\n\n",
+                  "imageFit": "contain"
+                },
+                {
+                  "type": "imageleft",
+                  "value": "Compare-una-imagen.jpg",
+                  "caption": "",
+                  "text": "**Compartir imagen** \n\nElige una hermosa imagen y comparte del Evangelio del día. Solo debes presionar el botón de compartir en la tarjeta del App, para poder seleccionar la imagen y el tamaño del texto. Luego podrás guardar la imagen o mandarla directamente.\n\n\n",
+                  "imageFit": "contain"
+                },
+                {
+                  "type": "heading",
+                  "value": "Califica la App"
+                },
+                {
+                  "type": "text",
+                  "value": "Si el App te ayuda a conocer más de la Liturgia, por favor deja una calificación positiva y una reseña. Si encuentras algún error, contáctame."
+                },
+                {
+                  "type": "button",
+                  "label": "Califica la App",
+                  "dest": "url",
+                  "value": "misa://review",
+                  "style": "solid",
+                  "align": "left"
+                },
+                {
+                  "type": "heading",
+                  "value": "Contacto"
+                },
+                {
+                  "type": "text",
+                  "value": "Ponte en contacto conmigo para:\n- Comentarios y sugerencias\n- Reporte de errores en los textos/conceptos\n- Reporte de bugs\n- Aclaración de uso de fotos\n- Si quieres apoyar o colaborar con el App"
+                },
+                {
+                  "type": "button",
+                  "label": "Contáctame",
+                  "dest": "url",
+                  "value": "https://www.liturgico.org/contacto",
+                  "style": "solid",
+                  "align": "left"
+                },
+                {
+                  "type": "separator"
+                },
+                {
+                  "type": "text",
+                  "value": "La Misa Explicada se está construyendo de buena fe, cualquier error favor de reportarlo en el botón de arriba."
+                }
+              ]
+            },
+            {
+              "id": "acerca-del-app",
+              "type": "article",
+              "tag": "",
+              "title": "Quién y Porque",
+              "subtitle": "",
+              "color": "#3D2B6B",
+              "icon": "extra_06",
+              "image": "acerca.jpg",
+              "cardImage": "acerca.jpg",
+              "cardImageAlign": "top",
+              "youtubeId": null,
+              "keyPoints": [
+                "¿Quién?",
+                "Agradecimientos Personales",
+                "Reconocimientos"
+              ],
+              "content": [
+                {
+                  "type": "heading",
+                  "value": "¿Quién?"
+                },
+                {
+                  "type": "text",
+                  "value": "La inspiración para crear esta aplicación nació el jueves 4 de junio, Solemnidad de _Corpus Christi_ en México.\n\nDurante años ignoré la profundidad y el significado de la Liturgia, hasta que fui invitado a formar parte del equipo de animación litúrgica de mi parroquia.\n\nDesde entonces, nació en mí el deseo de compartir la belleza y la fuerza transformadora de la Liturgia Católica: un tesoro, visible e invisible, del cual se alimenta toda nuestra vida espiritual."
+                },
+                {
+                  "type": "heading",
+                  "value": "Agradecimientos Personales"
+                },
+                {
+                  "type": "text",
+                  "value": "A **Dios**, quien se dignó a llamarme por mi nombre.\nA mi **madre**, que me enseñó la fe.\nA mi **padre**, que me enseñó a poner a la familia en primer lugar.\nA mi **hermana**, que siempre me ha acompañado.\n\nA mi **esposa**, pues gracias a su amor y dedicación a nuestra familia puedo disponer del tiempo para realizar estos proyectos.\n\nA mis **hijos**, que siempre me inspiran a ser un mejor padre. También a Pollito y a Juanito.\n\nA **Fernando** y **Betty**, por sus largas y enriquecedoras charlas sobre la fe. Así como a **Abel** Della Costa (fundador de www.eltestigofiel.org).\n\nA mi parroquia Santa María de Guadalupe, a todos los miembros del equipo de animación litúrgica y, especialmente, a:\n- **Jorge** Fernández, quien despertó en mí el amor por la liturgia.\n- Al Sr. Cura **Juan** Bojórquez, quien nos regala en cada Misa un amor visible por la Eucaristía.\n- Al Pbro. **Fernando** Ocegueda, quien celebra cada Misa con una dignidad intachable.\n- A **Alfredo** Espinosa, coordinador de liturgia, y a **Manuel** Gamboa, por su incansable dedicación.\n\nTambién a todos los que me ayudaron con sus pruebas BETA. Su retroalimentación ha sido invaluable."
+                },
+                {
+                  "type": "heading",
+                  "value": "Reconocimientos"
+                },
+                {
+                  "type": "text",
+                  "value": "**Un reconocimiento destacado al Pbro. Dr. Oscar José García García, autor de parte del material expuesto en la sección de \"La Misa Explicada\"**\n\nEl Pbro. Dr. García es:\n- Doctor en Sagrada Liturgia por el Ateneo San Paciano, de Barcelona\n- Profesor de Liturgia en el Seminario Diocesano de Morelia\n- Profesor de Liturgia en la Universidad Pontificia de México\n- Perito de la Comisión Episcopal para la Pastoral Litúrgica, de la Conferencia del Episcopado Mexicano\n- Maestro de las Celebraciones Litúrgicas de la Insigne Nacional Basílica de Guadalupe"
+                },
+                {
+                  "type": "text",
+                  "value": "También a **Miguel Martínez Serrano**, autor del repositorio abierto _Breviarium_, el cual utilicé y modifiqué para la funcionalidad de la Liturgia de las Horas.\n\nA José de **Liturgiapapal.org**, por su extensa librería de recursos litúrgicos que fueron parte valiosa de mi investigación.\n\nY a www.eltestigofiel.org de donde se han tomado algunas de las Biografías de los Santos.\n"
+                }
+              ]
+            },
+            {
+              "id": "1fzvy9",
+              "type": "article",
+              "tag": "Por su intercesión",
+              "title": "Patronazgo",
+              "subtitle": "",
+              "color": "#2A5F8B",
+              "icon": "extra_05",
+              "image": "san-sisto-madonna-4ff8ba67c18ee.jpg",
+              "cardImage": "san-sisto-madonna-4ff8ba67c18ee.jpg",
+              "cardImageAlign": "top",
+              "youtubeId": null,
+              "keyPoints": [
+                "San Carlo Acutis",
+                "San Juan",
+                "Santa María de Guadalupe"
+              ],
+              "content": [
+                {
+                  "type": "heading",
+                  "value": "San Carlo Acutis"
+                },
+                {
+                  "type": "imageleft",
+                  "value": "Carlo_Acutis_Raul_Berzosa.jpg",
+                  "caption": "Pintura de © Raúl Berzosa",
+                  "text": "Carlo utilizó sus talentos tecnológicos para llevar su amor a la eucaristía a miles de personas. \n\nEs así que bajo su intercesión pongo todos los proyectos tecnológicos que vaya a crear para el bien de la Iglesia y la Gloria de Dios.",
+                  "imageFit": "contain"
+                },
+                {
+                  "type": "heading",
+                  "value": "San Juan"
+                },
+                {
+                  "type": "imageleft",
+                  "value": "SJuan_Raul_Berzosa.jpg",
+                  "caption": "Pintura de © Raúl Berzosa",
+                  "text": "San Juan fue uno de los primeros Apóstoles que comprendió la Encarnación. Bajo su amparo pongo este proyecto, para que todos dentro de la Iglesia Católica lleguen a comprender que _«La Eucaristía es el compendio y la suma de nuestra fe.»_",
+                  "imageFit": "contain"
+                },
+                {
+                  "type": "heading",
+                  "value": "Santa María de Guadalupe"
+                },
+                {
+                  "type": "imageleft",
+                  "value": "virgen-guadalupe.jpeg",
+                  "caption": "",
+                  "text": "Nuestra Santa Madre —siempre guardando las cosas en su corazón— es la maestra de la contemplación. Que interceda por nosotros para que gocemos ya desde hoy, la alegría de contemplar el amor de Dios derramado a través de los signos visibles de la Liturgia.",
+                  "imageFit": "contain"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "xcjae8",
+          "type": "article",
+          "tag": "La oración de la Iglesia",
+          "title": "La Liturgia de las Horas",
+          "subtitle": "La Liturgia de las Horas es la oración oficial de la Iglesia que santifica cada momento del día con los Salmos y la Palabra de Dios.",
+          "color": "#8B1A1A",
+          "icon": "salmo_responsorial",
+          "image": "574104045-1251833783652979-3220663262263555288-n.jpg",
+          "cardImage": "574104045-1251833783652979-3220663262263555288-n.jpg",
           "youtubeId": null,
           "keyPoints": [
-            "dsdfds"
+            "¿Qué es?",
+            "Breve Historia",
+            "Su Importancia"
           ],
           "content": [
             {
               "type": "heading",
-              "value": "dsdfds"
+              "value": "¿Qué es?"
             },
             {
               "type": "text",
-              "value": "fsdfsdfsdfdsfdsfdsfdsf"
+              "value": "La Liturgia de las Horas —también llamada **Oficio Divino**— es la oración oficial y pública de la Iglesia, distribuida a lo largo del día para santificar el tiempo. Junto con la Eucaristía, constituye la cumbre de la vida de oración de la Iglesia, aunque a diferencia de la Misa, no es un sacramento sino una oración fundamentalmente hecha de Salmos, cánticos bíblicos, lecturas de la Escritura y de los Padres de la Iglesia, himnos e intercesiones.\n\nSe estructura en distintas \"horas\" que jalonan la jornada: el **Oficio de Lectura** (de carácter más contemplativo), **Laudes** (oración matutina, que consagra el inicio del día), la **Hora Intermedia** (Tercia, Sexta o Nona, según el momento), **Vísperas** (oración vespertina, acción de gracias por el día que termina) y **Completas** (antes de dormir, encomendando la noche a Dios). Así, el cristiano «reza sin cesar» (cf. 1 Tes 5,17), consagrando las horas del día y de la noche a Dios."
+            },
+            {
+              "type": "heading",
+              "value": "Breve Historia"
+            },
+            {
+              "type": "text",
+              "value": "Sus raíces se hunden en la práctica judía de orar a horas fijas —tres veces al día, como recuerda el libro de Daniel (Dn 6,11) y los Hechos de los Apóstoles (Hch 3,1; 10,9)—, heredada por los primeros cristianos. Desde el siglo II y III existía ya la costumbre de orar por la mañana y por la noche en las comunidades cristianas.\n\nCon el auge del monacato en los siglos IV y V, esta oración se organizó de manera más estructurada: figuras como san Basilio en Oriente y san Benito en Occidente fijaron esquemas detallados de horas y salmos que los monjes debían rezar en comunidad, dando origen a lo que conocemos como el \"Oficio Monástico\". Con el tiempo, el clero secular (obispos, sacerdotes y diáconos) adoptó también esta obligación de oración diaria, que fue evolucionando —a veces haciéndose excesivamente compleja— hasta las grandes reformas.\n\nEl Concilio Vaticano II, en la constitución _Sacrosanctum Concilium_ (1963), impulsó una renovación profunda: simplificó la estructura, restauró el valor de las horas como oración de todo el Pueblo de Dios (no solo del clero y los religiosos) y promulgó en 1970 la _Liturgia Horarum_, la forma que usamos hoy."
+            },
+            {
+              "type": "heading",
+              "value": "Su Importancia"
+            },
+            {
+              "type": "text",
+              "value": "La Liturgia de las Horas tiene una hondura que vale la pena subrayar:\n\n- **Es oración de Cristo y de la Iglesia entera.** Cuando alguien reza el Oficio, no ora solo: presta su voz a Cristo, Cabeza, que ora en nombre de todo su Cuerpo, la Iglesia. Por eso se dice que en cada momento del día, en algún lugar del mundo, esta oración está resonando sin interrupción.\n\n- **Santifica el tiempo.** Convierte las horas comunes —el amanecer, el mediodía, el atardecer, la noche— en momentos de encuentro con Dios, recordándonos que toda la jornada, no solo el domingo, pertenece a Él.\n\n- **Alimenta con la Palabra y los Salmos. **Es una escuela extraordinaria de oración bíblica: quien la reza con constancia termina \"orando con las palabras de Dios mismo\".\n\n- **Está abierta a todos. **Aunque es obligación de clérigos y religiosos, el Concilio la propuso como tesoro para todo el Pueblo de Dios: catequistas, familias y laicos comprometidos pueden y son invitados a rezarla, en la medida de sus posibilidades."
             }
           ]
         }
       ]
-    },
-    {
-      "id": "q55j45",
-      "name": "Blog",
-      "homeCard": {
-        "title": "Blog",
-        "subtitle": "",
-        "image": "San-agustin-estudiando.jpg",
-        "icon": "consagracion",
-        "design": "MB"
-      },
-      "homePresentation": "blog",
-      "portadaDesign": "C",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": [
-        {
-          "id": "kmshys",
-          "type": "article",
-          "tag": "Artículos de Blog",
-          "title": "Inclinaciones en la Misa",
-          "subtitle": "Descripción",
-          "color": "#8B1A1A",
-          "icon": "+",
-          "image": "305165639_n.jpg",
-          "cardImage": "20180323-121340-20180321t0843.jpg",
-          "youtubeId": null,
-          "keyPoints": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi corazón”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de acercarse a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
-            }
-          ]
-        },
-        {
-          "id": "bi45rb",
-          "type": "article",
-          "tag": "",
-          "title": "Titulo de blog",
-          "subtitle": "Descripción",
-          "color": "#8B1A1A",
-          "icon": "+",
-          "image": "305165639_n.jpg",
-          "cardImage": "20180323-121340-20180321t0843.jpg",
-          "youtubeId": null,
-          "keyPoints": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi corazón”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de acercarse a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
-            }
-          ]
-        },
-        {
-          "id": "ty8vgd",
-          "type": "article",
-          "tag": "",
-          "title": "Titulo de blog 4 ssdsd",
-          "subtitle": "Descripción",
-          "color": "#8B1A1A",
-          "icon": "+",
-          "image": "305165639_n.jpg",
-          "cardImage": "20180323-121340-20180321t0843.jpg",
-          "youtubeId": null,
-          "keyPoints": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi corazón”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de acercarse a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "itineg",
-      "name": "MEDIA A",
-      "homeCard": {
-        "title": "MEDIA A",
-        "subtitle": "",
-        "image": "",
-        "icon": "consagracion",
-        "design": "A"
-      },
-      "homePresentation": "medio-hero",
-      "portadaDesign": "D",
-      "cardDesign": "A",
-      "badge": "nuevo",
-      "badgeUntil": "2026-09-02",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "ym00et",
-      "name": "MEDIA B",
-      "homeCard": {
-        "title": "MEDIA B",
-        "subtitle": "",
-        "image": "10-1940-dig-01-o3.jpg",
-        "icon": "consagracion",
-        "design": "B"
-      },
-      "homePresentation": "medio-hero",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "346iko",
-      "name": "MEDIA C",
-      "homeCard": {
-        "title": "MEDIA C",
-        "subtitle": "",
-        "image": "598156417_1303153858509806_5756579719379516857_n.jpg",
-        "icon": "consagracion",
-        "design": "C"
-      },
-      "homePresentation": "medio-hero",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "n68fr3",
-      "name": "MEDIA D",
-      "homeCard": {
-        "title": "MEDIA D",
-        "subtitle": "",
-        "image": "",
-        "icon": "consagracion",
-        "design": "D"
-      },
-      "homePresentation": "medio-hero",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "kxkl4p",
-      "name": "MEDIA E",
-      "homeCard": {
-        "title": "MEDIA E",
-        "subtitle": "",
-        "image": "606394259_1307774538057716_1387371614566085349_n.jpg",
-        "icon": "consagracion",
-        "design": "E"
-      },
-      "homePresentation": "medio-hero",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "byv8om",
-      "name": "STRIP 3 A",
-      "homeCard": {
-        "title": "STRIP 3 A",
-        "subtitle": "",
-        "image": "716353236-18104048093101198-2807024506901054998-n.jpg",
-        "icon": "consagracion",
-        "design": "MA"
-      },
-      "homePresentation": "strip",
-      "stripId": "th113g",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "miq32i",
-      "name": "STRIP 3 B",
-      "homeCard": {
-        "title": "STRIP 3 B",
-        "subtitle": "",
-        "image": "",
-        "icon": "consagracion",
-        "design": "MA"
-      },
-      "homePresentation": "strip",
-      "stripId": "th113g",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "raunod",
-      "name": "STRIP 3 C",
-      "homeCard": {
-        "title": "STRIP 3 C",
-        "subtitle": "",
-        "image": "",
-        "icon": "consagracion",
-        "design": "MA"
-      },
-      "homePresentation": "strip",
-      "stripId": "th113g",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "2fj7gs",
-      "name": "STRIP 3 D",
-      "homeCard": {
-        "title": "STRIP 3 D",
-        "subtitle": "",
-        "image": "",
-        "icon": "consagracion",
-        "design": "MA"
-      },
-      "homePresentation": "strip",
-      "stripId": "th113g",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "890bsu",
-      "name": "STRIP 3 E",
-      "homeCard": {
-        "title": "STRIP 3 E",
-        "subtitle": "",
-        "image": "",
-        "icon": "consagracion",
-        "design": "MA"
-      },
-      "homePresentation": "strip",
-      "stripId": "th113g",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "qli56o",
-      "name": "STRIP 3 F",
-      "homeCard": {
-        "title": "STRIP 3 F",
-        "subtitle": "",
-        "image": "",
-        "icon": "consagracion",
-        "design": "MA"
-      },
-      "homePresentation": "strip",
-      "stripId": "th113g",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "q0hyin",
-      "name": "STRIP 3 G",
-      "homeCard": {
-        "title": "STRIP 3 G",
-        "subtitle": "",
-        "image": "",
-        "icon": "consagracion",
-        "design": "MA"
-      },
-      "homePresentation": "strip",
-      "stripId": "th113g",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "lyymtr",
-      "name": "STRIP 3 SDD",
-      "homeCard": {
-        "title": "STRIP 3 SDD",
-        "subtitle": "",
-        "image": "",
-        "icon": "consagracion",
-        "design": "MA"
-      },
-      "homePresentation": "strip",
-      "stripId": "th113g",
-      "portadaDesign": "A",
-      "cardDesign": "A",
-      "quotes": [
-        {
-          "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
-          "author": "Santo Tomás de Aquino"
-        },
-        {
-          "text": "Si los ángeles pudieran envidiar algo, envidiarían la Santa Misa.",
-          "author": "San Pío X"
-        },
-        {
-          "text": "Dame la Eucaristía y el paraíso me basta.",
-          "author": "San Felipe Neri"
-        },
-        {
-          "text": "La Misa es el sol de la espiritualidad cristiana.",
-          "author": "San Pedro Julián Eymard"
-        }
-      ],
-      "sections": []
     }
   ],
   "homeLayout": [
@@ -5440,8 +5082,7 @@
     {
       "type": "widget",
       "kind": "gospel",
-      "badge": "Evangelio de hoy",
-      "badgeUntil": "2026-09-02"
+      "badge": "Evangelio de hoy"
     },
     {
       "type": "widget",
@@ -5453,63 +5094,17 @@
     },
     {
       "type": "hero",
-      "smId": "9x09kl"
-    },
-    {
-      "type": "hero",
       "smId": "mk3o08"
     },
     {
-      "type": "hero",
-      "smId": "kp492m"
-    },
-    {
-      "type": "hero",
-      "smId": "idylr6"
-    },
-    {
-      "type": "hero",
-      "smId": "8xf3gs"
-    },
-    {
-      "type": "hero",
-      "smId": "xbklx8"
-    },
-    {
       "type": "halfHero",
-      "smId": "itineg"
-    },
-    {
-      "type": "halfHero",
-      "smId": "ym00et"
-    },
-    {
-      "type": "halfHero",
-      "smId": "346iko"
-    },
-    {
-      "type": "halfHero",
-      "smId": "n68fr3"
-    },
-    {
-      "type": "hero",
-      "smId": "h4g5u8"
-    },
-    {
-      "type": "halfHero",
-      "smId": "kxkl4p"
-    },
-    {
-      "type": "strip",
-      "id": "th113g",
-      "title": "STRIP 3",
-      "design": "B"
+      "smId": "9x09kl"
     }
   ],
   "features": {
     "shareWidget": "on",
     "shareNotes": "on",
-    "notifPrePrompt": "dev"
+    "notifPrePrompt": "on"
   },
   "shareImages": [
     "SHARE_1.jpg",
@@ -5609,6 +5204,42 @@
         }
       ],
       "seed": "2026-08-02 evangelio"
+    },
+    {
+      "book": "Mt",
+      "chapter": 14,
+      "range": [
+        22,
+        23
+      ],
+      "images": [
+        {
+          "file": "jesus-and-peter-on-the-water-by-gustave-brion.jpg",
+          "focus": {
+            "x": 0.338,
+            "y": 0.455
+          }
+        }
+      ],
+      "seed": "2026-08-09 evangelio"
+    },
+    {
+      "book": "Mt",
+      "chapter": 17,
+      "range": [
+        1,
+        9
+      ],
+      "images": [
+        {
+          "file": "1688663932-1567677980065220-8-luca-giordano-2.jpg",
+          "focus": {
+            "x": 0.363,
+            "y": 0.207
+          }
+        }
+      ],
+      "seed": "2026-08-06 evangelio"
     }
   ]
 }
