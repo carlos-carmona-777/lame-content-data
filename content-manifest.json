@@ -1,7 +1,7 @@
 {
-  "contentVersion": 11,
+  "contentVersion": 12,
   "minSchema": 1,
-  "generatedAt": "2026-08-05",
+  "generatedAt": "2026-08-28",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
   "bundle": {
     "file": "content_bundle.json",
@@ -1073,8 +1073,8 @@
     },
     {
       "file": "readings-patch.json",
-      "bytes": 365650,
-      "sha256": "2c733af2422036937f2d2cfae863ec94e749bea70428ebb6578429acefd2c14a"
+      "bytes": 1440689,
+      "sha256": "05c1f756e1c42a01f7874f0a849bd8a8affc01e1a17d4890e80449de5cba9c7b"
     }
   ],
   "media": [
