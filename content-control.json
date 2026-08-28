@@ -1,6 +1,6 @@
 {
   "purgeUpTo": 11,
-  "urgentMinVersion": 12,
+  "urgentMinVersion": 13,
   "checkIntervalHours": 168,
   "featureOverrides": {
     "shareWidget": "dev",
