@@ -477,7 +477,7 @@
             },
             {
               "type": "image",
-              "value": "FraAngelico _Anunciacion.jpg",
+              "value": "FraAngelico_Anunciacion.jpg",
               "caption": ""
             },
             {
@@ -1206,7 +1206,7 @@
                 },
                 {
                   "type": "image",
-                  "value": "Fracción.jpg",
+                  "value": "Fraccion.jpg",
                   "caption": ""
                 },
                 {
@@ -1268,7 +1268,7 @@
                 },
                 {
                   "type": "image",
-                  "value": "OraciónComunion.jpg",
+                  "value": "catholic-church-england-and-wales-028.jpg",
                   "caption": ""
                 },
                 {
@@ -1284,7 +1284,7 @@
                 },
                 {
                   "type": "autocredit",
-                  "value": "Annie Williams / Unsplash\nBrooklyn Museum The Lord Prayer Le Pater Noster James Tissot\nEmbolismo\nLapaz\nDesconocido\nDesconocido\nDesconocido\nDesconocido\nChristian Harb / Unsplash\nDesconocido"
+                  "value": "Annie Williams / Unsplash\nBrooklyn Museum The Lord Prayer Le Pater Noster James Tissot\nEmbolismo\nLapaz\nFraccion\nDesconocido\nDesconocido\nDesconocido\nChristian Harb / Unsplash\nCatholic Church England and Wales, CC BY-NC-ND 2.0"
                 }
               ]
             }
@@ -3918,7 +3918,7 @@
     "liturgyHoursLinkId": "xcjae8",
     "testGroupId": null
   },
-  "contentLastEdited": "2026-08-20T23:33:39.765Z",
+  "contentLastEdited": "2026-08-30T01:22:45.980Z",
   "masterSections": [
     {
       "id": "pj0p9g",
@@ -5104,7 +5104,9 @@
   "features": {
     "shareWidget": "on",
     "shareNotes": "on",
-    "notifPrePrompt": "on"
+    "notifPrePrompt": "on",
+    "multiLang": "dev",
+    "readingsCitations": "dev"
   },
   "shareImages": [
     "SHARE_1.jpg",

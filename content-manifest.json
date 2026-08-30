@@ -1,12 +1,12 @@
 {
-  "contentVersion": 15,
+  "contentVersion": 16,
   "minSchema": 1,
-  "generatedAt": "2026-08-28",
+  "generatedAt": "2026-08-30",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
   "bundle": {
     "file": "content_bundle.json",
-    "bytes": 489360,
-    "sha256": "250442b8e0a188354e399ade7d7db9addd8ed67627e8a6323b19005227cb4042"
+    "bytes": 489469,
+    "sha256": "190c0103ee58112f15636b8685ddc8baeb37055a038a60ae7dbf84eacaef45f7"
   },
   "images": [
     {
@@ -85,11 +85,6 @@
       "sha256": "bacb7c5ada3baa9fe8081ecb7ac26684e33f187a1f5f6bffed19628047d4a87d"
     },
     {
-      "file": "Arte-iglesia-duccio.jpg",
-      "bytes": 125398,
-      "sha256": "e1b2d0ead137df3758e943dae2a080d0b4c59aa88575318bb7646d16dcb63102"
-    },
-    {
       "file": "Basilica-Guadalupe-Misa.jpg",
       "bytes": 116615,
       "sha256": "5bc52c19446681a07be64103bf898a7b0624e048bb811aee6c6aebcf61558b18"
@@ -98,11 +93,6 @@
       "file": "Basilica-San-Francisco-de-Asis_Colecta.jpg",
       "bytes": 98275,
       "sha256": "de22e2b224b97983d2a07fe6fbf61c5c90a832d69003c57fab240aab4e2759a9"
-    },
-    {
-      "file": "BasilicadeGuadalupe.jpg",
-      "bytes": 153539,
-      "sha256": "a23f2185ddc4b104e32e55c62e8b3a4c0be6552c965f819346cae78f4bc86c60"
     },
     {
       "file": "CARD_CUADRADA_ENVIO.jpg",
@@ -140,6 +130,16 @@
       "sha256": "7754ecf08f93ccffe7ff8b0db9416b2b861c4d67f51f16fa5216b58e14f4bdcf"
     },
     {
+      "file": "FraAngelico_Anunciacion.jpg",
+      "bytes": 216354,
+      "sha256": "74fcd254b6fcef2075b70f543e6aa350bfdd709b76112f0e516558c8c0fee0d7"
+    },
+    {
+      "file": "Fraccion.jpg",
+      "bytes": 98459,
+      "sha256": "ee6ed32461dc6e6588804992b69edeaf1279c05e48b8c604dd9b112ede5fe8ef"
+    },
+    {
       "file": "Guadalupe-Incienso.jpg",
       "bytes": 164189,
       "sha256": "5f9ff59269a590e92acfb9ad4882bee4cdf1ca026b841c2db26d3629d0a40159"
@@ -155,11 +155,6 @@
       "sha256": "b4e047c35be7274b48a6856b5552b10130beb56308655e90bdd6471fca932cbb"
     },
     {
-      "file": "LawrenceOP_555.jpg",
-      "bytes": 227494,
-      "sha256": "576e693f14fd02365a20bdf738ddc9ebbff5364d2ba6dfe97072cc99567cd26f"
-    },
-    {
       "file": "Liturgia-Lat.jpg",
       "bytes": 114254,
       "sha256": "a89dc503f86ed9d7cb90653f39f7a30fb101fbc942459e763f38a72e921f72c9"
@@ -168,6 +163,11 @@
       "file": "Ofertorio_Preparacion.jpg",
       "bytes": 149618,
       "sha256": "f75f78b762e4f80088b375a2a773b1ba8eb4a71e77144ec4c55b7691cc775f93"
+    },
+    {
+      "file": "OracionComunion.jpg",
+      "bytes": 162321,
+      "sha256": "5e207deca134156af260c2b5aae3813c3416b3ffc60e50f3938ec7062ba6a820"
     },
     {
       "file": "Panorama360_1.jpg",
@@ -278,11 +278,6 @@
       "file": "Sta_Maria_Guadalupe_Consagracion.jpg",
       "bytes": 139959,
       "sha256": "9745e01dcc918ccbf1016fdc6615c29f9f46e122954c3e086bc91d0a25cf5c11"
-    },
-    {
-      "file": "Vasos_sagrados.jpg",
-      "bytes": 170319,
-      "sha256": "f566fd35b2b6018c107ae8a9465406f76b1b107dec28d910bfb3d081df59017f"
     },
     {
       "file": "WIDGET_ESPECIAL_ANUNCIACION.jpg",
@@ -650,19 +645,9 @@
       "sha256": "b4c4b362a2689e0531aebccbd49a087ea3e96c6b4a93b4dccf149b44ec482c78"
     },
     {
-      "file": "caliz.jpg",
-      "bytes": 48498,
-      "sha256": "e643c7e4295c82118fa4b19eab17e83ef3404b8f1d5d5c3863bffaa810e57cc4"
-    },
-    {
       "file": "catholic-church-england-and-wales-0011.jpg",
       "bytes": 191333,
       "sha256": "6b4d9193ef3b0300367b3d015970fe7f1cadfacaa681b0451699bdb679af76ff"
-    },
-    {
-      "file": "catholic-church-england-and-wales-0013.jpg",
-      "bytes": 153322,
-      "sha256": "b27d1a66c114489d43ce7e189a8dc747e4af5526e780baee53fec77c61297590"
     },
     {
       "file": "catholic-church-england-and-wales-0031.jpg",
@@ -683,6 +668,11 @@
       "file": "catholic-church-england-and-wales-021.jpg",
       "bytes": 106179,
       "sha256": "31725b425a43b0bd4b8b4459388648a60f3ea0a07b8b78081a45ccf0540a2825"
+    },
+    {
+      "file": "catholic-church-england-and-wales-028.jpg",
+      "bytes": 210161,
+      "sha256": "20a82d248967c9dbca50be9dcef0c5f129c5516d32b3d778f59dc5aa942a14bc"
     },
     {
       "file": "catholic-church-england-and-wales-046.jpg",
@@ -760,29 +750,14 @@
       "sha256": "84748cebc80c3a9d904779c4725afce91ab1fd9603bd311913ddcc805d3b1054"
     },
     {
-      "file": "copones.jpg",
-      "bytes": 53112,
-      "sha256": "9916423d5fa841dfd659994cfe27afc33d3c90781de6f45dfd6c84ff91f3caf3"
-    },
-    {
       "file": "corporal-2.jpg",
       "bytes": 21545,
       "sha256": "207223143dd83a5b21d4b02374ca36ae128cce36735ef5281772cbc65aa78ec4"
     },
     {
-      "file": "corporal.jpg",
-      "bytes": 22636,
-      "sha256": "d21b01690d39778a52435a0fccefdeec72349b3c00b5720901bbb9cb1f9fc7ff"
-    },
-    {
       "file": "d2d78f2b2d457cb32383b28c3f6732c1-2.jpg",
       "bytes": 211004,
       "sha256": "517fce6616955fe9e851915d4e058ed163e1496c119ff5cbfe69bb27c3956c38"
-    },
-    {
-      "file": "d2d78f2b2d457cb32383b28c3f6732c1.jpg",
-      "bytes": 166293,
-      "sha256": "b4690877dc26a64e87b405c3f0391a4b65c7eb6e749336ab8538a42652785366"
     },
     {
       "file": "despido.jpg",
@@ -935,11 +910,6 @@
       "sha256": "acf220b06bbbcbdaefc67ae5ca635cef11ea5da3fded9d41b69a01f158b1fc36"
     },
     {
-      "file": "manutergio.jpg",
-      "bytes": 14832,
-      "sha256": "05e5ac0aa5c7ca75ce01e37c814472121318e8fd12220d5facbffc4a30955bbd"
-    },
-    {
       "file": "memorias1.png",
       "bytes": 14448,
       "sha256": "a603f792d7c8620e5723f17fbc55ab93182db4e97447a6bc4a57fbe3e4d14fb3"
@@ -960,19 +930,9 @@
       "sha256": "23300d9168ed989a639f24f7b3ab45c15a13743babaa6cce17227321452231c2"
     },
     {
-      "file": "palia.jpg",
-      "bytes": 50488,
-      "sha256": "628aa51adf9b5d45059377b0bee23e3980a52f025d1786962c6805ef0c870233"
-    },
-    {
       "file": "panos-altar.jpg",
       "bytes": 46535,
       "sha256": "9bf4c6a2682d7203d2874bebcd878aa6f20bc25e50b6e0e328c32c9900a05013"
-    },
-    {
-      "file": "panos_altar.jpg",
-      "bytes": 71443,
-      "sha256": "3c4343c29fe24b64e4684f365a7c2d3e63067438fc9a8f9d2051504e7a04bb3c"
     },
     {
       "file": "participacionizq.jpg",
@@ -985,29 +945,14 @@
       "sha256": "342e54f69f8b9380ad222dbcaafe5c41ec356a80ab03493af07adc8605e838fb"
     },
     {
-      "file": "patena.jpg",
-      "bytes": 18276,
-      "sha256": "8b76da6f7bfe7f5451061762c86a615a3f13a07ec886a2fd80ece364f3771df1"
-    },
-    {
       "file": "pixide-2.jpg",
       "bytes": 59301,
       "sha256": "18121ff39a24f5204e8cd7354ccb599658f93cfe32448a595f384708d713e7a0"
     },
     {
-      "file": "pixide.jpg",
-      "bytes": 44009,
-      "sha256": "4f5d45f48736f16e65d44d273a239d21f1eb371c3b353475f1160b43a4789cb2"
-    },
-    {
       "file": "purificador-2.jpg",
       "bytes": 9648,
       "sha256": "adc66fa4adb794c5209cfba4924056a7628b749405855fb63602fc5c64e62b57"
-    },
-    {
-      "file": "purificador.jpg",
-      "bytes": 11958,
-      "sha256": "67adad9eb132fd03974d87715b0a750550d84b820a8d36797e3a870858de2719"
     },
     {
       "file": "reverencia.jpg",
@@ -1048,11 +993,6 @@
       "file": "st-paul-in-prison-Gustave-Dore.jpg",
       "bytes": 261771,
       "sha256": "81f6e4c8a11d28a6f7c126dd57560a333b0ecb8fd084a53895f4de839587150b"
-    },
-    {
-      "file": "sta-rosa-de-lima-por-claudio-coello.jpg",
-      "bytes": 115068,
-      "sha256": "a8c133c5a421a5bb56958a1054c32ad50707490f53b92dd9103678866eb84c9f"
     },
     {
       "file": "ultima-cena-juan-de-juanes.jpg",
@@ -1153,8 +1093,8 @@
     },
     {
       "file": "readings-patch.json",
-      "bytes": 1448632,
-      "sha256": "4439f0a12e74853b1caa083e225cfc3ad1a705fad3b1a5fa3650d6efba101ab3"
+      "bytes": 1275887,
+      "sha256": "831a00845fa2559e9439e486d28662452db4294aecbf15f18d3a679173cddef7"
     }
   ],
   "media": [
