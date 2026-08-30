@@ -1,0 +1,349 @@
+{
+  "version": 8,
+  "days": {
+    "2027-01-22": [
+      {
+        "countries": [
+          "es"
+        ],
+        "readings": {
+          "lectures": [
+            {
+              "id": "ordinary_time_2_friday",
+              "cycle": "ODD",
+              "lecturas": [
+                {
+                  "ref": "Hb 8, 6-13: _Mejor es la alianza de la que es mediador._",
+                  "texto": "Hermanos: Ahora a nuestro sumo Sacerdote, Cristo, le ha correspondido un ministerio tanto más excelente cuanto mejor es la alianza de la que es mediador: una alianza basada en promesas mejores. Si la primera hubiera sido perfecta, no habría lugar para una segunda. \n\nPero les reprocha: «Mirad que llegan días —oráculo del Señor— en que haré con la casa de Israel y con la casa de Judá una alianza nueva; no como la alianza que hice con sus padres, cuando los tomé de la mano para sacarlos de Egipto. Ellos fueron infieles a mi alianza y yo me desentendí de ellos —oráculo del Señor—.\n\nAsí será la alianza que haré con la casa de Israel  después de aquellos días —oráculo del Señor—: pondré mis leyes en su mente y las escribiré en sus corazones;  yo seré su Dios y ellos serán mi pueblo.\n\nY no tendrá que enseñar uno a su prójimo, el otro a su hermano, diciendo: “Conoce al Señor”, porque todos me conocerán, del menor al mayor, pues perdonaré sus delitos y no me acordaré ya de sus pecados».\n\nAl decir alianza “nueva”, declaró antigua la anterior; y lo que envejece y queda anticuado, está para desaparecer.",
+                  "type": "FIRSTLECTURE"
+                },
+                {
+                  "ref": "Mc 3, 13-19: _Llamó a los que quiso para que estuvieran con él._",
+                  "texto": "En aquel tiempo, Jesús subió al monte, llamó a los que quiso y se fueron con él.\n\nE instituyó doce para que estuvieran con él y para enviarlos a predicar, y que tuvieran autoridad para expulsar a los demonios:\n\nSimón, a quien puso el nombre de Pedro, Santiago el de Zebedeo, y Juan, el hermano de Santiago, a quienes puso el nombre de Boanerges, es decir, los hijos del trueno, Andrés, Felipe, Bartolomé, Mateo, Tomás, Santiago el de Alfeo, Tadeo, Simón el de Caná y Judas Iscariote, el que lo entregó.",
+                  "type": "GOSPEL"
+                },
+                {
+                  "ref": "Sal 84, 8.10-14: _La misericordia y la fidelidad se encuentran._",
+                  "texto": "Muéstranos, Señor, tu misericordia \ny danos tu salvación. \nLa salvación está cerca de los que lo temen, \ny la gloria habitará en nuestra tierra. R.\n\nLa misericordia y la fidelidad se encuentran, \nla justicia y la paz se besan;\nla fidelidad brota de la tierra, \ny la justicia mira desde el cielo. R.\n\nEl Señor nos dará la lluvia,\ny nuestra tierra dará su fruto.\nLa justicia marchará ante él,\ny sus pasos señalarán el camino. R.\n",
+                  "type": "PSALM"
+                }
+              ]
+            }
+          ],
+          "evangelium": {
+            "id": "ordinary_time_2_friday",
+            "cycle": "ODD",
+            "evangelium_lectiones": [
+              {
+                "ref": "Mc 3, 13-19: _Llamó a los que quiso para que estuvieran con él._",
+                "texto": "En aquel tiempo, Jesús subió al monte, llamó a los que quiso y se fueron con él.\n\nE instituyó doce para que estuvieran con él y para enviarlos a predicar, y que tuvieran autoridad para expulsar a los demonios:\n\nSimón, a quien puso el nombre de Pedro, Santiago el de Zebedeo, y Juan, el hermano de Santiago, a quienes puso el nombre de Boanerges, es decir, los hijos del trueno, Andrés, Felipe, Bartolomé, Mateo, Tomás, Santiago el de Alfeo, Tadeo, Simón el de Caná y Judas Iscariote, el que lo entregó.",
+                "type": "GOSPEL"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "2027-05-10": [
+      {
+        "countries": [
+          "es"
+        ],
+        "readings": {
+          "lectures": [
+            {
+              "id": "easter_time_7_monday",
+              "cycle": "ANY",
+              "lecturas": [
+                {
+                  "ref": "Hch 19, 1-8: _¿Recibisteis el Espíritu Santo al aceptar la fe?_",
+                  "texto": "Mientras Apolo estaba en Corinto, Pablo atravesó la meseta y llegó a Éfeso. Allí encontró unos discípulos y les preguntó: «¿Recibisteis el Espíritu Santo al aceptar la fe?». \n\nContestaron: «Ni siquiera hemos oído hablar de un Espíritu Santo». \n\nÉl les dijo: «Entonces, ¿qué bautismo habéis recibido?». \n\nRespondieron:  «El bautismo de Juan». \n\nPablo les dijo: «Juan bautizó con un bautismo de conversión, diciendo al pueblo que creyesen en el que iba a venir después de él, es decir, en Jesús». \n\nAl oír esto, se bautizaron en el nombre del Señor Jesús; cuando Pablo les impuso las manos, vino sobre ellos el Espíritu Santo, y se pusieron a hablar en lenguas extrañas y a profetizar. Eran en total unos doce hombres.\n\nPablo fue a la sinagoga y durante tres meses hablaba con toda libertad del reino de Dios, dialogando con ellos y tratando de persuadirlos.",
+                  "type": "FIRSTLECTURE"
+                },
+                {
+                  "ref": "Jn 16, 29-33: _Tened valor: yo he vencido al mundo._",
+                  "texto": "En aquel tiempo, los discípulos dijeron a Jesús: \n\n«Ahora sí que hablas claro y no usas comparaciones. Ahora vemos que lo sabes todo y no necesitas que te pregunten; por ello creemos que has salido de Dios». \n\nLes contestó Jesús: \n\n«¿Ahora creéis? Pues mirad: está para llegar la hora, mejor, ya ha llegado, en que os disperséis cada cual por su lado y a mí me dejéis solo. Pero no estoy solo, porque está conmigo el Padre. Os he hablado de esto, para que encontréis la paz en mí. En el mundo tendréis luchas; pero tened valor: yo he vencido al mundo».\n",
+                  "type": "GOSPEL"
+                },
+                {
+                  "ref": "Sal 67, 2-7: _Reyes de la tierra, cantad a Dios._",
+                  "texto": "Se levanta Dios, y se dispersan sus enemigos, \nhuyen de su presencia los que lo odian;\ncomo el humo se disipa, se disipan ellos; \ncomo se derrite la cera ante el fuego, \nasí perecen los impíos ante Dios. R.\n\nEn cambio, los justos se alegran, \ngozan en la presencia de Dios, \nrebosando de alegría.\nCantad a Dios, tocad a su nombre;\nsu nombre es el Señor. R.\n\nPadre de huérfanos, protector de viudas, \nDios vive en su santa morada.\nDios prepara casa a los desvalidos, \nlibera a los cautivos y los enriquece. R.",
+                  "type": "PSALM"
+                }
+              ]
+            }
+          ],
+          "evangelium": {
+            "id": "easter_time_7_monday",
+            "cycle": "ANY",
+            "evangelium_lectiones": [
+              {
+                "ref": "Jn 16, 29-33: _Tened valor: yo he vencido al mundo._",
+                "texto": "En aquel tiempo, los discípulos dijeron a Jesús: \n\n«Ahora sí que hablas claro y no usas comparaciones. Ahora vemos que lo sabes todo y no necesitas que te pregunten; por ello creemos que has salido de Dios». \n\nLes contestó Jesús: \n\n«¿Ahora creéis? Pues mirad: está para llegar la hora, mejor, ya ha llegado, en que os disperséis cada cual por su lado y a mí me dejéis solo. Pero no estoy solo, porque está conmigo el Padre. Os he hablado de esto, para que encontréis la paz en mí. En el mundo tendréis luchas; pero tened valor: yo he vencido al mundo».\n",
+                "type": "GOSPEL"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "2027-07-16": [
+      {
+        "countries": [
+          "es"
+        ],
+        "readings": {
+          "lectures": [
+            {
+              "id": "ordinary_time_15_friday",
+              "cycle": "ODD",
+              "lecturas": [
+                {
+                  "ref": "Ex 11, 10-12, 14: _Mataréis un cordero al atardecer: cuando vea la sangre, pasaré de largo ante vosotros._",
+                  "texto": "En aquellos días, Moisés y Aarón hicieron muchos prodigios en presencia del Faraón; pero el Señor hizo que el Faraón se empeñara en no dejar marchar a los israelitas de su tierra.\n\nDijo el Señor a Moisés y a Aarón en tierra de Egipto: Este mes será para vosotros el principal de los meses; será para vosotros el primer mes del año. Decid a toda la asamblea de Israel: el diez de este mes cada uno procurará un animal para su familia, uno por casa. Si la familia es demasiado pequeña para comérselo, que se junte con el vecino de casa, hasta completar el número de personas y cada uno comerá su parte hasta terminarlo. Será un animal sin defecto, macho, de un año, cordero o cabrito. Lo guardaréis hasta el día catorce del mes y toda la asamblea de Israel lo matará al atardecer. Tomaréis la sangre y rociaréis las dos jambas y el dintel de la casa donde lo hayáis comido.\n\nEsa noche comeréis la carne, asada a fuego, y comeréis panes sin fermentar y verduras amargas. No comeréis de ella nada crudo, ni cocido en agua, sino asado a fuego: con cabeza, patas y tripas. No dejaréis restos para la mañana siguiente; y si sobra algo, lo quemaréis. \n\nY lo comeréis así: la cintura ceñida, las sandalias en los pies, un bastón en la mano; y os lo comeréis a toda prisa, porque es la Pascua, el Paso del Señor. Yo pasaré esta noche por la tierra de Egipto y heriré a todos los primogénitos del país de Egipto, desde los hombres hasta los ganados, y me tomaré justicia de todos los dioses de Egipto. Yo, el Señor.\n\nLa sangre será vuestra señal en las casas donde habitáis. Cuando yo vea la sangre, pasaré de largo ante vosotros, y no habrá entre vosotros plaga exterminadora, cuando yo hiera al país de Egipto. Este será un día memorable para vosotros y lo celebraréis como fiesta en honor del Señor, de generación en generación. Decretaréis que sea fiesta para siempre.",
+                  "type": "FIRSTLECTURE"
+                },
+                {
+                  "ref": "Mt 12, 1-8: _El Hijo del hombre es señor del sábado._",
+                  "texto": "En aquel tiempo, atravesó Jesús en sábado un sembrado; los discípulos, que tenían hambre, empezaron a arrancar espigas y a comérselas. \n\nLos fariseos, al verlo, le dijeron: \n\n«Mira, tus discípulos están haciendo una cosa que no está permitida en sábado». \n\nLes replicó: \n\n«¿No habéis leído lo que hizo David, cuando él y sus hombres sintieron hambre? Entró en la casa de Dios y comieron de los panes de la proposición, cosa que no les estaba permitida ni a él ni a sus compañeros, sino solo a los sacerdotes. \n\n¿Y no habéis leído en la ley que los sacerdotes pueden violar el sábado en el templo sin incurrir en culpa? \n\nPues os digo que aquí hay uno que es más que el templo. \n\nSi comprendierais lo que significa \"quiero misericordia y no sacrificio\", no condenaríais a los inocentes. Porque el Hijo del hombre es señor del sábado».\n",
+                  "type": "GOSPEL"
+                },
+                {
+                  "ref": "Sal 115, 12-13.15-18: _Alzaré la copa de la salvación, invocando el nombre del Señor._",
+                  "texto": "¿Cómo pagaré al Señor \ntodo el bien que me ha hecho?\nAlzaré la copa de la salvación, \ninvocando el nombre del Señor. R.\n\nMucho le cuesta al Señor \nla muerte de sus fieles.\nSeñor, yo soy tu siervo, \nhijo de tu esclava: \nrompiste mis cadenas. R.\n\nTe ofreceré un sacrificio de alabanza, \ninvocando el nombre del Señor.\nCumpliré al Señor mis votos \nen presencia de todo el pueblo. R.\n",
+                  "type": "PSALM"
+                }
+              ]
+            }
+          ],
+          "evangelium": {
+            "id": "ordinary_time_15_friday",
+            "cycle": "ODD",
+            "evangelium_lectiones": [
+              {
+                "ref": "Mt 12, 1-8: _El Hijo del hombre es señor del sábado._",
+                "texto": "En aquel tiempo, atravesó Jesús en sábado un sembrado; los discípulos, que tenían hambre, empezaron a arrancar espigas y a comérselas. \n\nLos fariseos, al verlo, le dijeron: \n\n«Mira, tus discípulos están haciendo una cosa que no está permitida en sábado». \n\nLes replicó: \n\n«¿No habéis leído lo que hizo David, cuando él y sus hombres sintieron hambre? Entró en la casa de Dios y comieron de los panes de la proposición, cosa que no les estaba permitida ni a él ni a sus compañeros, sino solo a los sacerdotes. \n\n¿Y no habéis leído en la ley que los sacerdotes pueden violar el sábado en el templo sin incurrir en culpa? \n\nPues os digo que aquí hay uno que es más que el templo. \n\nSi comprendierais lo que significa \"quiero misericordia y no sacrificio\", no condenaríais a los inocentes. Porque el Hijo del hombre es señor del sábado».\n",
+                "type": "GOSPEL"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "2028-01-22": [
+      {
+        "countries": [
+          "es"
+        ],
+        "readings": {
+          "lectures": [
+            {
+              "id": "ordinary_time_2_saturday",
+              "cycle": "EVEN",
+              "lecturas": [
+                {
+                  "ref": "2 Sam 1, 1-4.11-12.19.23-27: _¡Cómo han caído los héroes en medio del combate!_",
+                  "texto": "En aquellos días, David regresó tras derrotar a Amalee y se detuvo dos días en Sicelag. Al tercer día vino un hombre del campamento de Saúl con las vestiduras rasgadas y tierra en la cabeza. Al llegar a la presencia de David, cayó a tierra y se postró.\n\nDavid le preguntó: «¿De dónde vienes?»\n\nRespondió: «He huido del campamento de Israel».\n\nDavid le preguntó de nuevo: «¿Qué ha sucedido? Cuéntamelo».\n\nRespondió: «La tropa ha huído de la batalla y muchos del pueblo han caído y han muerto, entre ellos Saúl y su hijo Jonatán».\n\nEntonces David, echando mano a sus vestidos, los rasgó, lo mismo que sus acompañantes. Hicieron duelo, lloraron y ayunaron hasta la tarde por Saúl, por su hijo Jonatán, por el pueblo del Señor y por la casa de Israel, caídos a espada.\n\nY dijo David: «La flor de Israel herida en tus alturas. Cómo han caído los héroes.\n\nSaúl y Jonatán, amables y gratos en su vida, inseparables en su muerte, más veloces que águilas, más valientes que leones.\n\nHijas de Israel, llorad por Saúl, que os cubría de púrpura y adornos, que adornaba con alhajas de oro vuestros vestidos. Cómo han caído los héroes en medio del combate. Jonatán, herido en tus alturas. Estoy apenado por ti, Jonatán, hermano mío.\n\nMe eras gratísimo, tu amistad me resultaba más dulce que el amor de mujeres. Cómo han caído los héroes. Han perecido las armas de combate».",
+                  "type": "FIRSTLECTURE"
+                },
+                {
+                  "ref": "Mc 3, 20-21: _Su familia decía que estaba fuera de sí._",
+                  "texto": "En aquel tiempo, Jesús llega a casa con sus discípulos y de nuevo se junta tanta gente que no los dejaban ni comer. Al enterarse su familia, vinieron a llevárselo, porque se decía que estaba fuera de sí.\n",
+                  "type": "GOSPEL"
+                },
+                {
+                  "ref": "Sal 79, 2-3.5-7: _Que brille tu rostro, Señor, y nos salve._",
+                  "texto": "Pastor de Israel, escucha,\ntú que guías a José como a un rebaño;\ntú que te sientas sobre querubines, resplandece\nante Efraín, Benjamín y Manasés;\ndespierta tu poder y ven a salvarnos. R.\n\nSeñor, Dios del universo,\n¿hasta cuándo estarás airado\nmientras tu pueblo te suplica? R.\n\nLes diste a comer llanto,\na beber lágrimas a tragos;\nnos entregaste a las contiendas de nuestros vecinos,\nnuestros enemigos se burlan de nosotros. R.\n",
+                  "type": "PSALM"
+                }
+              ]
+            }
+          ],
+          "evangelium": {
+            "id": "ordinary_time_2_saturday",
+            "cycle": "EVEN",
+            "evangelium_lectiones": [
+              {
+                "ref": "Mc 3, 20-21: _Su familia decía que estaba fuera de sí._",
+                "texto": "En aquel tiempo, Jesús llega a casa con sus discípulos y de nuevo se junta tanta gente que no los dejaban ni comer. Al enterarse su familia, vinieron a llevárselo, porque se decía que estaba fuera de sí.\n",
+                "type": "GOSPEL"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "2028-05-10": [
+      {
+        "countries": [
+          "es"
+        ],
+        "readings": {
+          "lectures": [
+            {
+              "id": "easter_time_4_wednesday",
+              "cycle": "ANY",
+              "lecturas": [
+                {
+                  "ref": "Hch 12, 24-13, 5: _Apartadme a Bernabé y a Saulo._",
+                  "texto": "En aquellos días, la palabra de Dios iba creciendo y se multiplicaba. Cuando cumplieron su servicio, Bernabé y Saulo se volvieron de Jerusalén, llevándose con ellos a Juan, por sobrenombre Marcos.\n\nEn la Iglesia que estaba en Antioquía había profetas y maestros: Bernabé, Simeón, llamado Níger; Lucio, el de Cirene; Manahén, hermano de leche del tetrarca Herodes, y Saulo. \n\nUn día que estaban celebrando el culto al Señor y ayunaban, dijo el Espíritu Santo: \n\n«Apartadme a Bernabé y a Saulo para la obra a que los he llamado». \n\nEntonces, después de ayunar y orar, les impusieron las manos y los enviaron. Con esta misión del Espíritu Santo, bajaron a Seleucia y de allí zarparon para Chipre.\n\nLlegados a Salamina, anunciaron la palabra de Dios en las sinagogas de los judíos.\n",
+                  "type": "FIRSTLECTURE"
+                },
+                {
+                  "ref": "Jn 12, 44-50: _Yo he venido al mundo como luz._",
+                  "texto": "En aquel tiempo, Jesús gritó diciendo: \n\n«El que cree en mí, no cree en mí, sino en el que me ha enviado. Y el que me ve a mí, ve al que me ha enviado. Yo he venido al mundo como luz, y así, el que cree en mí no quedará en tinieblas. \n\nAl que oiga mis palabras y no las cumpla, yo no lo juzgo, porque no he venido para juzgar al mundo, sino para salvar al mundo. El que me rechaza y no acepta mis palabras tiene quien lo juzgue: la palabra que yo he pronunciado, esa lo juzgará en el último día. Porque yo no he hablado por cuenta mía; el Padre que me envió es quien me ha ordenado lo que he de decir y cómo he de hablar. Y sé que su mandato es vida eterna. Por tanto, lo que yo hablo, lo hablo como me ha encargado el Padre».\n",
+                  "type": "GOSPEL"
+                },
+                {
+                  "ref": "Sal 66, 2-3.5.6.8: _Oh, Dios, que te alaben los pueblos, que todos los pueblos te alaben._",
+                  "texto": "Que Dios tenga piedad y nos bendiga,\nilumine su rostro sobre nosotros;\nconozca la tierra tus caminos,\ntodos los pueblos tu salvación. R.\n\nQue canten de alegría las naciones,\nporque riges el mundo con justicia\ny gobiernas las naciones de la tierra. R.\n\nOh Dios, que te alaben los pueblos,\nque todos los pueblos te alaben.\nQue Dios nos bendiga; que le teman\ntodos los confines de la tierra. R.",
+                  "type": "PSALM"
+                }
+              ]
+            }
+          ],
+          "evangelium": {
+            "id": "easter_time_4_wednesday",
+            "cycle": "ANY",
+            "evangelium_lectiones": [
+              {
+                "ref": "Jn 12, 44-50: _Yo he venido al mundo como luz._",
+                "texto": "En aquel tiempo, Jesús gritó diciendo: \n\n«El que cree en mí, no cree en mí, sino en el que me ha enviado. Y el que me ve a mí, ve al que me ha enviado. Yo he venido al mundo como luz, y así, el que cree en mí no quedará en tinieblas. \n\nAl que oiga mis palabras y no las cumpla, yo no lo juzgo, porque no he venido para juzgar al mundo, sino para salvar al mundo. El que me rechaza y no acepta mis palabras tiene quien lo juzgue: la palabra que yo he pronunciado, esa lo juzgará en el último día. Porque yo no he hablado por cuenta mía; el Padre que me envió es quien me ha ordenado lo que he de decir y cómo he de hablar. Y sé que su mandato es vida eterna. Por tanto, lo que yo hablo, lo hablo como me ha encargado el Padre».\n",
+                "type": "GOSPEL"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "2029-01-22": [
+      {
+        "countries": [
+          "es"
+        ],
+        "readings": {
+          "lectures": [
+            {
+              "id": "ordinary_time_3_monday",
+              "cycle": "ODD",
+              "lecturas": [
+                {
+                  "ref": "Hb 9, 15.24-28: _Se ofreció una sola vez para quitar los pecados. La segunda vez aparecerá a los que lo esperan._",
+                  "texto": "Hermanos: Cristo es mediador de una alianza nueva: en ella ha habido una muerte que ha redimido de los pecados cometidos durante la primera alianza; y así los llamados pueden recibir la promesa de la herencia eterna.\n\nCristo entró no en un santuario construido por hombres, imagen del auténtico, sino en el mismo cielo, para ponerse ante Dios, intercediendo por nosotros. \n\nTampoco se ofrece a sí mismo muchas veces como el sumo sacerdote, que entraba en el santuario todos los años y ofrecía sangre ajena. Si hubiese sido así, tendría que haber padecido muchas veces, desde la fundación del mundo. De hecho, él se ha manifestado una sola vez, al final de los tiempos, para destruir el pecado con el sacrificio de sí mismo. \nPor cuanto el destino de los hombres es morir una sola vez; y después de la muerte, el juicio. \n\nDe la misma manera, Cristo se ofreció una sola vez para quitar los pecados de todos. La segunda vez aparecerá, sin ninguna relación al pecado, para salvar a los que lo esperan.",
+                  "type": "FIRSTLECTURE"
+                },
+                {
+                  "ref": "Mc 3, 22-30: _Satanás está perdido._",
+                  "texto": "En aquel tiempo, los escribas que habían bajado de Jerusalén decían:\n\n«Tiene dentro a Belzebú y expulsa a los demonios con el poder del jefe de los demonios».\n\nÉl los invitó a acercarse y les hablaba en parábolas:\n\n«¿Cómo va a echar Satanás a Satanás? Un reino dividido internamente no puede subsistir; una familia dividida no puede subsistir. Si Satanás se rebela contra sí mismo, para hacerse la guerra, no puede subsistir, está perdido. Nadie puede meterse en casa de un hombre forzudo para arramblar con su ajuar, si primero no lo ata; entonces podrá arramblar con la casa.\n\nEn verdad os digo, todo se les podrá perdonar a los hombres: los pecados y cualquier blasfemia que digan; pero el que blasfeme contra el Espíritu Santo no tendrá perdón jamás, cargará con su pecado para siempre».\n\nSe refería a los que decían que tenía dentro un espíritu inmundo.",
+                  "type": "GOSPEL"
+                },
+                {
+                  "ref": "Sal 97, 1-6: _Cantad al Señor un cántico nuevo, porque ha hecho maravillas._",
+                  "texto": "Cantad al Señor un cántico nuevo,\nporque ha hecho maravillas.\nSu diestra le ha dado la victoria,\nsu santo brazo. R.\n\nEl Señor da a conocer su salvación,\nrevela a las naciones su justicia.\nSe acordó de su misericordia y su fidelidad\nen favor de la casa de Israel. R.\n\nLos confines de la tierra han contemplado\nla salvación de nuestro Dios.\nAclama al Señor, tierra entera;\ngritad, vitoread, tocad. R.\n\nTañed la cítara para el Señor,\nsuenen los instrumentos:\ncon clarines y al son de trompetas,\naclamad al Rey y Señor. R.\n",
+                  "type": "PSALM"
+                }
+              ]
+            }
+          ],
+          "evangelium": {
+            "id": "ordinary_time_3_monday",
+            "cycle": "ODD",
+            "evangelium_lectiones": [
+              {
+                "ref": "Mc 3, 22-30: _Satanás está perdido._",
+                "texto": "En aquel tiempo, los escribas que habían bajado de Jerusalén decían:\n\n«Tiene dentro a Belzebú y expulsa a los demonios con el poder del jefe de los demonios».\n\nÉl los invitó a acercarse y les hablaba en parábolas:\n\n«¿Cómo va a echar Satanás a Satanás? Un reino dividido internamente no puede subsistir; una familia dividida no puede subsistir. Si Satanás se rebela contra sí mismo, para hacerse la guerra, no puede subsistir, está perdido. Nadie puede meterse en casa de un hombre forzudo para arramblar con su ajuar, si primero no lo ata; entonces podrá arramblar con la casa.\n\nEn verdad os digo, todo se les podrá perdonar a los hombres: los pecados y cualquier blasfemia que digan; pero el que blasfeme contra el Espíritu Santo no tendrá perdón jamás, cargará con su pecado para siempre».\n\nSe refería a los que decían que tenía dentro un espíritu inmundo.",
+                "type": "GOSPEL"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "2029-05-10": [
+      {
+        "countries": [
+          "es"
+        ],
+        "readings": {
+          "lectures": [
+            {
+              "id": "easter_time_6_thursday",
+              "cycle": "ANY",
+              "lecturas": [
+                {
+                  "ref": "Hch 16, 22-34: _Cree en el Señor Jesús y te salvarás tú y tu familia._",
+                  "texto": "En aquellos días, la plebe de Filipos se amotinó contra Pablo y Silas, y los magistrados ordenaron que les arrancaran los vestidos y que los azotaran con varas; después de molerlos a palos, los metieron en la cárcel, encargando al carcelero que los vigilara bien; según la orden recibida, él los cogió, los metió en la mazmorra y les sujetó los pies en el cepo.\n\nA eso de media noche, Pablo y Silas oraban cantando himnos a Dios. Los presos los escuchaban. De repente, vino un terremoto tan violento que temblaron los cimientos de la cárcel. Al momento se abrieron todas las puertas, y a todos se les soltaron las cadenas. El carcelero se despertó y, al ver las puertas de la cárcel de par en par, sacó la espada para suicidarse, imaginando que los presos se habían fugado. Pero Pablo lo llamó a gritos, diciendo: «No te hagas daño alguno, que estamos todos aquí». \n\nEl carcelero pidió una lámpara, saltó dentro, y se echó temblando a los pies de Pablo y Silas; los sacó fuera y les preguntó: «Señores, ¿qué tengo que hacer para salvarme?». \n\nLe contestaron: «Cree en el Señor Jesús y te salvarás tú y tu familia». \n\nY le explicaron la palabra del Señor, a él y a todos los de su casa.\n\nA aquellas horas de la noche, el carcelero los tomó consigo, les lavó las heridas, y se bautizó enseguida con todos los suyos; los subió a su casa, les preparó la mesa, y celebraron una fiesta de familia por haber creído en Dios.\n",
+                  "type": "FIRSTLECTURE"
+                },
+                {
+                  "ref": "Jn 16, 5-11: _Si no me voy, no vendrá a vosotros el Paráclito._",
+                  "texto": "En aquel tiempo, dijo Jesús a sus discípulos: \n\n«Ahora me voy al que me envió, y ninguno de vosotros me pregunta: \"¿Adónde vas?\". Sino que, por haberos dicho esto, la tristeza os ha llenado el corazón. Sin embargo, os digo la verdad: os conviene que yo me vaya; porque si no me voy, no vendrá a vosotros el Paráclito. En cambio, si me voy, os lo enviaré. \n\nY cuando venga, dejará convicto al mundo acerca de un pecado, de una justicia y de una condena. De un pecado, porque no creen en mí; de una justicia, porque me voy al Padre, y no me veréis; de una condena, porque el príncipe de este mundo está condenado».\n",
+                  "type": "GOSPEL"
+                },
+                {
+                  "ref": "Sal 137, 1-3.7c-8: _Tu derecha me salva, Señor._",
+                  "texto": "Te doy gracias, Señor, de todo corazón, \nporque escuchaste las palabras de mi boca; \ndelante de los ángeles tañeré para ti;\nme postraré hacia tu santuario. R.\n\nDaré gracias a tu nombre: \npor tu misericordia y tu lealtad,\nporque tu promesa supera tu fama.\nCuando te invoqué, me escuchaste, \nacreciste el valor en mi alma. R.\n\nTu derecha me salva.\nEl Señor completará sus favores conmigo. \nSeñor, tu misericordia es eterna, \nno abandones la obra de tus manos. R.\n",
+                  "type": "PSALM"
+                }
+              ]
+            }
+          ],
+          "evangelium": {
+            "id": "easter_time_6_thursday",
+            "cycle": "ANY",
+            "evangelium_lectiones": [
+              {
+                "ref": "Jn 16, 5-11: _Si no me voy, no vendrá a vosotros el Paráclito._",
+                "texto": "En aquel tiempo, dijo Jesús a sus discípulos: \n\n«Ahora me voy al que me envió, y ninguno de vosotros me pregunta: \"¿Adónde vas?\". Sino que, por haberos dicho esto, la tristeza os ha llenado el corazón. Sin embargo, os digo la verdad: os conviene que yo me vaya; porque si no me voy, no vendrá a vosotros el Paráclito. En cambio, si me voy, os lo enviaré. \n\nY cuando venga, dejará convicto al mundo acerca de un pecado, de una justicia y de una condena. De un pecado, porque no creen en mí; de una justicia, porque me voy al Padre, y no me veréis; de una condena, porque el príncipe de este mundo está condenado».\n",
+                "type": "GOSPEL"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "2029-07-16": [
+      {
+        "countries": [
+          "es"
+        ],
+        "readings": {
+          "lectures": [
+            {
+              "id": "ordinary_time_15_monday",
+              "cycle": "ODD",
+              "lecturas": [
+                {
+                  "ref": "Ex 1, 8-14.22: _Vamos a vencer con astucia a Israel, porque está siendo más numeroso y fuerte que nosotros._",
+                  "texto": "En aquellos días, subió al trono en Egipto un Faraón nuevo que no había conocido a José, y dijo a su pueblo: Mirad, el pueblo de Israel está siendo más numeroso y fuerte que nosotros: vamos a vencerlo con astucia, pues si no, cuando se declare la guerra, se aliará con el enemigo, nos atacará, y después se marchará de nuestra tierra.\n\nAsí, pues, nombraron capataces que los oprimieran con cargas, en la construcción de las ciudades-granero, Pitom y Ramsés. Pero cuanto más los oprimían, ellos crecían y se propagaban más. Hartos de los israelitas, los egipcios les impusieron trabajos crueles, y les amargaron la vida con dura esclavitud: el trabajo del barro, de los ladrillos, y toda clase de trabajos del campo; les imponían trabajos crueles.\n\nEntonces el Faraón ordenó a toda su gente: Cuando nazca un niño, echadlo al Nilo; si es niña, dejadla con vida.",
+                  "type": "FIRSTLECTURE"
+                },
+                {
+                  "ref": "Mt 10, 34 - 11, 1: _No he venido a sembrar paz, sino espadas._",
+                  "texto": "En aquel tiempo, dijo Jesús a sus Apóstoles:\n\nNo penséis que he venido a la tierra a sembrar paz: no he venido a sembrar paz, sino espadas. He venido a enemistar al hombre con su padre, a la hija con su madre, a la nuera con su suegra; los enemigos de cada uno serán los de su propia casa.\n\nEl que quiere a su padre o a su madre más que a mí, no es digno de mí; el que quiere a su hijo o a su hija más que a mí, no es digno de mí; y el que no coge su cruz y me sigue, no es digno de mí. El que encuentre su vida la perderá, y el que pierda su vida por mí, la encontrará.\n\nEl que os recibe a vosotros, me recibe a mí, y el que me recibe, recibe al que me ha enviado; el que recibe a un profeta porque es profeta, tendrá paga de profeta; y el que recibe a un justo porque es justo, tendrá paga de justo. El que dé a beber, aunque no sea más que un vaso de agua fresca, a uno de estos pobrecillos, sólo porque es mi discípulo, no perderá su paga, os lo aseguro.\n\nCuando Jesús acabó de dar instrucciones a sus doce discípulos, partió de allí para enseñar y predicar en sus ciudades.",
+                  "type": "GOSPEL"
+                },
+                {
+                  "ref": "Sal 123, 1-3.4-6.7-8: _Nuestro auxilio es el nombre del Señor._",
+                  "texto": "Si el Señor no hubiera estado de nuestra parte\n-que lo diga Israel-,\nsi el Señor no hubiera estado de nuestra parte,\ncuando nos asaltaban los hombres,\nnos habrían tragado vivos,\ntanto ardía su ira contra nosotros. R.\n\nNos habrían arrollado las aguas,\nllegándonos el torrente hasta el cuello;\nnos habrían llegado hasta el cuello\nlas aguas espumantes.\nBendito el Señor que no nos entregó\nen presa a sus dientes. R.\n\nHemos salvado la vida como un pájaro\nde la trampa del cazador;\nla trampa se rompió y escapamos.\nNuestro auxilio es el nombre del Señor,\nque hizo el cielo y la tierra. R.",
+                  "type": "PSALM"
+                }
+              ]
+            }
+          ],
+          "evangelium": {
+            "id": "ordinary_time_15_monday",
+            "cycle": "ODD",
+            "evangelium_lectiones": [
+              {
+                "ref": "Mt 10, 34 - 11, 1: _No he venido a sembrar paz, sino espadas._",
+                "texto": "En aquel tiempo, dijo Jesús a sus Apóstoles:\n\nNo penséis que he venido a la tierra a sembrar paz: no he venido a sembrar paz, sino espadas. He venido a enemistar al hombre con su padre, a la hija con su madre, a la nuera con su suegra; los enemigos de cada uno serán los de su propia casa.\n\nEl que quiere a su padre o a su madre más que a mí, no es digno de mí; el que quiere a su hijo o a su hija más que a mí, no es digno de mí; y el que no coge su cruz y me sigue, no es digno de mí. El que encuentre su vida la perderá, y el que pierda su vida por mí, la encontrará.\n\nEl que os recibe a vosotros, me recibe a mí, y el que me recibe, recibe al que me ha enviado; el que recibe a un profeta porque es profeta, tendrá paga de profeta; y el que recibe a un justo porque es justo, tendrá paga de justo. El que dé a beber, aunque no sea más que un vaso de agua fresca, a uno de estos pobrecillos, sólo porque es mi discípulo, no perderá su paga, os lo aseguro.\n\nCuando Jesús acabó de dar instrucciones a sus doce discípulos, partió de allí para enseñar y predicar en sus ciudades.",
+                "type": "GOSPEL"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
