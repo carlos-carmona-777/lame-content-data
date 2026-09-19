@@ -3918,7 +3918,7 @@
     "liturgyHoursLinkId": "xcjae8",
     "testGroupId": null
   },
-  "contentLastEdited": "2026-08-31T12:52:33.527Z",
+  "contentLastEdited": "2026-09-19T14:24:16.557Z",
   "masterSections": [
     {
       "id": "pj0p9g",
@@ -4001,6 +4001,7 @@
         "design": "MB"
       },
       "homePresentation": "blog",
+      "articleDesign": "B",
       "portadaDesign": "B",
       "cardDesign": "B",
       "pruebas": true,
@@ -4023,13 +4024,19 @@
         }
       ],
       "quotesDisabled": true,
+      "hashtagHooks": {
+        "portada": false,
+        "articulo": true,
+        "busqueda": true,
+        "design": "2"
+      },
       "sections": [
         {
           "id": "kmshys",
           "type": "article",
           "tag": "Artículos de Blog",
-          "title": "Inclinaciones en la Misa",
-          "subtitle": "Descripción",
+          "title": "El ciclo trianual de lecturas dominicales",
+          "subtitle": "",
           "color": "#8B1A1A",
           "icon": "+",
           "image": "305165639_n.jpg",
@@ -4039,8 +4046,12 @@
           "content": [
             {
               "type": "text",
-              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi corazón”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de acercarse a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
+              "value": "La liturgia dominical presenta una variación año con año, pues existen tres ciclos de lecturas, que se identifican con las letras A, B y C. ¿Cómo se determina eso? Sencillo: el ciclo C corresponde a los años cuyo número sea divisible por tres, como si el ciclo hubiera empezado el primer año del cómputo cristiano. Según esto, el año 1 hubiera sido el ciclo A, el año 2 el B, el año 3 el C, y los años 6, 9, 12… otra vez el ciclo C. Así, por ejemplo, el año 2016 fue ciclo C, el año siguiente, esto es, el año 2017, fue ciclo A, el año 2018 fue ciclo B y el año 2019 volvió a ser ciclo C. \n\nCada ciclo corresponde a un evangelista sinópitico, pues durante el tiempo ordinario de ese ciclo se lee preponderantemente el Evangelio escrito por cada uno de estos autores. \n\nDe esta forma, en el ciclo A se lee el primero de los Evangelios, el de Mateo, de la siguiente forma: "
             }
+          ],
+          "hashtags": [
+            "ciclo-liturgico",
+            "calendario"
           ]
         }
       ]
@@ -4775,7 +4786,7 @@
           "content": [
             {
               "type": "text",
-              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi corazón”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de proclamarlo.\n3.- En las palabras “Y por obra del Espíritu Santo…” del Credo.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de acercarse a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
+              "value": "En el rito romano actual hay dos clases de inclinación: de cuerpo o profunda, y de cabeza.\nA) La inclinación profunda se hace doblando todo el tronco superior, desde la cintura, hacia delante. Esta inclinación se hace:\n1.- Al altar, todos los que se acercan al presbiterio, o se retiran, o pasan delante.\n2.-  En la oración “Purifica mi **corazón**”, que se dice antes de proclamar el Evangelio, si lo dice el sacerdote; o el diácono mientras recibe la bendición antes de ~proclamarlo~.\n3.- En las palabras “Y por obra del Espíritu Santo…” del _Credo_.\n4.- En la oración  “Acepta, Señor, nuestro corazón contrito” durante el ofertorio.\n5.- En el Canon Romano, durante las palabras “Te pedimos humildemente”.\n6.- El sacerdote, además, debe pronunciar las palabras del Señor, durante la Consagración, haciendo una inclinación.\n7.- Los acólitos hacen la inclinación antes de acercarse a prestarle un servicio al celebrante (acercarle el misal, lavarle las manos, ponerle la mitra) y al retirarse. \n8.- También se requiere la inclinación profunda al Obispo, antes y después de la incensación.\nAdemás, habrá que hacerla cada vez que los distintos libros litúrgicos lo ordenan expresamente.\nB) En la inclinación de cabeza, únicamente se mueve la cabeza desde el cuello, sin que se mueva el tronco.\nLa inclinación de cabeza se realiza cuando se mencionan las tres Personas Divinas a la vez (por ejemplo, en la primera parte del Gloria) el nombre de Jesús, el nombre de María o el santo en honor a quien se celebra la misa. Textualmente dice la Instrucción General del Misal Romano en el núm. 275: “La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.”\nCuando concurren el nombre de la Virgen María o al santo del día junto con el nombre de Jesús (por ejemplo, en la Plegaria Eucarística I), se sugiere hacer más profunda la inclinación al nombre de Jesús."
             }
           ]
         }
@@ -5129,7 +5140,8 @@
     "shareNotes": "on",
     "notifPrePrompt": "on",
     "multiLang": "dev",
-    "readingsCitations": "dev"
+    "readingsCitations": "dev",
+    "hoursListen": "dev"
   },
   "shareImages": [
     "SHARE_1.jpg",
@@ -5209,7 +5221,26 @@
       "Navidad": "WIDGET_ESPECIAL_NAVIDAD.jpg",
       "Pentecostés": "widget-especial-apentecostes.jpg"
     },
-    "marianFallback": "WIDGET_ESPECIAL_VIRGEN.jpg"
+    "marianFallback": "WIDGET_ESPECIAL_VIRGEN.jpg",
+    "hours": {}
+  },
+  "hourImages": {
+    "officium": {
+      "hero": "LH-oficio.jpg",
+      "closing": "LH-pie.png"
+    },
+    "laudes": {
+      "hero": "LH-laudes.jpg",
+      "closing": "LH-cierre-2.png"
+    },
+    "vesperae": {
+      "hero": "lh-visperas.jpg",
+      "closing": "lh-cierre-3.png"
+    },
+    "completorium": {
+      "hero": "lh-completas.jpg",
+      "closing": "lh-cierre-4.png"
+    }
   },
   "featuredReadings": [
     {
