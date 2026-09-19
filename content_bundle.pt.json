@@ -126,6 +126,10 @@
       "image": "catholic-church-england-and-wales75.jpg",
       "cardImage": "catholic-church-england-and-wales75.jpg",
       "cardImageAlign": "top",
+      "cardImageFocus": {
+        "x": 0.318,
+        "y": 0.299
+      },
       "subsections": [
         {
           "id": "ritos-iniciales",
@@ -473,7 +477,7 @@
             },
             {
               "type": "image",
-              "value": "FraAngelico _Anunciacion.jpg",
+              "value": "FraAngelico_Anunciacion.jpg",
               "caption": ""
             },
             {
@@ -1202,7 +1206,7 @@
                 },
                 {
                   "type": "image",
-                  "value": "Fracción.jpg",
+                  "value": "Fraccion.jpg",
                   "caption": ""
                 },
                 {
@@ -1264,7 +1268,7 @@
                 },
                 {
                   "type": "image",
-                  "value": "OraciónComunion.jpg",
+                  "value": "catholic-church-england-and-wales-028.jpg",
                   "caption": ""
                 },
                 {
@@ -1280,7 +1284,7 @@
                 },
                 {
                   "type": "autocredit",
-                  "value": "Annie Williams / Unsplash\nBrooklyn Museum The Lord Prayer Le Pater Noster James Tissot\nEmbolismo\nLapaz\nDesconocido\nDesconocido\nDesconocido\nDesconocido\nChristian Harb / Unsplash\nDesconocido"
+                  "value": "Annie Williams / Unsplash\nBrooklyn Museum The Lord Prayer Le Pater Noster James Tissot\nEmbolismo\nLapaz\nFraccion\nDesconocido\nDesconocido\nDesconocido\nChristian Harb / Unsplash\nCatholic Church England and Wales, CC BY-NC-ND 2.0"
                 }
               ]
             }
@@ -1694,7 +1698,35 @@
       "definition": "O Ambão é o lugar litúrgico sagrado e reservado a partir do qual se proclama exclusivamente a Palavra de Deus. Concebido como uma estrutura fixa e elevada que manifesta a dignidade da mensagem divina, é considerado a «Mesa da Palavra», de onde se realizam as leituras, o Salmo, o Evangelho e a Homilia (a Homilia também pode ser feita na Cadeira), ligando-se diretamente ao Altar ou Mesa da Eucaristia.",
       "smId": "pj0p9g",
       "image": "606394259_1307774538057716_1387371614566085349_n.jpg",
-      "contextImage": "Altar_Completo.jpg",
+      "imagePosition": "top right",
+      "contextImage": "img-1073.jpg",
+      "contextHotspots": [
+        {
+          "x": 8.5,
+          "y": 56.6,
+          "title": "Ambão",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.7,
+          "y": 61.9,
+          "title": "Altar",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 75.9,
+          "y": 61.3,
+          "title": "Cadeira",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver no altar",
       "display": "Ambão"
     },
@@ -1702,8 +1734,51 @@
       "word": "Cáliz",
       "definition": "O cálice é o vaso sagrado usado para consagrar o vinho que se converterá no Sangue de Cristo na Missa. Deve ser de ouro ou de prata dourada por dentro, ou pode ser a taça de prata dourada por dentro; nesse caso, a base e o pé podem ser de qualquer metal, desde que sólido, limpo e adequado (Mis. Rom., Ritus celebr., tit. I, n. 1).\n\nA base pode ser redonda, hexagonal ou octogonal, e deve ser suficientemente grande para que não haja receio de que o cálice venha a tombar. Perto da metade do pé, entre a base e a taça, recomenda-se que tenha um nó, a fim de que o cálice possa ser manuseado com facilidade, especialmente depois da consagração, quando o sacerdote mantém unidos os dedos indicador e polegar.\n\nAntes de o cálice e a patena serem utilizados no Sacrifício da Missa, devem ser abençoados pelo bispo ou sacerdote. Além disso, se o cálice perder sua bênção — o que ocorre, por exemplo, se a taça se quebra ou se fura, ou até mesmo se ela precisar ser enviada para ser redourada —, é necessário que seja abençoado novamente antes de poder ser utilizado de novo.\n\nEm rigor, somente aos sacerdotes e aos diáconos é permitido tocar o cálice ou a patena, mas com frequência se concede licença aos sacristães e àqueles oficialmente designados para cuidar das vestes e dos vasos sagrados.",
       "smId": "pj0p9g",
-      "image": "caliz.jpg",
-      "contextImage": "Vasos_sagrados.jpg",
+      "image": "caliz-2.jpg",
+      "contextImage": "vasos-sagrados.jpg",
+      "contextHotspots": [
+        {
+          "x": 21.4,
+          "y": 42.3,
+          "title": "Cálice",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 33.7,
+          "y": 73.1,
+          "title": "Patena",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.4,
+          "y": 10.3,
+          "title": "Ostensório",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 70.1,
+          "y": 39.9,
+          "title": "Cibório",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 89.7,
+          "y": 67.7,
+          "title": "Teca",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver vasos sagrados",
       "related": [
         "copón",
@@ -1716,8 +1791,51 @@
       "word": "Copón",
       "definition": "O cibório é um vaso em forma de cálice utilizado para guardar o Santíssimo Sacramento.\n\nUtilizam-se dois vasos para reservar o Santíssimo Sacramento: um, chamado teca, é uma caixinha pequena e redonda que serve para levar o Santíssimo Sacramento aos enfermos; e o outro, geralmente chamado cibório, é utilizado para distribuir a Sagrada Comunhão nas igrejas e para reservar as partículas consagradas no tabernáculo.\n\nO cibório é abençoado por um bispo ou por um sacerdote por ele delegado, segundo a forma dada no Ritual Romano. Enquanto contém as sagradas espécies, deve estar coberto com um pequeno véu branco de seda ou com um pano dourado, e só pode ser manuseado pelos ministros sagrados; quando está vazio e purificado, pode ser tocado por todos os clérigos (Congregação dos Ritos, janeiro de 1907) e por leigos especialmente autorizados.",
       "smId": "pj0p9g",
-      "image": "copones.jpg",
-      "contextImage": "Vasos_sagrados.jpg",
+      "image": "copones-3.jpg",
+      "contextImage": "vasos-sagrados.jpg",
+      "contextHotspots": [
+        {
+          "x": 21.4,
+          "y": 42.3,
+          "title": "Cálice",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 33.7,
+          "y": 73.1,
+          "title": "Patena",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.4,
+          "y": 10.3,
+          "title": "Ostensório",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 70.1,
+          "y": 39.9,
+          "title": "Cibório",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 89.7,
+          "y": 67.7,
+          "title": "Teca",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver vasos sagrados",
       "related": [
         "patena",
@@ -1730,8 +1848,35 @@
       "word": "Corporal",
       "definition": "O corporal é um pano quadrado de linho branco que se estende sobre o altar durante a Missa para nele se colocarem o cálice, o cibório e a patena. Seu nome vem do latim corpus, que significa Corpo, pois sobre ele repousará o Corpo do Senhor. Tradicionalmente tem sido associado ao santo sudário.\n\nSeu uso na Missa é obrigatório (IGMR 80). Além disso, deve ser usado na exposição do Santíssimo, para nele se colocar a custódia ou o cibório. Também se coloca sobre uma pequena mesa quando se leva a comunhão aos enfermos.\n\nO corporal é sempre dobrado de uma maneira bem específica, para dentro (em nove quadrados), de modo que, se ficou alguma partícula diretamente sobre o tecido, não caia ao chão ao ser retirado. Na Missa, estende-se sobre o altar no momento do ofertório e, depois da Comunhão, é dobrado e retirado.",
       "smId": "pj0p9g",
-      "image": "corporal.jpg",
-      "contextImage": "panos_altar.jpg",
+      "image": "corporal-2.jpg",
+      "contextImage": "panos-altar.jpg",
+      "contextHotspots": [
+        {
+          "x": 22.2,
+          "y": 49,
+          "title": "Corporal",
+          "text": ""
+        },
+        {
+          "x": 55.7,
+          "y": 15.6,
+          "title": "Pala",
+          "text": ""
+        },
+        {
+          "x": 73.9,
+          "y": 58,
+          "title": "Manustérgio",
+          "text": ""
+        },
+        {
+          "x": 36.4,
+          "y": 68.2,
+          "title": "Purificatório",
+          "text": ""
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver os panos litúrgicos",
       "related": [
         "manutergio",
@@ -1798,8 +1943,35 @@
       "word": "Manutergio",
       "definition": "O manustérgio é um pano com o qual o celebrante enxuga as mãos quando as lava durante a Missa. Pode ser de linho, de toalha, ou de outro material absorvente.",
       "smId": "pj0p9g",
-      "image": "manutergio.jpg",
-      "contextImage": "panos_altar.jpg",
+      "image": "manutergio-2.jpg",
+      "contextImage": "panos-altar.jpg",
+      "contextHotspots": [
+        {
+          "x": 22.2,
+          "y": 49,
+          "title": "Corporal",
+          "text": ""
+        },
+        {
+          "x": 55.7,
+          "y": 15.6,
+          "title": "Pala",
+          "text": ""
+        },
+        {
+          "x": 73.9,
+          "y": 58,
+          "title": "Manustérgio",
+          "text": ""
+        },
+        {
+          "x": 36.4,
+          "y": 68.2,
+          "title": "Purificatório",
+          "text": ""
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver os panos litúrgicos",
       "related": [
         "corporal",
@@ -1842,8 +2014,35 @@
       "word": "Palia",
       "definition": "A pala é uma peça quadrada de tecido rígido, geralmente de linho branco engomado, usada para cobrir o cálice durante a celebração da Missa, no âmbito do ritual eucarístico. Sua função principal é proteger o conteúdo do cálice e os elementos sagrados de poeira, insetos ou outros contaminantes externos; entre esses panos, ocupa um lugar próprio por seu uso específico sobre os vasos sagrados.\n\nNenhuma norma o determina, mas os manuais de liturgia recomendam que, ao colocar e retirar a pala do cálice, se coloque a mão esquerda sobre a base do cálice, a fim de evitar que este vaso sagrado seja acidentalmente derrubado. Dessa forma, a mão esquerda permanece na base do cálice e com a mão direita se manuseia a pala.",
       "smId": "pj0p9g",
-      "image": "palia.jpg",
-      "contextImage": "panos_altar.jpg",
+      "image": "palia-2.jpg",
+      "contextImage": "panos-altar.jpg",
+      "contextHotspots": [
+        {
+          "x": 22.2,
+          "y": 49,
+          "title": "Corporal",
+          "text": ""
+        },
+        {
+          "x": 55.7,
+          "y": 15.6,
+          "title": "Pala",
+          "text": ""
+        },
+        {
+          "x": 73.9,
+          "y": 58,
+          "title": "Manustérgio",
+          "text": ""
+        },
+        {
+          "x": 36.4,
+          "y": 68.2,
+          "title": "Purificatório",
+          "text": ""
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver os panos litúrgicos",
       "related": [
         "corporal",
@@ -1856,8 +2055,51 @@
       "word": "Patena",
       "definition": "O vaso eucarístico conhecido como patena é um prato ou disco pequeno e pouco profundo, de metal precioso, sobre o qual se oferece a Deus o elemento do pão no ofertório da Missa, e no qual se recoloca a hóstia consagrada depois da fração.\n\nA patena deve ser de ouro ou de prata dourada, e não pode ser usada antes de ter sido consagrada com o crisma por um bispo. A fórmula empregada fala do vaso como bendito «para a administração da Eucaristia de Jesus Cristo, para que o Corpo de nosso Senhor possa ser partido sobre ela»; e também como «o sepulcro novo do Corpo e do Sangue de Jesus Cristo».",
       "smId": "pj0p9g",
-      "image": "patena.jpg",
-      "contextImage": "Vasos_sagrados.jpg",
+      "image": "patena-2.jpg",
+      "contextImage": "vasos-sagrados.jpg",
+      "contextHotspots": [
+        {
+          "x": 21.4,
+          "y": 42.3,
+          "title": "Cálice",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 33.7,
+          "y": 73.1,
+          "title": "Patena",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.4,
+          "y": 10.3,
+          "title": "Ostensório",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 70.1,
+          "y": 39.9,
+          "title": "Cibório",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 89.7,
+          "y": 67.7,
+          "title": "Teca",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver vasos sagrados",
       "related": [
         "copón",
@@ -1869,8 +2111,51 @@
       "word": "Píxide",
       "definition": "A teca (do latim pyx, gr. pyxis) é um vaso pequeno destinado a conter a Sagrada Eucaristia (as Hóstias consagradas), sobretudo para levar o Viático aos enfermos. Com frequência, a teca de comunhão é pendurada ao redor do pescoço. Isso lembra a quem a leva, assim como aos que a rodeiam, que ela carrega o Santíssimo Sacramento.\n\nÀs vezes, uma teca é levada dentro de uma pequena bolsa, concebida para proteger ainda mais a teca e as hóstias consagradas em seu interior. Sobretudo, a teca deve ser manuseada com o máximo cuidado, reconhecendo que quem a segura com a Eucaristia dentro está segurando Jesus, o Senhor.",
       "smId": "pj0p9g",
-      "image": "pixide.jpg",
-      "contextImage": "Vasos_sagrados.jpg",
+      "image": "pixide-2.jpg",
+      "contextImage": "vasos-sagrados.jpg",
+      "contextHotspots": [
+        {
+          "x": 21.4,
+          "y": 42.3,
+          "title": "Cálice",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 33.7,
+          "y": 73.1,
+          "title": "Patena",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.4,
+          "y": 10.3,
+          "title": "Ostensório",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 70.1,
+          "y": 39.9,
+          "title": "Cibório",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 89.7,
+          "y": 67.7,
+          "title": "Teca",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver vasos sagrados",
       "related": [
         "copón",
@@ -1910,8 +2195,35 @@
       "word": "Purificador",
       "definition": "O purificatório é uma peça de linho branco puro ou de cânhamo utilizada para limpar o cálice. Dobra-se em três camadas. Pode ter uma pequena cruz bordada em seu centro, para distingui-lo das pequenas toalhas para os dedos usadas no \"lavabo\", embora isso não seja prescrito. Não é abençoado.\n\nAntes da Missa, é colocado sobre o cálice, e sobre o purificatório dispõe-se a patena com a hóstia maior. No ofertório, antes de preparar o cálice, é colocado à direita do corporal, e dali é tomado para ser usado pelo sacerdote. Depois das abluções, volta a ser colocado sobre o cálice, como no início da Missa.",
       "smId": "pj0p9g",
-      "image": "purificador.jpg",
-      "contextImage": "panos_altar.jpg",
+      "image": "purificador-2.jpg",
+      "contextImage": "panos-altar.jpg",
+      "contextHotspots": [
+        {
+          "x": 22.2,
+          "y": 49,
+          "title": "Corporal",
+          "text": ""
+        },
+        {
+          "x": 55.7,
+          "y": 15.6,
+          "title": "Pala",
+          "text": ""
+        },
+        {
+          "x": 73.9,
+          "y": 58,
+          "title": "Manustérgio",
+          "text": ""
+        },
+        {
+          "x": 36.4,
+          "y": 68.2,
+          "title": "Purificatório",
+          "text": ""
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ ver os panos litúrgicos",
       "related": [
         "corporal",
@@ -1959,17 +2271,6 @@
       "smId": "pj0p9g",
       "image": "vinajeras.jpg",
       "display": "Galhetas"
-    },
-    {
-      "word": "TEST",
-      "definition": "tewrewrewrewrer\nwe\nrew\nr\newr",
-      "smId": "9x09kl"
-    },
-    {
-      "word": "test2",
-      "definition": "rwerwere",
-      "smId": "mk3o08",
-      "display": "Test2"
     }
   ],
   "documents": [
@@ -3617,7 +3918,7 @@
     "tagline": "",
     "description": "Conheça a beleza e a verdade da Liturgia Católica.",
     "footerText": "\"Ite, Missa est\" A Missa terminou. Fomos enviados.",
-    "version": "1.5",
+    "version": "1.6",
     "imageBlockAnimation": "slideUpFade",
     "headerImageAnimation": "none",
     "imageBlockAnimDelay": 100,
@@ -3641,7 +3942,7 @@
     "liturgyHoursLinkId": "xcjae8",
     "testGroupId": null
   },
-  "contentLastEdited": "2026-08-19T15:43:18.049Z",
+  "contentLastEdited": "2026-09-19T20:00:12.925Z",
   "masterSections": [
     {
       "id": "pj0p9g",
@@ -3689,7 +3990,7 @@
       "homePresentation": "strip",
       "stripId": "t4msq6",
       "portadaDesign": "B",
-      "cardDesign": "C",
+      "cardDesign": "B",
       "badge": "proximamente",
       "badgeUntil": "2027-02-27",
       "quotes": [
@@ -3724,9 +4025,9 @@
         "design": "MB"
       },
       "homePresentation": "blog",
+      "articleDesign": "B",
       "portadaDesign": "B",
       "cardDesign": "B",
-      "pruebas": true,
       "quotes": [
         {
           "text": "A Eucaristia é o compêndio e a suma da nossa fé.",
@@ -3746,25 +4047,43 @@
         }
       ],
       "quotesDisabled": true,
+      "hashtagHooks": {
+        "portada": false,
+        "articulo": true,
+        "busqueda": true,
+        "design": "2"
+      },
+      "newBadgeDays": 7,
       "sections": [
         {
           "id": "kmshys",
           "type": "article",
           "tag": "Artigos do Blog",
-          "title": "Inclinações na Missa",
-          "subtitle": "Descrição",
+          "title": "O Ciclo Litúrgico: ",
+          "subtitle": "Como se organiza a leitura da Bíblia na Missa?\n",
           "color": "#8B1A1A",
           "icon": "+",
-          "image": "305165639_n.jpg",
-          "cardImage": "20180323-121340-20180321t0843.jpg",
+          "image": "basilica-san-francisco-de-asis-evangeliario.webp",
+          "cardImage": "basilica-san-francisco-de-asis-evangeliario.webp",
           "youtubeId": null,
           "keyPoints": [],
           "content": [
             {
               "type": "text",
-              "value": "No rito romano atual há duas classes de inclinação: de corpo ou profunda, e de cabeça.\nA) A inclinação profunda se faz dobrando todo o tronco superior, a partir da cintura, para a frente. Esta inclinação se faz:\n1.- Ao altar, todos os que se aproximam do presbitério, ou dele se retiram, ou passam à sua frente.\n2.-  Na oração «Ó Deus todo-poderoso, purificai-me», que se diz antes de proclamar o Evangelho, se a diz o sacerdote; ou o diácono enquanto recebe a bênção antes de proclamá-lo.\n3.- Nas palavras “e se encarnou pelo Espírito Santo…” do Credo.\n4.- Na oração  “De coração contrito e humilde, sejamos, Senhor, acolhidos por vós” durante o ofertório.\n5.- No Cânon Romano, durante as palavras “Nós vos suplicamos”.\n6.- O sacerdote, além disso, deve pronunciar as palavras do Senhor, durante a Consagração, fazendo uma inclinação.\n7.- Os acólitos fazem a inclinação antes de se aproximarem para prestar um serviço ao celebrante (levar-lhe o missal, lavar-lhe as mãos, colocar-lhe a mitra) e ao se retirarem. \n8.- Também se requer a inclinação profunda ao Bispo, antes e depois da incensação.\nAlém disso, será preciso fazê-la sempre que os diversos livros litúrgicos o determinem expressamente.\nB) Na inclinação de cabeça, move-se apenas a cabeça a partir do pescoço, sem que o tronco se mova.\nA inclinação de cabeça se realiza quando se mencionam as três Pessoas Divinas ao mesmo tempo (por exemplo, na primeira parte do Glória), o nome de Jesus, o nome de Maria ou o santo em cuja honra se celebra a missa. Diz textualmente a Instrução Geral sobre o Missal Romano no n. 275: “Faz-se inclinação de cabeça quando se nomeiam juntas as três Pessoas Divinas, ao nome de Jesus, da Virgem Maria e do Santo em cuja honra se celebra a Missa.”\nQuando concorrem o nome da Virgem Maria ou do santo do dia junto com o nome de Jesus (por exemplo, na Oração Eucarística I), sugere-se fazer mais profunda a inclinação ao nome de Jesus."
+              "value": "Existe uma ordem nas leituras bíblicas de todo o ano? Se eu for à Missa todos os domingos, terei escutado a Bíblia inteira?\n\nSão perguntas que nascem de forma natural ao participar da liturgia e que encontram sua resposta no que a Igreja chama de Ciclo Litúrgico.\n\n**A origem: uma mesa mais abundante para os fiéis**\n\nAntes do Concílio Vaticano II, o Lecionário Romano —o livro que contém as leituras da Missa— **funcionava com um esquema de um único ano: a cada doze meses repetiam-se exatamente as mesmas passagens.** **Além disso, cada Missa tinha apenas duas leituras, e o Antigo Testamento praticamente nunca aparecia aos domingos.**\n\nBuscando renovar o acesso à Palavra de Deus, o Concílio impulsionou uma reforma decisiva:\n\n_«Abram-se mais largamente os tesouros da Bíblia, de modo que, dentro de um período de tempo estabelecido, sejam lidas ao povo as partes mais importantes da Sagrada Escritura»_ (Sacrosanctum Concilium, 51).\n\nDesse mandato nasceu o sistema atual, que organiza as leituras em duas grandes dinâmicas: o **ciclo trienal** para domingos e solenidades, e o **ciclo bienal** para os dias de semana (férias).\n\n**1. O ciclo de três anos (A, B e C) para domingos e festas**\n\nA _Ordenação das Leituras da Missa_ estabeleceu um esquema de três anos, com três leituras e um salmo responsorial a cada domingo. A estrutura não é casual, e a própria norma explica sua lógica:\n\n_«Toda Missa apresenta três leituras: a primeira, do Antigo Testamento; a segunda, do Apóstolo (isto é, das epístolas ou do Apocalipse); a terceira, do Evangelho. Com essa distribuição, põe-se em relevo a unidade de ambos os Testamentos e da história da salvação, cujo centro é Cristo contemplado em seu mistério pascal»_ (OLM 66,1).\n\nCada um dos três anos está centrado no enfoque de um dos evangelistas sinóticos:\n\n- **Ciclo A:** São Mateus.\n- **Ciclo B:** São Marcos.\n- **Ciclo C:** São Lucas.\n\nE o motivo de serem três e não um é dado pela mesma norma:\n\n_«O fato de que, para os domingos e festas, se proponha um ciclo de três anos é causa também de uma leitura mais variada e abundante da Sagrada Escritura, já que os mesmos textos não voltarão a ser lidos senão depois de três anos»_ (OLM 66,2).\n\n**Onde fica o Evangelho de São João?**\n\nSão João não tem um ano próprio dentro do ciclo trienal. Seu Evangelho é reservado para os tempos litúrgicos fortes —Quaresma, Páscoa— e para as grandes solenidades. Além disso, no Ciclo B, em que São Marcos é mais breve que os outros dois sinóticos, o texto de João o complementa por meio da leitura do famoso Discurso do Pão da Vida (João 6).\n\n**Os dois critérios para selecionar as leituras**\n\nPara articular o Antigo e o Novo Testamento, o lecionário aplica dois princípios distintos segundo o tempo do ano (OLM 66,3):\n\n**Composição harmônica** (tempos fortes). Durante o Advento, o Natal, a Quaresma e a Páscoa, a primeira leitura, o salmo e o evangelho guardam uma relação temática direta com o mistério do dia.\n\n**Leitura semicontínua** (Tempo Comum). Durante as semanas comuns, cada série de textos avança progressivamente por conta própria, domingo a domingo, capítulo a capítulo, como quem segue a leitura regular de um livro. Assim, embora a primeira leitura seja de fato escolhida em relação ao evangelho, a segunda avança de forma independente.\n\n**2. O ciclo bienal (Anos I e II) para os dias de semana**\n\nPara a Missa diária, de segunda a sábado, leem-se duas leituras —primeira leitura e evangelho—, acompanhadas do salmo responsorial. A estrutura varia segundo o tempo litúrgico:\n\n**Tempos fortes (Advento, Natal, Quaresma e Páscoa).** As leituras e o salmo são fixos e se repetem todos os anos. Um detalhe próprio: **no Tempo Pascal a primeira leitura é tomada dos Atos dos Apóstolos** (OLM 69,1), de modo que a Igreja acompanha a cada ano o nascimento da comunidade cristã.\n\n**Tempo Comum.** Aqui o esquema se desdobra:\n\n- O Evangelho: lê-se o mesmo esquema a cada ano, de forma contínua.\n- A primeira leitura e o salmo responsorial: distribuem-se em um ciclo duplo que alterna segundo o ano civil.\n\n_«Nas férias das trinta e quatro semanas do Tempo Comum, as leituras evangélicas distribuem-se em um único ciclo que se repete a cada ano. Já a primeira leitura distribui-se em um ciclo duplo que se lê em anos alternados. O ano primeiro é usado nos anos ímpares; o segundo, nos anos pares»_ (OLM 69,4).\n\n**Ano I (ano ímpar):** usa-se nos anos ímpares (2025, 2027, 2029…).\n\n**Ano II (ano par):** usa-se nos anos pares (2026, 2028, 2030…).\n\nUma nuance importante: **a mudança de ano não ocorre em 1º de janeiro, mas no I Domingo do Advento.** O Ano I correspondente a 2027, por exemplo, já começou em 29 de novembro de 2026.\n\n**Como saber qual ciclo dominical corresponde? (Um truque simples)**\n\nA regra prática mais fácil é lembrar os anos múltiplos de 3, que sempre correspondem ao Ciclo C:\n\n- **Anos múltiplos de 3 → Ciclo C:** 2022, 2025, 2028, 2031…\n- **O ano seguinte → Ciclo A:** 2023, 2026, 2029, 2032…\n- **O segundo ano seguinte → Ciclo B:** 2024, 2027, 2030, 2033…\n\nToma-se como referência o ano civil em que _termina_ o ano litúrgico. E lembre-se, mais uma vez, de que a mudança se dá no Advento.\n\n**Exemplo prático atual:**\n\n_Ano litúrgico 2025–2026._ Começou em 30 de novembro de 2025 e termina em novembro de 2026. Como o ano de referência é 2026, corresponde-lhe o **Ciclo A** (São Mateus) para os domingos e o **Ano Par (II)** para as leituras e salmos da Missa diária.\n\n_Ano litúrgico 2026–2027._ Começa em 29 de novembro de 2026 e termina em 2027. Corresponderá a ele o **Ciclo B** (São Marcos) para os domingos e o **Ano Ímpar (I)** para a Missa diária.\n\n**Que porcentagem da Bíblia terei escutado ao final dos ciclos?**\n\nO objetivo do Lecionário nunca foi ler a Bíblia inteira do princípio ao fim sem pular um versículo. Ainda assim, a reforma do Vaticano II ampliou enormemente a Escritura que se proclama na liturgia. Segundo as estatísticas compiladas pelo Pe. Felix Just, S.J., que são a referência habitual nesta matéria:\n\n**Se você participa só aos domingos e festas** (ciclos A, B e C): ao longo de três anos terá escutado aproximadamente **40 % do Novo Testamento** e **4 % do Antigo Testamento**. No conjunto, cerca de **13 %** do texto bíblico completo.\n\n**Se você vai à Missa todos os dias** (domingos mais férias, Anos I e II): a proporção sobe para **71 % do Novo Testamento** e **13,5 % do Antigo Testamento**. No total, cerca de **28 %** da Bíblia.\n\nO Lecionário oferece uma síntese densa e bem pensada da história da salvação, com as passagens decisivas e quase três quartos do Novo Testamento.\n\n**Nota sobre as fontes**\n\nAs citações procedem da constituição _Sacrosanctum Concilium_ do Concílio Vaticano II (1963) e dos prenotandos da _Ordenação das Leituras da Missa_ (OLM), 2ª edição típica de 1981, que figuram no início do Lecionário.\n\nAs estatísticas do Pe. Felix Just, S.J. foram calculadas sobre o Lecionário dos Estados Unidos e a _New American Bible_. As porcentagens em um lecionário em português são praticamente idênticas, já que as perícopes são as mesmas."
+            },
+            {
+              "type": "text",
+              "value": "—Carlos Carmona"
             }
-          ]
+          ],
+          "publishedAt": "2026-09-19",
+          "hashtags": [
+            "ciclo-liturgico",
+            "calendario"
+          ],
+          "badge": "nuevo",
+          "badgeUntil": "2026-09-25"
         }
       ]
     },
@@ -3900,7 +4219,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+                  "value": "**_Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus_** mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
                 },
                 {
                   "type": "video",
@@ -3909,7 +4228,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "**Lorem** ipsum dolor sit amet consectetur _adipiscing_ elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n\n`Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.` \n\n\nLorem ipsum dolor sit \n\n^^amet consectetur adipiscing elit. Quisque faucibus ex sapien^^ \n\nvitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n{{leermas}}\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n"
+                  "value": "**Lorem** ipsum dolor sit amet consectetur _adipiscing_ elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. \n\n%%Pulvinar **_vivamus fringilla lacus nec metus bibendum_** egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.%%\n\n\n`Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.` \n\n\nLorem ipsum dolor sit \n\n^^amet consectetur adipiscing elit. Quisque faucibus ex sapien^^ \n\nvitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenae\n\n{{leermas}}\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n"
                 },
                 {
                   "type": "text",
@@ -4400,14 +4719,37 @@
               "muted": true
             },
             {
+              "type": "hotspots",
+              "value": "Agnus_Konstantin_Korobov.jpg",
+              "caption": "",
+              "hotspots": [
+                {
+                  "x": 26.3,
+                  "y": 34,
+                  "title": "PECADO",
+                  "text": "",
+                  "size": "lg"
+                },
+                {
+                  "x": 58.4,
+                  "y": 13.5,
+                  "title": "JESUS",
+                  "text": "",
+                  "pill": "light",
+                  "size": "lg"
+                }
+              ],
+              "style": "tags"
+            },
+            {
               "type": "audio",
               "value": "https://www.w3schools.com/html/horse.mp3",
               "title": "Áudio de teste",
-              "caption": "Amostra remota de domínio público (somente dev)"
+              "caption": "Amostra remota de domínio público (apenas dev)"
             },
             {
               "type": "autocredit",
-              "value": "Desconocido\nA sagrada comunhão.\nPersignar-se\nDetalhe 1\nDetalhe 2\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nInclinação\nReverência\nFrente\nO presbitério\nA nave central em 360° — arraste para olhar ao redor.\nDesconocido"
+              "value": "Desconocido\nA sagrada comunhão.\nPersignar-se\nDetalhe 1\nDetalhe 2\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nInclinação\nReverência\nFrente\nO presbitério\nA nave central em 360° — arraste para olhar ao redor.\nDesconocido\nAgnus Konstantin Korobov"
             }
           ]
         }
@@ -4425,7 +4767,7 @@
       },
       "homePresentation": "medio-hero",
       "portadaDesign": "C",
-      "cardDesign": "A",
+      "cardDesign": "D",
       "pruebas": true,
       "badge": "nuevo",
       "badgeUntil": "2026-08-30",
@@ -4475,7 +4817,7 @@
           "content": [
             {
               "type": "text",
-              "value": "No rito romano atual há duas classes de inclinação: de corpo ou profunda, e de cabeça.\nA) A inclinação profunda se faz dobrando todo o tronco superior, a partir da cintura, para a frente. Essa inclinação se faz:\n1.- Ao altar, todos os que se aproximam do presbitério, ou dele se retiram, ou passam à sua frente.\n2.- Na oração \"Purifica meu [[coração|TEST]]\", que se diz antes de proclamar o Evangelho, se for o sacerdote quem a diz; ou o diácono, enquanto recebe a bênção antes de proclamá-lo.\n3.- Nas palavras \"E, por obra do Espírito Santo…\" do Credo.\n4.- Na oração \"Aceita, Senhor, nosso coração contrito\" durante o ofertório.\n5.- No Cânon Romano, durante as palavras \"Nós vos pedimos humildemente\".\n6.- O sacerdote, além disso, deve pronunciar as palavras do Senhor, durante a Consagração, fazendo uma inclinação.\n7.- Os acólitos fazem a inclinação antes de [[aproximar-se|test2]] para prestar um serviço ao celebrante (levar-lhe o missal, lavar-lhe as mãos, colocar-lhe a mitra) e ao se retirarem.\n8.- Também se requer a inclinação profunda ao Bispo, antes e depois da incensação.\nAlém disso, deverá ser feita sempre que os diferentes livros litúrgicos a ordenarem expressamente.\nB) Na inclinação de cabeça, move-se apenas a cabeça a partir do pescoço, sem que o tronco se mova.\nA inclinação de cabeça se realiza quando se mencionam ao mesmo tempo as três Pessoas Divinas (por exemplo, na primeira parte do Glória), o nome de Jesus, o nome de Maria ou o santo em cuja honra se celebra a Missa. Diz textualmente a Instrução Geral sobre o Missal Romano no núm. 275: \"Faz-se inclinação de cabeça quando se nomeiam juntas as três Pessoas Divinas, ao nome de Jesus, da Virgem Maria e do Santo em cuja honra se celebra a Missa.\"\nQuando concorrem o nome da Virgem Maria ou do santo do dia junto com o nome de Jesus (por exemplo, na Oração Eucarística I), sugere-se fazer mais profunda a inclinação ao nome de Jesus."
+              "value": "No rito romano atual há duas classes de inclinação: de corpo ou profunda, e de cabeça.\nA) A inclinação profunda se faz dobrando todo o tronco superior, a partir da cintura, para a frente. Essa inclinação se faz:\n1.- Ao altar, todos os que se aproximam do presbitério, ou dele se retiram, ou passam à sua frente.\n2.- Na oração \"Purifica meu **coração**\", que se diz antes de proclamar o Evangelho, se for o sacerdote quem a diz; ou o diácono, enquanto recebe a bênção antes de ~proclamá-lo~.\n3.- Nas palavras \"E, por obra do Espírito Santo…\" do _Credo_.\n4.- Na oração \"Aceita, Senhor, nosso coração contrito\" durante o ofertório.\n5.- No Cânon Romano, durante as palavras \"Nós vos pedimos humildemente\".\n6.- O sacerdote, além disso, deve pronunciar as palavras do Senhor, durante a Consagração, fazendo uma inclinação.\n7.- Os acólitos fazem a inclinação antes de aproximar-se para prestar um serviço ao celebrante (levar-lhe o missal, lavar-lhe as mãos, colocar-lhe a mitra) e ao se retirarem.\n8.- Também se requer a inclinação profunda ao Bispo, antes e depois da incensação.\nAlém disso, deverá ser feita sempre que os diferentes livros litúrgicos a ordenarem expressamente.\nB) Na inclinação de cabeça, move-se apenas a cabeça a partir do pescoço, sem que o tronco se mova.\nA inclinação de cabeça se realiza quando se mencionam ao mesmo tempo as três Pessoas Divinas (por exemplo, na primeira parte do Glória), o nome de Jesus, o nome de Maria ou o santo em cuja honra se celebra a Missa. Diz textualmente a Instrução Geral sobre o Missal Romano no núm. 275: \"Faz-se inclinação de cabeça quando se nomeiam juntas as três Pessoas Divinas, ao nome de Jesus, da Virgem Maria e do Santo em cuja honra se celebra a Missa.\"\nQuando concorrem o nome da Virgem Maria ou do santo do dia junto com o nome de Jesus (por exemplo, na Oração Eucarística I), sugere-se fazer mais profunda a inclinação ao nome de Jesus."
             }
           ]
         }
@@ -4790,13 +5132,13 @@
       "smId": "pj0p9g"
     },
     {
+      "type": "blog",
+      "smId": "q55j45"
+    },
+    {
       "type": "strip",
       "id": "t4msq6",
       "title": "Mais seções"
-    },
-    {
-      "type": "blog",
-      "smId": "q55j45"
     },
     {
       "type": "widget",
@@ -4827,7 +5169,10 @@
   "features": {
     "shareWidget": "on",
     "shareNotes": "on",
-    "notifPrePrompt": "on"
+    "notifPrePrompt": "on",
+    "multiLang": "dev",
+    "readingsCitations": "dev",
+    "hoursListen": "dev"
   },
   "shareImages": [
     "SHARE_1.jpg",
@@ -4840,6 +5185,29 @@
     "SHARE_8.jpg",
     "SHARE_9.jpg",
     "share-10.jpg"
+  ],
+  "shareImagesVertical": [
+    "virgen-humildad-fra-angelico.jpg",
+    "duccio-di-buoninsegna-the-raising-of-lazarus.jpg",
+    "1688663932-1567677980065220-8-luca-giordano.jpg",
+    "saint-augustine-by-philippe-de-champaigne.jpg",
+    "55428196340-67da6b3582-o.webp",
+    "20260421t0645-pope-francis-anniversary-1818477.webp",
+    "nikhil-mitra-wi4taofcw6i-unsplash-1.webp",
+    "687046261-1428050116025506-3592574347739880451-n.webp",
+    "anuja-tilj-z26ad99tlzi-unsplash.webp",
+    "catedral-basilica-de-san-juan-de-los-lagos3.webp",
+    "chartes-cathedrale.webp",
+    "st-patricks-cathedral-ny1.webp",
+    "basilica-papale-di-santa-maria-maggiore-7878.webp",
+    "582976644-1264922725677418-8073576906046304993-n.webp",
+    "615918187-1315091503993873-3268197982416967178-n.webp",
+    "720571439-1436147075211965-1226273590722714583-n.webp",
+    "basilica-papale-di-santa-maria-maggiore11.webp",
+    "San-Francisco-historia.webp",
+    "Cruz-San-Damian.webp",
+    "480652531-n2.webp",
+    "nelson-ndongala-3vcuh-o4f4i-unsplash.webp"
   ],
   "widgetImages": {
     "rotation": [
@@ -4907,7 +5275,26 @@
       "Navidad": "WIDGET_ESPECIAL_NAVIDAD.jpg",
       "Pentecostés": "widget-especial-apentecostes.jpg"
     },
-    "marianFallback": "WIDGET_ESPECIAL_VIRGEN.jpg"
+    "marianFallback": "WIDGET_ESPECIAL_VIRGEN.jpg",
+    "hours": {}
+  },
+  "hourImages": {
+    "officium": {
+      "hero": "LH-oficio.jpg",
+      "closing": "LH-pie.png"
+    },
+    "laudes": {
+      "hero": "LH-laudes.jpg",
+      "closing": "LH-cierre-2.png"
+    },
+    "vesperae": {
+      "hero": "lh-visperas.jpg",
+      "closing": "lh-cierre-3.png"
+    },
+    "completorium": {
+      "hero": "lh-completas.jpg",
+      "closing": "lh-cierre-4.png"
+    }
   },
   "featuredReadings": [
     {

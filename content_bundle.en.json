@@ -126,6 +126,10 @@
       "image": "catholic-church-england-and-wales75.jpg",
       "cardImage": "catholic-church-england-and-wales75.jpg",
       "cardImageAlign": "top",
+      "cardImageFocus": {
+        "x": 0.318,
+        "y": 0.299
+      },
       "subsections": [
         {
           "id": "ritos-iniciales",
@@ -473,7 +477,7 @@
             },
             {
               "type": "image",
-              "value": "FraAngelico _Anunciacion.jpg",
+              "value": "FraAngelico_Anunciacion.jpg",
               "caption": ""
             },
             {
@@ -1202,7 +1206,7 @@
                 },
                 {
                   "type": "image",
-                  "value": "Fracción.jpg",
+                  "value": "Fraccion.jpg",
                   "caption": ""
                 },
                 {
@@ -1264,7 +1268,7 @@
                 },
                 {
                   "type": "image",
-                  "value": "OraciónComunion.jpg",
+                  "value": "catholic-church-england-and-wales-028.jpg",
                   "caption": ""
                 },
                 {
@@ -1280,7 +1284,7 @@
                 },
                 {
                   "type": "autocredit",
-                  "value": "Annie Williams / Unsplash\nBrooklyn Museum The Lord Prayer Le Pater Noster James Tissot\nEmbolismo\nLapaz\nDesconocido\nDesconocido\nDesconocido\nDesconocido\nChristian Harb / Unsplash\nDesconocido"
+                  "value": "Annie Williams / Unsplash\nBrooklyn Museum The Lord Prayer Le Pater Noster James Tissot\nEmbolismo\nLapaz\nFraccion\nDesconocido\nDesconocido\nDesconocido\nChristian Harb / Unsplash\nCatholic Church England and Wales, CC BY-NC-ND 2.0"
                 }
               ]
             }
@@ -1694,7 +1698,35 @@
       "definition": "The ambo is the sacred, reserved liturgical place from which the Word of God alone is proclaimed. Designed as a fixed, elevated structure that manifests the dignity of the divine message, it is considered the \"Table of the Word,\" from which the readings, the Psalm, the Gospel, and the homily are given (the homily may also be given from the chair), connecting directly with the altar, or Table of the Eucharist.",
       "smId": "pj0p9g",
       "image": "606394259_1307774538057716_1387371614566085349_n.jpg",
-      "contextImage": "Altar_Completo.jpg",
+      "imagePosition": "top right",
+      "contextImage": "img-1073.jpg",
+      "contextHotspots": [
+        {
+          "x": 8.5,
+          "y": 56.6,
+          "title": "Ambo",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.7,
+          "y": 61.9,
+          "title": "Altar",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 75.9,
+          "y": 61.3,
+          "title": "Chair",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ see on the altar",
       "display": "Ambo"
     },
@@ -1702,8 +1734,51 @@
       "word": "Cáliz",
       "definition": "The chalice is the sacred vessel used to consecrate the wine that will become the Blood of Christ at Mass. It must be made of gold, or of silver gilded on the inside, or it may be a silver cup gilded on the inside, in which case the base and stem may be of any solid, clean, and suitable metal (Roman Missal, Ritus celebr., tit. I, n. 1).\n\nThe base may be round, hexagonal, or octagonal, and must be large enough that there is no fear of the chalice tipping over. Near the middle of the stem, between the base and the cup, it is recommended that there be a knob, so that the chalice can be handled easily, especially after the consecration, when the priest holds his index finger and thumb joined together.\n\nBefore the chalice and paten are used in the Sacrifice of the Mass, they must be blessed by a bishop or priest. Furthermore, if the chalice loses its blessing — which happens, for example, if the cup is broken or pierced, or even if it has had to be sent to be regilded — it must be blessed again before it can be used once more.\n\nStrictly speaking, only priests and deacons are permitted to touch the chalice or the paten, but sacristans and those officially appointed to care for the vestments and sacred vessels are often granted permission to do so.",
       "smId": "pj0p9g",
-      "image": "caliz.jpg",
-      "contextImage": "Vasos_sagrados.jpg",
+      "image": "caliz-2.jpg",
+      "contextImage": "vasos-sagrados.jpg",
+      "contextHotspots": [
+        {
+          "x": 21.4,
+          "y": 42.3,
+          "title": "Chalice",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 33.7,
+          "y": 73.1,
+          "title": "Paten",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.4,
+          "y": 10.3,
+          "title": "Monstrance",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 70.1,
+          "y": 39.9,
+          "title": "Ciborium",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 89.7,
+          "y": 67.7,
+          "title": "Pyx",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ see sacred vessels",
       "related": [
         "copón",
@@ -1716,8 +1791,51 @@
       "word": "Copón",
       "definition": "The ciborium is a vessel shaped like a chalice used to hold the Blessed Sacrament.\n\nTwo vessels are used to reserve the Blessed Sacrament: one, called a pyx, is a small round box used to carry the Blessed Sacrament to the sick; and the other, generally called a ciborium, is used to distribute Holy Communion in churches and to reserve consecrated particles in the tabernacle.\n\nThe ciborium is blessed by a bishop or by a priest delegated by him, according to the form given in the Roman Ritual. While it contains the sacred species it must be covered with a small white silk veil or a golden cloth, and may only be handled by sacred ministers; when empty and purified it may be touched by all clerics (Congregation of Rites, January 1907), and by specially authorized laypeople.",
       "smId": "pj0p9g",
-      "image": "copones.jpg",
-      "contextImage": "Vasos_sagrados.jpg",
+      "image": "copones-3.jpg",
+      "contextImage": "vasos-sagrados.jpg",
+      "contextHotspots": [
+        {
+          "x": 21.4,
+          "y": 42.3,
+          "title": "Chalice",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 33.7,
+          "y": 73.1,
+          "title": "Paten",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.4,
+          "y": 10.3,
+          "title": "Monstrance",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 70.1,
+          "y": 39.9,
+          "title": "Ciborium",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 89.7,
+          "y": 67.7,
+          "title": "Pyx",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ see sacred vessels",
       "related": [
         "patena",
@@ -1730,8 +1848,35 @@
       "word": "Corporal",
       "definition": "The corporal is a square white linen cloth spread over the altar during Mass to hold the chalice, the ciborium, and the paten. Its name comes from the Latin *corpus*, meaning Body, since the Body of the Lord rests upon it. It has traditionally been associated with the holy shroud.\n\nIts use at Mass is mandatory (GIRM 80). It must also be used in the exposition of the Blessed Sacrament, to hold the monstrance or ciborium. It is likewise placed on a small table when Communion is brought to the sick.\n\nThe corporal is always folded inward in a very specific way (into nine squares) so that, if any particle happened to fall directly onto the cloth, it will not fall to the ground when it is removed. At Mass it is spread on the altar at the moment of the offertory, and after Communion it is folded and put away.",
       "smId": "pj0p9g",
-      "image": "corporal.jpg",
-      "contextImage": "panos_altar.jpg",
+      "image": "corporal-2.jpg",
+      "contextImage": "panos-altar.jpg",
+      "contextHotspots": [
+        {
+          "x": 22.2,
+          "y": 49,
+          "title": "Corporal",
+          "text": ""
+        },
+        {
+          "x": 55.7,
+          "y": 15.6,
+          "title": "Pall",
+          "text": ""
+        },
+        {
+          "x": 73.9,
+          "y": 58,
+          "title": "Lavabo Towel",
+          "text": ""
+        },
+        {
+          "x": 36.4,
+          "y": 68.2,
+          "title": "Purificator",
+          "text": ""
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ see liturgical linens",
       "related": [
         "manutergio",
@@ -1799,8 +1944,35 @@
       "word": "Manutergio",
       "definition": "The lavabo towel is a cloth with which the celebrant dries his hands when he washes them at Mass. It may be made of linen, of toweling, or of any other absorbent material.",
       "smId": "pj0p9g",
-      "image": "manutergio.jpg",
-      "contextImage": "panos_altar.jpg",
+      "image": "manutergio-2.jpg",
+      "contextImage": "panos-altar.jpg",
+      "contextHotspots": [
+        {
+          "x": 22.2,
+          "y": 49,
+          "title": "Corporal",
+          "text": ""
+        },
+        {
+          "x": 55.7,
+          "y": 15.6,
+          "title": "Pall",
+          "text": ""
+        },
+        {
+          "x": 73.9,
+          "y": 58,
+          "title": "Lavabo Towel",
+          "text": ""
+        },
+        {
+          "x": 36.4,
+          "y": 68.2,
+          "title": "Purificator",
+          "text": ""
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ see liturgical linens",
       "related": [
         "corporal",
@@ -1843,8 +2015,35 @@
       "word": "Palia",
       "definition": "The pall is a square piece of stiff cloth, generally of starched white linen, used to cover the chalice during the celebration of Mass, as part of the Eucharistic ritual. Its main purpose is to protect the contents of the chalice and the sacred elements from dust, insects, or other outside contaminants; among these linens, it occupies a place of its own because of its specific use over the sacred vessels.\n\nNo rubric requires it, but liturgical manuals recommend that, when placing or removing the pall from the chalice, the left hand be kept on the base of the chalice, so as to avoid accidentally tipping over this sacred vessel. In this way, the left hand rests on the base of the chalice while the right hand handles the pall.",
       "smId": "pj0p9g",
-      "image": "palia.jpg",
-      "contextImage": "panos_altar.jpg",
+      "image": "palia-2.jpg",
+      "contextImage": "panos-altar.jpg",
+      "contextHotspots": [
+        {
+          "x": 22.2,
+          "y": 49,
+          "title": "Corporal",
+          "text": ""
+        },
+        {
+          "x": 55.7,
+          "y": 15.6,
+          "title": "Pall",
+          "text": ""
+        },
+        {
+          "x": 73.9,
+          "y": 58,
+          "title": "Lavabo Towel",
+          "text": ""
+        },
+        {
+          "x": 36.4,
+          "y": 68.2,
+          "title": "Purificator",
+          "text": ""
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ see liturgical linens",
       "related": [
         "corporal",
@@ -1857,8 +2056,51 @@
       "word": "Patena",
       "definition": "The eucharistic vessel known as the paten is a small, shallow plate or disc of precious metal on which the element of bread is offered to God at the offertory of the Mass, and on which the consecrated host is placed again after the fraction.\n\nThe paten must be made of gold or of gilded silver, and may not be used until a bishop has consecrated it with chrism. The formula used speaks of the vessel as blessed \"for the administration of the Eucharist of Jesus Christ, that the Body of our Lord may be broken upon it\"; and also as \"the new sepulcher of the Body and Blood of Jesus Christ.\"",
       "smId": "pj0p9g",
-      "image": "patena.jpg",
-      "contextImage": "Vasos_sagrados.jpg",
+      "image": "patena-2.jpg",
+      "contextImage": "vasos-sagrados.jpg",
+      "contextHotspots": [
+        {
+          "x": 21.4,
+          "y": 42.3,
+          "title": "Chalice",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 33.7,
+          "y": 73.1,
+          "title": "Paten",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.4,
+          "y": 10.3,
+          "title": "Monstrance",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 70.1,
+          "y": 39.9,
+          "title": "Ciborium",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 89.7,
+          "y": 67.7,
+          "title": "Pyx",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ see sacred vessels",
       "related": [
         "copón",
@@ -1871,8 +2113,51 @@
       "word": "Píxide",
       "definition": "The pyx (from the Latin *pyx*, Gr. *pyxis*) is a small vessel meant to hold the Blessed Sacrament (consecrated Hosts), above all for carrying Viaticum to the sick. Often the communion pyx is worn around the neck. This reminds the person carrying it, as well as those around them, that they are carrying the Blessed Sacrament.\n\nAt times a pyx is carried in a small pouch-like bag designed to further protect the pyx and the consecrated hosts inside it. Above all, the pyx must be handled with the utmost care, in recognition that whoever holds it with the Eucharist inside is holding Jesus, the Lord.",
       "smId": "pj0p9g",
-      "image": "pixide.jpg",
-      "contextImage": "Vasos_sagrados.jpg",
+      "image": "pixide-2.jpg",
+      "contextImage": "vasos-sagrados.jpg",
+      "contextHotspots": [
+        {
+          "x": 21.4,
+          "y": 42.3,
+          "title": "Chalice",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 33.7,
+          "y": 73.1,
+          "title": "Paten",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 49.4,
+          "y": 10.3,
+          "title": "Monstrance",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 70.1,
+          "y": 39.9,
+          "title": "Ciborium",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        },
+        {
+          "x": 89.7,
+          "y": 67.7,
+          "title": "Pyx",
+          "text": "",
+          "pill": "light",
+          "size": "lg"
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ see sacred vessels",
       "related": [
         "copón",
@@ -1913,8 +2198,35 @@
       "word": "Purificador",
       "definition": "The purificator is a piece of pure white linen or hemp cloth used to clean the chalice. It is folded into three layers. A small cross may be embroidered at its center to distinguish it from the small finger towels used at the \"lavabo,\" though this is not prescribed. It is not blessed.\n\nBefore Mass it is placed over the chalice, and above the purificator the paten is set with the largest host. At the offertory, before the chalice is prepared, it is placed to the right of the corporal, and from there it is taken up for use by the priest. After the ablutions, it is again placed over the chalice, as it was at the start of Mass.",
       "smId": "pj0p9g",
-      "image": "purificador.jpg",
-      "contextImage": "panos_altar.jpg",
+      "image": "purificador-2.jpg",
+      "contextImage": "panos-altar.jpg",
+      "contextHotspots": [
+        {
+          "x": 22.2,
+          "y": 49,
+          "title": "Corporal",
+          "text": ""
+        },
+        {
+          "x": 55.7,
+          "y": 15.6,
+          "title": "Pall",
+          "text": ""
+        },
+        {
+          "x": 73.9,
+          "y": 58,
+          "title": "Lavabo Towel",
+          "text": ""
+        },
+        {
+          "x": 36.4,
+          "y": 68.2,
+          "title": "Purificator",
+          "text": ""
+        }
+      ],
+      "contextHotspotsStyle": "tags",
       "contextLabel": "+ see liturgical linens",
       "related": [
         "corporal",
@@ -1962,17 +2274,6 @@
       "smId": "pj0p9g",
       "image": "vinajeras.jpg",
       "display": "Cruets"
-    },
-    {
-      "word": "TEST",
-      "definition": "tewrewrewrewrer\nwe\nrew\nr\newr",
-      "smId": "9x09kl"
-    },
-    {
-      "word": "test2",
-      "definition": "rwerwere",
-      "smId": "mk3o08",
-      "display": "Test2"
     }
   ],
   "documents": [
@@ -3620,7 +3921,7 @@
     "tagline": "",
     "description": "Discover the beauty and truth of Catholic Liturgy.",
     "footerText": "\"Ite, Missa est\" The Mass has ended. We have been sent forth.",
-    "version": "1.5",
+    "version": "1.6",
     "imageBlockAnimation": "slideUpFade",
     "headerImageAnimation": "none",
     "imageBlockAnimDelay": 100,
@@ -3644,7 +3945,7 @@
     "liturgyHoursLinkId": "xcjae8",
     "testGroupId": null
   },
-  "contentLastEdited": "2026-08-18T14:42:34.480Z",
+  "contentLastEdited": "2026-09-19T20:00:12.099Z",
   "masterSections": [
     {
       "id": "pj0p9g",
@@ -3692,7 +3993,7 @@
       "homePresentation": "strip",
       "stripId": "t4msq6",
       "portadaDesign": "B",
-      "cardDesign": "C",
+      "cardDesign": "B",
       "badge": "proximamente",
       "badgeUntil": "2027-02-27",
       "quotes": [
@@ -3727,9 +4028,9 @@
         "design": "MB"
       },
       "homePresentation": "blog",
+      "articleDesign": "B",
       "portadaDesign": "B",
       "cardDesign": "B",
-      "pruebas": true,
       "quotes": [
         {
           "text": "The Eucharist is the compendium and sum of our faith.",
@@ -3749,25 +4050,43 @@
         }
       ],
       "quotesDisabled": true,
+      "hashtagHooks": {
+        "portada": false,
+        "articulo": true,
+        "busqueda": true,
+        "design": "2"
+      },
+      "newBadgeDays": 7,
       "sections": [
         {
           "id": "kmshys",
           "type": "article",
           "tag": "Blog Articles",
-          "title": "Bows in the Mass",
-          "subtitle": "Description",
+          "title": "The Liturgical Cycle: ",
+          "subtitle": "How is the reading of the Bible organized at Mass?\n",
           "color": "#8B1A1A",
           "icon": "+",
-          "image": "305165639_n.jpg",
-          "cardImage": "20180323-121340-20180321t0843.jpg",
+          "image": "basilica-san-francisco-de-asis-evangeliario.webp",
+          "cardImage": "basilica-san-francisco-de-asis-evangeliario.webp",
           "youtubeId": null,
           "keyPoints": [],
           "content": [
             {
               "type": "text",
-              "value": "In the current Roman rite there are two kinds of bow: of the body, or profound, and of the head.\nA) The profound bow is made by bending the entire upper body forward from the waist. This bow is made:\n1.- To the altar, by all who approach the sanctuary, or withdraw from it, or pass in front of it.\n2.-  During the prayer “Cleanse my heart,” said before the proclamation of the Gospel, whether by the priest, or by the deacon while he receives the blessing before proclaiming it.\n3.- At the words “and by the Holy Spirit…” of the Creed.\n4.- During the prayer  “Lord God, we ask you to receive” at the offertory.\n5.- In the Roman Canon, during the words “Almighty God, we pray that your angel.”\n6.- The priest, moreover, must bow while speaking the words of the Lord at the Consecration.\n7.- The acolytes bow before approaching to render a service to the celebrant (bringing him the missal, washing his hands, placing the miter on him) and when withdrawing. \n8.- A profound bow is also required to the Bishop, before and after the incensation.\nIn addition, it is to be made whenever the various liturgical books expressly prescribe it.\nB) In the bow of the head, only the head moves from the neck, without the body moving.\nThe bow of the head is made when the three Divine Persons are named together (for example, in the first part of the Gloria), at the name of Jesus, the name of Mary, or the saint in whose honor the Mass is celebrated. The General Instruction of the Roman Missal states literally, in no. 275: “A bow of the head is made when the three Divine Persons are named together and at the names of Jesus, of the Blessed Virgin Mary, and of the Saint in whose honor Mass is being celebrated.”\nWhen the name of the Virgin Mary or of the saint of the day occurs together with the name of Jesus (for example, in Eucharistic Prayer I), it is suggested that the bow be made more profound at the name of Jesus."
+              "value": "Is there an order to the biblical readings over the whole year? If I go to Mass every Sunday, will I have heard the entire Bible?\n\nThese are questions that arise naturally when attending the liturgy, and they find their answer in what the Church calls the Liturgical Cycle.\n\n**The origin: a richer table for the faithful**\n\nBefore the Second Vatican Council, the Roman Lectionary —the book containing the readings for Mass— **worked on a one-year scheme: every twelve months exactly the same passages were repeated.** **Moreover, each Mass had only two readings, and the Old Testament practically never appeared on a Sunday.**\n\nSeeking to renew access to the Word of God, the Council promoted a key reform:\n\n_«The treasures of the bible are to be opened up more lavishly, so that richer fare may be provided for the faithful at the table of God's word. In this way a more representative portion of the holy scriptures will be read to the people in the course of a prescribed number of years»_ (Sacrosanctum Concilium, 51).\n\nFrom this mandate came the current system, which organizes the readings in two great dynamics: the **three-year cycle** for Sundays and solemnities, and the **two-year cycle** for weekdays (ferias).\n\n**1. The three-year cycle (A, B and C) for Sundays and feasts**\n\nThe _Order of Readings for Mass_ established a three-year scheme, with three readings and a responsorial psalm every Sunday. The structure is not accidental, and the norm itself explains its logic:\n\n_«Each Mass has three readings: the first from the Old Testament, the second from an apostle (that is, either from a letter or from Revelation, depending on the season), and the third from the gospels. This arrangement brings out the unity of the Old and New Testaments and of the history of salvation, in which Christ is the central figure, commemorated in his paschal mystery»_ (OLM 66,1).\n\nEach of the three years is centered on the perspective of one of the synoptic evangelists:\n\n- **Cycle A:** Saint Matthew.\n- **Cycle B:** Saint Mark.\n- **Cycle C:** Saint Luke.\n\nAnd the reason there are three and not one is given by the same norm:\n\n_«A more varied and richer reading of Scripture on Sundays and the solemnities of the Lord results from the three-year cycle provided for these days, in that the same texts are read only every fourth year»_ (OLM 66,2).\n\n**Where does the Gospel of Saint John fit in?**\n\nSaint John does not have a year of his own within the three-year cycle. His Gospel is reserved for the strong liturgical seasons —Lent, Easter— and for the great solemnities. In addition, in Cycle B, where Saint Mark is shorter than the other two synoptics, John's text complements it through the reading of the famous Bread of Life Discourse (John 6).\n\n**The two criteria for selecting the readings**\n\nTo connect the Old and New Testaments, the lectionary applies two different principles depending on the season of the year (OLM 66,3):\n\n**Harmony** (strong seasons). During Advent, Christmas, Lent and Easter, the first reading, the psalm and the gospel bear a direct thematic relationship to the mystery of the day.\n\n**Semicontinuous reading** (Ordinary Time). During the ordinary weeks, each series of texts moves forward progressively on its own, Sunday after Sunday, chapter after chapter, like someone following the regular reading of a book. So although the first reading is indeed chosen in relation to the gospel, the second moves forward independently.\n\n**2. The two-year cycle (Years I and II) for weekdays**\n\nFor daily Mass from Monday to Saturday two readings are read —first reading and gospel—, accompanied by the responsorial psalm. The structure varies according to the liturgical season:\n\n**Strong seasons (Advent, Christmas, Lent and Easter).** The readings and the psalm are fixed and are repeated every year. One particular detail: **during the Easter season the first reading is taken from the Acts of the Apostles** (OLM 69,1), so that each year the Church accompanies the birth of the Christian community.\n\n**Ordinary Time.** Here the scheme splits in two:\n\n- The Gospel: the same scheme is read every year, continuously.\n- The first reading and the responsorial psalm: they are distributed in a double cycle that alternates according to the civil year.\n\n_«For the thirty-four weeks of Ordinary Time, the gospel readings are arranged in a single cycle, repeated each year. But the first reading is arranged in a two-year cycle and is thus read every other year. Year I is used during odd-numbered years; Year II, during even-numbered years»_ (OLM 69,4).\n\n**Year I (odd year):** used in odd-numbered years (2025, 2027, 2029…).\n\n**Year II (even year):** used in even-numbered years (2026, 2028, 2030…).\n\nAn important nuance: **the change of year does not happen on January 1, but on the First Sunday of Advent.** Year I for 2027, for example, already began on November 29, 2026.\n\n**How do I know which Sunday cycle applies? (A simple trick)**\n\nThe easiest practical rule is to remember the years that are multiples of 3, which always correspond to Cycle C:\n\n- **Years that are multiples of 3 → Cycle C:** 2022, 2025, 2028, 2031…\n- **The following year → Cycle A:** 2023, 2026, 2029, 2032…\n- **The second year after → Cycle B:** 2024, 2027, 2030, 2033…\n\nThe reference is the civil year in which the liturgical year _ends_. And remember, once again, that the change takes place in Advent.\n\n**A current practical example:**\n\n_Liturgical year 2025–2026._ It began on November 30, 2025 and ends in November 2026. Since the reference year is 2026, it corresponds to **Cycle A** (Saint Matthew) for Sundays and to the **Even Year (II)** for the readings and psalms of daily Mass.\n\n_Liturgical year 2026–2027._ It begins on November 29, 2026 and ends in 2027. It will correspond to **Cycle B** (Saint Mark) for Sundays and to the **Odd Year (I)** for daily Mass.\n\n**What percentage of the Bible will I have heard by the end of the cycles?**\n\nThe goal of the Lectionary was never to read the whole Bible from beginning to end without skipping a verse. Even so, the reform of Vatican II greatly expanded the Scripture proclaimed in the liturgy. According to the statistics compiled by Fr. Felix Just, S.J., which are the usual reference on this matter:\n\n**If you attend only on Sundays and feasts** (Cycles A, B and C): over three years you will have heard approximately **40% of the New Testament** and **4% of the Old Testament**. Altogether, close to **13%** of the complete biblical text.\n\n**If you attend Mass every day** (Sundays plus weekdays, Years I and II): the proportion rises to **71% of the New Testament** and **13.5% of the Old Testament**. In total, around **28%** of the Bible.\n\nThe Lectionary offers a dense and well-thought-out synthesis of the history of salvation, with the decisive passages and almost three quarters of the New Testament.\n\n**A note on the sources**\n\nThe quotations come from the constitution _Sacrosanctum Concilium_ of the Second Vatican Council (1963) and from the introduction to the _Order of Readings for Mass_ (OLM), 2nd typical edition of 1981, found at the beginning of the Lectionary.\n\nThe statistics of Fr. Felix Just, S.J. were calculated on the United States Lectionary and the _New American Bible_. The percentages in a Spanish-language lectionary are practically identical, since the pericopes are the same."
+            },
+            {
+              "type": "text",
+              "value": "—Carlos Carmona"
             }
-          ]
+          ],
+          "publishedAt": "2026-09-19",
+          "hashtags": [
+            "ciclo-liturgico",
+            "calendario"
+          ],
+          "badge": "nuevo",
+          "badgeUntil": "2026-09-25"
         }
       ]
     },
@@ -3903,7 +4222,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+                  "value": "**_Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus_** mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
                 },
                 {
                   "type": "video",
@@ -3912,7 +4231,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "**Lorem** ipsum dolor sit amet consectetur _adipiscing_ elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n\n`Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.` \n\n\nLorem ipsum dolor sit \n\n^^amet consectetur adipiscing elit. Quisque faucibus ex sapien^^ \n\nvitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n{{leermas}}\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n"
+                  "value": "**Lorem** ipsum dolor sit amet consectetur _adipiscing_ elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. \n\n%%Pulvinar **_vivamus fringilla lacus nec metus bibendum_** egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.%%\n\n\n`Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.` \n\n\nLorem ipsum dolor sit \n\n^^amet consectetur adipiscing elit. Quisque faucibus ex sapien^^ \n\nvitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenae\n\n{{leermas}}\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n"
                 },
                 {
                   "type": "text",
@@ -4403,14 +4722,37 @@
               "muted": true
             },
             {
+              "type": "hotspots",
+              "value": "Agnus_Konstantin_Korobov.jpg",
+              "caption": "",
+              "hotspots": [
+                {
+                  "x": 26.3,
+                  "y": 34,
+                  "title": "SIN",
+                  "text": "",
+                  "size": "lg"
+                },
+                {
+                  "x": 58.4,
+                  "y": 13.5,
+                  "title": "JESUS",
+                  "text": "",
+                  "pill": "light",
+                  "size": "lg"
+                }
+              ],
+              "style": "tags"
+            },
+            {
               "type": "audio",
               "value": "https://www.w3schools.com/html/horse.mp3",
               "title": "Test audio",
-              "caption": "Remote public-domain sample (dev only)"
+              "caption": "Public-domain remote sample (dev only)"
             },
             {
               "type": "autocredit",
-              "value": "Desconocido\nHoly Communion.\nMaking the Sign of the Cross\nDetail 1\nDetail 2\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nBow\nReverence\nFront\nThe Sanctuary\nThe central nave in 360° — drag to look around.\nDesconocido"
+              "value": "Desconocido\nHoly Communion.\nMaking the Sign of the Cross\nDetail 1\nDetail 2\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nBow\nReverence\nFront\nThe Sanctuary\nThe central nave in 360° — drag to look around.\nDesconocido\nAgnus Konstantin Korobov"
             }
           ]
         }
@@ -4428,7 +4770,7 @@
       },
       "homePresentation": "medio-hero",
       "portadaDesign": "C",
-      "cardDesign": "A",
+      "cardDesign": "D",
       "pruebas": true,
       "badge": "nuevo",
       "badgeUntil": "2026-08-30",
@@ -4478,7 +4820,7 @@
           "content": [
             {
               "type": "text",
-              "value": "In the current Roman rite there are two kinds of bow: the bow of the body, or profound bow, and the bow of the head.\nA) The profound bow is made by bending the entire upper body forward from the waist. This bow is made:\n1.- To the altar, by all who approach the sanctuary, or withdraw from it, or pass in front of it.\n2.- At the prayer “Purify my [[heart|TEST]]”, said before the proclamation of the Gospel, if said by the priest; or by the deacon while he receives the blessing before proclaiming it.\n3.- At the words “and by the Holy Spirit…” of the Creed.\n4.- At the prayer “With humble spirit and contrite heart” during the Offertory.\n5.- In the Roman Canon, during the words “In humble prayer we ask you.”\n6.- The priest must also make a bow while pronouncing the Lord's words during the Consecration.\n7.- The acolytes bow before [[approaching|test2]] to render a service to the celebrant (bringing him the Missal, washing his hands, placing the miter on him) and when withdrawing.\n8.- A profound bow to the Bishop is likewise required, before and after the incensation.\nIn addition, it must be made whenever the various liturgical books expressly prescribe it.\nB) In the bow of the head, only the head moves from the neck, without any movement of the torso.\nThe bow of the head is made when the three Divine Persons are named together (for example, in the first part of the Gloria), at the name of Jesus, at the name of Mary, or at the name of the saint in whose honor the Mass is being celebrated. The General Instruction of the Roman Missal states literally, in no. 275: “A bow of the head is made when the three Divine Persons are named together and at the names of Jesus, of the Blessed Virgin Mary, and of the Saint in whose honor Mass is being celebrated.”\nWhen the name of the Virgin Mary or of the saint of the day occurs together with the name of Jesus (for example, in Eucharistic Prayer I), it is suggested that the bow be made more profound at the name of Jesus."
+              "value": "In the current Roman rite there are two kinds of bow: the bow of the body, or profound bow, and the bow of the head.\nA) The profound bow is made by bending the entire upper body forward from the waist. This bow is made:\n1.- To the altar, by all who approach the sanctuary, or withdraw from it, or pass in front of it.\n2.- At the prayer “Purify my **heart**”, said before the proclamation of the Gospel, if said by the priest; or by the deacon while he receives the blessing before ~proclaiming it~.\n3.- At the words “and by the Holy Spirit…” of the _Creed_.\n4.- At the prayer “With humble spirit and contrite heart” during the Offertory.\n5.- In the Roman Canon, during the words “In humble prayer we ask you.”\n6.- The priest must also make a bow while pronouncing the Lord's words during the Consecration.\n7.- The acolytes bow before approaching to render a service to the celebrant (bringing him the Missal, washing his hands, placing the miter on him) and when withdrawing.\n8.- A profound bow to the Bishop is likewise required, before and after the incensation.\nIn addition, it must be made whenever the various liturgical books expressly prescribe it.\nB) In the bow of the head, only the head moves from the neck, without any movement of the torso.\nThe bow of the head is made when the three Divine Persons are named together (for example, in the first part of the Gloria), at the name of Jesus, at the name of Mary, or at the name of the saint in whose honor the Mass is being celebrated. The General Instruction of the Roman Missal states literally, in no. 275: “A bow of the head is made when the three Divine Persons are named together and at the names of Jesus, of the Blessed Virgin Mary, and of the Saint in whose honor Mass is being celebrated.”\nWhen the name of the Virgin Mary or of the saint of the day occurs together with the name of Jesus (for example, in Eucharistic Prayer I), it is suggested that the bow be made more profound at the name of Jesus."
             }
           ]
         }
@@ -4793,13 +5135,13 @@
       "smId": "pj0p9g"
     },
     {
-      "type": "strip",
-      "id": "t4msq6",
-      "title": "More Sections"
-    },
-    {
       "type": "blog",
       "smId": "q55j45"
+    },
+    {
+      "type": "strip",
+      "id": "t4msq6",
+      "title": "More sections"
     },
     {
       "type": "widget",
@@ -4830,7 +5172,10 @@
   "features": {
     "shareWidget": "on",
     "shareNotes": "on",
-    "notifPrePrompt": "on"
+    "notifPrePrompt": "on",
+    "multiLang": "dev",
+    "readingsCitations": "dev",
+    "hoursListen": "dev"
   },
   "shareImages": [
     "SHARE_1.jpg",
@@ -4843,6 +5188,29 @@
     "SHARE_8.jpg",
     "SHARE_9.jpg",
     "share-10.jpg"
+  ],
+  "shareImagesVertical": [
+    "virgen-humildad-fra-angelico.jpg",
+    "duccio-di-buoninsegna-the-raising-of-lazarus.jpg",
+    "1688663932-1567677980065220-8-luca-giordano.jpg",
+    "saint-augustine-by-philippe-de-champaigne.jpg",
+    "55428196340-67da6b3582-o.webp",
+    "20260421t0645-pope-francis-anniversary-1818477.webp",
+    "nikhil-mitra-wi4taofcw6i-unsplash-1.webp",
+    "687046261-1428050116025506-3592574347739880451-n.webp",
+    "anuja-tilj-z26ad99tlzi-unsplash.webp",
+    "catedral-basilica-de-san-juan-de-los-lagos3.webp",
+    "chartes-cathedrale.webp",
+    "st-patricks-cathedral-ny1.webp",
+    "basilica-papale-di-santa-maria-maggiore-7878.webp",
+    "582976644-1264922725677418-8073576906046304993-n.webp",
+    "615918187-1315091503993873-3268197982416967178-n.webp",
+    "720571439-1436147075211965-1226273590722714583-n.webp",
+    "basilica-papale-di-santa-maria-maggiore11.webp",
+    "San-Francisco-historia.webp",
+    "Cruz-San-Damian.webp",
+    "480652531-n2.webp",
+    "nelson-ndongala-3vcuh-o4f4i-unsplash.webp"
   ],
   "widgetImages": {
     "rotation": [
@@ -4910,7 +5278,26 @@
       "Navidad": "WIDGET_ESPECIAL_NAVIDAD.jpg",
       "Pentecostés": "widget-especial-apentecostes.jpg"
     },
-    "marianFallback": "WIDGET_ESPECIAL_VIRGEN.jpg"
+    "marianFallback": "WIDGET_ESPECIAL_VIRGEN.jpg",
+    "hours": {}
+  },
+  "hourImages": {
+    "officium": {
+      "hero": "LH-oficio.jpg",
+      "closing": "LH-pie.png"
+    },
+    "laudes": {
+      "hero": "LH-laudes.jpg",
+      "closing": "LH-cierre-2.png"
+    },
+    "vesperae": {
+      "hero": "lh-visperas.jpg",
+      "closing": "lh-cierre-3.png"
+    },
+    "completorium": {
+      "hero": "lh-completas.jpg",
+      "closing": "lh-cierre-4.png"
+    }
   },
   "featuredReadings": [
     {

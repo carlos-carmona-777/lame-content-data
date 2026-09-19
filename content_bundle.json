@@ -3918,7 +3918,7 @@
     "liturgyHoursLinkId": "xcjae8",
     "testGroupId": null
   },
-  "contentLastEdited": "2026-09-19T14:24:16.557Z",
+  "contentLastEdited": "2026-09-19T19:47:43.415Z",
   "masterSections": [
     {
       "id": "pj0p9g",
@@ -4004,7 +4004,6 @@
       "articleDesign": "B",
       "portadaDesign": "B",
       "cardDesign": "B",
-      "pruebas": true,
       "quotes": [
         {
           "text": "La Eucaristía es el compendio y la suma de nuestra fe.",
@@ -4030,29 +4029,37 @@
         "busqueda": true,
         "design": "2"
       },
+      "newBadgeDays": 7,
       "sections": [
         {
           "id": "kmshys",
           "type": "article",
           "tag": "Artículos de Blog",
-          "title": "El ciclo trianual de lecturas dominicales",
-          "subtitle": "",
+          "title": "El Ciclo Litúrgico: ",
+          "subtitle": "¿Cómo se organiza la lectura de la Biblia en la Misa?\n",
           "color": "#8B1A1A",
           "icon": "+",
-          "image": "305165639_n.jpg",
-          "cardImage": "20180323-121340-20180321t0843.jpg",
+          "image": "basilica-san-francisco-de-asis-evangeliario.webp",
+          "cardImage": "basilica-san-francisco-de-asis-evangeliario.webp",
           "youtubeId": null,
           "keyPoints": [],
           "content": [
             {
               "type": "text",
-              "value": "La liturgia dominical presenta una variación año con año, pues existen tres ciclos de lecturas, que se identifican con las letras A, B y C. ¿Cómo se determina eso? Sencillo: el ciclo C corresponde a los años cuyo número sea divisible por tres, como si el ciclo hubiera empezado el primer año del cómputo cristiano. Según esto, el año 1 hubiera sido el ciclo A, el año 2 el B, el año 3 el C, y los años 6, 9, 12… otra vez el ciclo C. Así, por ejemplo, el año 2016 fue ciclo C, el año siguiente, esto es, el año 2017, fue ciclo A, el año 2018 fue ciclo B y el año 2019 volvió a ser ciclo C. \n\nCada ciclo corresponde a un evangelista sinópitico, pues durante el tiempo ordinario de ese ciclo se lee preponderantemente el Evangelio escrito por cada uno de estos autores. \n\nDe esta forma, en el ciclo A se lee el primero de los Evangelios, el de Mateo, de la siguiente forma: "
+              "value": "¿Existe un orden en las lecturas bíblicas de todo el año? Si voy a Misa todos los domingos, ¿habré escuchado la Biblia entera?\n\nSon preguntas que nacen de forma natural al asistir a la liturgia y que encuentran su respuesta en lo que la Iglesia llama el Ciclo Litúrgico.\n\n**El origen: una mesa más abundante para los fieles**\n\nAntes del Concilio Vaticano II, el Leccionario Romano —el libro que contiene las lecturas para la Misa— **funcionaba con un esquema de un solo año: cada doce meses se repetían exactamente los mismos pasajes.** **Además, cada Misa tenía solo dos lecturas, y el Antiguo Testamento prácticamente no aparecía nunca en domingo.**\n\nBuscando renovar el acceso a la Palabra de Dios, el Concilio impulsó una reforma clave:\n\n_«Ábranse con mayor amplitud los tesoros de la Biblia, de modo que, en un período determinado de años, se lean al pueblo las partes más significativas de la Sagrada Escritura»_ (Sacrosanctum Concilium, 51).\n\nDe este mandato nació el sistema actual, que organiza las lecturas en dos grandes dinámicas: el **ciclo trienal** para domingos y solemnidades, y el **ciclo bianual** para los días entre semana (ferias).\n\n**1. El ciclo de tres años (A, B y C) para domingos y fiestas**\n\nLa _Ordenación de las Lecturas de la Misa_ estableció un esquema de tres años, con tres lecturas y un salmo responsorial cada domingo. La estructura no es casual, y la propia norma explica su lógica:\n\n_«Toda Misa presenta tres lecturas: la primera, del Antiguo Testamento; la segunda, del Apóstol (esto es, de las epístolas o del Apocalipsis); la tercera, del Evangelio. Con esta distribución, se pone de relieve la unidad de ambos Testamentos y de la historia de la salvación, cuyo centro es Cristo contemplado en su misterio pascual»_ (OLM 66,1).\n\nCada uno de los tres años está centrado en el enfoque de uno de los evangelistas sinópticos:\n\n- **Ciclo A:** San Mateo.\n- **Ciclo B:** San Marcos.\n- **Ciclo C:** San Lucas.\n\nY el motivo de que sean tres y no uno lo da la misma norma:\n\n_«El hecho de que, para los domingos y fiestas, se proponga un ciclo de tres años es causa también de una lectura más variada y abundante de la sagrada Escritura, ya que los mismos textos no volverán a leerse hasta después de tres años»_ (OLM 66,2).\n\n**¿Dónde queda el Evangelio de San Juan?**\n\nSan Juan no tiene un año propio dentro del ciclo trienal. Su Evangelio se reserva para los tiempos litúrgicos fuertes —Cuaresma, Pascua— y para las grandes solemnidades. Además, en el Ciclo B, donde san Marcos resulta más breve que los otros dos sinópticos, el texto de Juan lo complementa mediante la lectura del famoso Discurso del Pan de Vida (Juan 6).\n\n**Los dos criterios para seleccionar las lecturas**\n\nPara articular el Antiguo y el Nuevo Testamento, el leccionario aplica dos principios distintos según el tiempo del año (OLM 66,3):\n\n**Composición armónica** (tiempos fuertes). Durante Adviento, Navidad, Cuaresma y Pascua, la primera lectura, el salmo y el evangelio guardan una relación temática directa con el misterio del día.\n\n**Lectura semicontinua** (Tiempo Ordinario). Durante las semanas ordinarias, cada serie de textos avanza progresivamente por su cuenta, domingo a domingo, capítulo a capítulo, como quien sigue la lectura regular de un libro. Por lo que aunque la primera lectura sí se elige en relación con el evangelio; la segunda avanza de forma independiente.\n\n**2. El ciclo bianual (Años I y II) para los días entre semana**\n\nPara la Misa diaria de lunes a sábado se leen dos lecturas —primera lectura y evangelio—, acompañadas del salmo responsorial. La estructura varía según el tiempo litúrgico:\n\n**Tiempos fuertes (Adviento, Navidad, Cuaresma y Pascua).** Las lecturas y el salmo son fijos y se repiten todos los años. Un detalle propio: **en Tiempo Pascual la primera lectura se toma de los Hechos de los Apóstoles** (OLM 69,1), de modo que la Iglesia acompaña cada año el nacimiento de la comunidad cristiana.\n\n**Tiempo Ordinario.** Aquí el esquema se desdobla:\n\n- El Evangelio: se lee el mismo esquema cada año, de forma continua.\n- La primera lectura y el salmo responsorial: se distribuyen en un ciclo doble que alterna según el año civil.\n\n_«En las ferias de las treinta y cuatro semanas del Tiempo Ordinario, las lecturas evangélicas se distribuyen en un solo ciclo que se repite cada año. En cambio, la primera lectura se distribuye en un doble ciclo que se lee en años alternos. El año primero se emplea en los años impares; el segundo, en los años pares»_ (OLM 69,4).\n\n**Año I (año impar):** se utiliza en los años impares (2025, 2027, 2029…).\n\n**Año II (año par):** se utiliza en los años pares (2026, 2028, 2030…).\n\nUn matiz importante: **el cambio de año no ocurre el 1 de enero, sino en el I Domingo de Adviento.** El Año I correspondiente a 2027, por ejemplo, comenzó ya el 29 de noviembre de 2026.\n\n**¿Cómo saber qué ciclo dominical corresponde? (Un truco sencillo)**\n\nLa regla práctica más fácil es recordar los años múltiplos de 3, que siempre corresponden al Ciclo C:\n\n- **Años múltiplos de 3 → Ciclo C:** 2022, 2025, 2028, 2031…\n- **El año siguiente → Ciclo A:** 2023, 2026, 2029, 2032…\n- **El segundo año siguiente → Ciclo B:** 2024, 2027, 2030, 2033…\n\nSe toma como referencia el año civil en que _termina_ el año litúrgico. Y recuérdese, otra vez, que el cambio se produce en Adviento.\n\n**Ejemplo práctico actual:**\n\n_Año litúrgico 2025–2026._ Inició el 30 de noviembre de 2025 y concluye en noviembre de 2026. Como el año de referencia es 2026, le corresponde el **Ciclo A** (san Mateo) para los domingos y el **Año Par (II)** para las lecturas y salmos de la Misa diaria.\n\n_Año litúrgico 2026–2027._ Inicia el 29 de noviembre de 2026 y concluye en 2027. Le corresponderá el **Ciclo B** (san Marcos) para los domingos y el **Año Impar (I)** para la Misa diaria.\n\n**¿Qué porcentaje de la Biblia habré escuchado al final de los ciclos?**\n\nEl objetivo del Leccionario nunca fue leer la Biblia entera de principio a fin sin saltar un versículo. Aun así, la reforma del Vaticano II amplió enormemente la Escritura que se proclama en la liturgia. Según las estadísticas compiladas por el P. Felix Just, S.J., que son la referencia habitual en esta materia:\n\n**Si asistes solo los domingos y fiestas** (ciclos A, B y C): a lo largo de tres años habrás escuchado aproximadamente el **40 % del Nuevo Testamento** y el **4 % del Antiguo Testamento**. En conjunto, cerca del **13 %** del texto bíblico completo.\n\n**Si asistes a Misa todos los días** (domingos más ferias, Años I y II): la proporción sube al **71 % del Nuevo Testamento** y al **13.5 % del Antiguo Testamento**. En total, alrededor del **28 %** de la Biblia.\n\nEl Leccionario ofrece una síntesis densa y bien pensada de la historia de la salvación, con los pasajes decisivos y casi tres cuartas partes del Nuevo Testamento.\n\n**Nota sobre las fuentes**\n\nLas citas proceden de la constitución _Sacrosanctum Concilium_ del Concilio Vaticano II (1963) y de los prenotandos de la _Ordenación de las Lecturas de la Misa_ (OLM), 2.ª edición típica de 1981, que figuran al inicio del Leccionario.\n\nLas estadísticas del P. Felix Just, S.J. se calcularon sobre el Leccionario estadounidense y la _New American Bible_. Los porcentajes en un leccionario en español son prácticamente idénticos, ya que las perícopas son las mismas."
+            },
+            {
+              "type": "text",
+              "value": "—Carlos Carmona"
             }
           ],
+          "publishedAt": "2026-09-19",
           "hashtags": [
             "ciclo-liturgico",
             "calendario"
-          ]
+          ],
+          "badge": "nuevo",
+          "badgeUntil": "2026-09-25"
         }
       ]
     },
@@ -5101,13 +5108,13 @@
       "smId": "pj0p9g"
     },
     {
+      "type": "blog",
+      "smId": "q55j45"
+    },
+    {
       "type": "strip",
       "id": "t4msq6",
       "title": "Más secciones"
-    },
-    {
-      "type": "blog",
-      "smId": "q55j45"
     },
     {
       "type": "widget",
@@ -5154,6 +5161,29 @@
     "SHARE_8.jpg",
     "SHARE_9.jpg",
     "share-10.jpg"
+  ],
+  "shareImagesVertical": [
+    "virgen-humildad-fra-angelico.jpg",
+    "duccio-di-buoninsegna-the-raising-of-lazarus.jpg",
+    "1688663932-1567677980065220-8-luca-giordano.jpg",
+    "saint-augustine-by-philippe-de-champaigne.jpg",
+    "55428196340-67da6b3582-o.webp",
+    "20260421t0645-pope-francis-anniversary-1818477.webp",
+    "nikhil-mitra-wi4taofcw6i-unsplash-1.webp",
+    "687046261-1428050116025506-3592574347739880451-n.webp",
+    "anuja-tilj-z26ad99tlzi-unsplash.webp",
+    "catedral-basilica-de-san-juan-de-los-lagos3.webp",
+    "chartes-cathedrale.webp",
+    "st-patricks-cathedral-ny1.webp",
+    "basilica-papale-di-santa-maria-maggiore-7878.webp",
+    "582976644-1264922725677418-8073576906046304993-n.webp",
+    "615918187-1315091503993873-3268197982416967178-n.webp",
+    "720571439-1436147075211965-1226273590722714583-n.webp",
+    "basilica-papale-di-santa-maria-maggiore11.webp",
+    "San-Francisco-historia.webp",
+    "Cruz-San-Damian.webp",
+    "480652531-n2.webp",
+    "nelson-ndongala-3vcuh-o4f4i-unsplash.webp"
   ],
   "widgetImages": {
     "rotation": [

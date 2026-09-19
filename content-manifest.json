@@ -1,12 +1,12 @@
 {
-  "contentVersion": 20,
+  "contentVersion": 21,
   "minSchema": 1,
   "generatedAt": "2026-09-19",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
   "bundle": {
     "file": "content_bundle.json",
-    "bytes": 489692,
-    "sha256": "f748c0500dad6b456e047e6b818e657cba44709f9caa0f7edaf8ab4e996d2111"
+    "bytes": 497725,
+    "sha256": "86d2beae11937400abd31903e2f5375ecf1287829dd37929c374733dcc9a69d5"
   },
   "images": [
     {
@@ -25,6 +25,11 @@
       "sha256": "647e59647b08a3b1af4eec2e17936f2305d6a3286eac74106a422692ad0024c3"
     },
     {
+      "file": "1688663932-1567677980065220-8-luca-giordano.jpg",
+      "bytes": 276433,
+      "sha256": "7e90e03124d624445071a9404e25cae4171e38386da279f5e6f10c6cae268e0b"
+    },
+    {
       "file": "20180323-121340-20180321t0843.jpg",
       "bytes": 110155,
       "sha256": "c9c1c721388ceea92039a4c805ad22493f01248fa954d0ea9bf38b1436aed610"
@@ -35,9 +40,19 @@
       "sha256": "f27f27c433d091c0a22d85c6950e2e24667f677fbd9e93861c314d5a8f4078ff"
     },
     {
+      "file": "20260421t0645-pope-francis-anniversary-1818477.webp",
+      "bytes": 139086,
+      "sha256": "d8263202edccaed36df73edfe8ddace2d9b620f5b49bb1e1c037b96e91890484"
+    },
+    {
       "file": "305165639_n.jpg",
       "bytes": 71449,
       "sha256": "e8023187d43dbf29a99a587918e1aa4089dc3e9e65afe018dc1a59482c8ec003"
+    },
+    {
+      "file": "480652531-n2.webp",
+      "bytes": 127132,
+      "sha256": "fad42a8de8bc5e666b164624e6dac49c0515793f60eea55edf2893f60ee41d78"
     },
     {
       "file": "480652531_n2.jpg",
@@ -50,9 +65,19 @@
       "sha256": "8343e150117533861921802688a2fd86ce3dd7c4bbdadfa9cc920ae2888d1510"
     },
     {
+      "file": "55428196340-67da6b3582-o.webp",
+      "bytes": 289306,
+      "sha256": "f192e52009861c63905ad3453e4ea8613b77d4e01f424b8f6d9a5341e20aad9c"
+    },
+    {
       "file": "574104045-1251833783652979-3220663262263555288-n.jpg",
       "bytes": 110198,
       "sha256": "da904251f7d7017dad4daae2ba69f858d925e5675c4f1665e670495dd96ac4bb"
+    },
+    {
+      "file": "582976644-1264922725677418-8073576906046304993-n.webp",
+      "bytes": 296038,
+      "sha256": "31e5a615acc4af503590b5183a8ceb23b490c28caa5dfa2cf3d5f737da586635"
     },
     {
       "file": "598156417_1303153858509806_5756579719379516857_n.jpg",
@@ -65,9 +90,24 @@
       "sha256": "4a8a8b90950ef2790a12518af6e601b0f976700b904177e13ecb64edbd4a4194"
     },
     {
+      "file": "615918187-1315091503993873-3268197982416967178-n.webp",
+      "bytes": 20624,
+      "sha256": "733ae501c1db00ca1a72589de008b3dedac339b132214d939deed2bbdbf42f94"
+    },
+    {
+      "file": "687046261-1428050116025506-3592574347739880451-n.webp",
+      "bytes": 115784,
+      "sha256": "e9506f8da59df236b634f707df8fd6d7e0056d8b51a2f208ad3bc2b308cb7593"
+    },
+    {
       "file": "716353236-18104048093101198-2807024506901054998-n.jpg",
       "bytes": 281235,
       "sha256": "fa149200b5c69d592833fbec94aa76fac332c53cba0da20a9effd384674792c2"
+    },
+    {
+      "file": "720571439-1436147075211965-1226273590722714583-n.webp",
+      "bytes": 166974,
+      "sha256": "724821fd74c16273b3b96eb2a1be7f647fce0e18f28406a5b06c8d6eea67c376"
     },
     {
       "file": "Agnus_Konstantin_Korobov.jpg",
@@ -123,6 +163,11 @@
       "file": "Comunion3.jpg",
       "bytes": 162039,
       "sha256": "8be7d1815cdec1c050d20092293689f584f8efc97698dbec27260c58e4212d70"
+    },
+    {
+      "file": "Cruz-San-Damian.webp",
+      "bytes": 120232,
+      "sha256": "d6226afdcae25ad200bc55906eaf911a806777d90a0df69e77725a912e3252e6"
     },
     {
       "file": "Fr_Lawrence_Lew4.jpg",
@@ -278,6 +323,11 @@
       "file": "SJuan_Raul_Berzosa.jpg",
       "bytes": 100868,
       "sha256": "6f9e7ce76e49e372f4a1d4ed718920f9c3c4e522410af6df42a2909bc0ea5a03"
+    },
+    {
+      "file": "San-Francisco-historia.webp",
+      "bytes": 226292,
+      "sha256": "eaaf0ccdf9673ba23f53f440fe27f6e5667df7dbb322a39b1183579a632d8075"
     },
     {
       "file": "San-agustin-estudiando.jpg",
@@ -630,14 +680,34 @@
       "sha256": "c5be489efe64876946c3635f6dbfbaf8710ba71479d446a55b40aec0e3cba262"
     },
     {
+      "file": "anuja-tilj-z26ad99tlzi-unsplash.webp",
+      "bytes": 293624,
+      "sha256": "72e8e76286e9f1ca08c7432f2f51768e89dc377e2894ccf866782f9947eac5ec"
+    },
+    {
       "file": "aparicion-de-la-virgen-a-san-bernardo.jpg",
       "bytes": 145554,
       "sha256": "268eab8afa816d89271188e2afbd9c3c480ed942ace83395b5b86c3bcac4c7bb"
     },
     {
+      "file": "basilica-papale-di-santa-maria-maggiore-7878.webp",
+      "bytes": 71954,
+      "sha256": "e242315e60bbc6377ca67f8694e34b1146256bd56444402ad91e1ef0dd6112ec"
+    },
+    {
+      "file": "basilica-papale-di-santa-maria-maggiore11.webp",
+      "bytes": 277934,
+      "sha256": "ddb15e2e354fdb359d957055a7a9c9212de88ed993a4ee76a1148b1b5d8f51ac"
+    },
+    {
       "file": "basilica-san-francisco-de-asis-crucifijo.jpg",
       "bytes": 128154,
       "sha256": "560e10795263d80aed54bef87ed229c4eba6f776b984fd4dd97a2494a537bc5c"
+    },
+    {
+      "file": "basilica-san-francisco-de-asis-evangeliario.webp",
+      "bytes": 100722,
+      "sha256": "a63c65d4ae3bf0ee65e04fa240cd7509abde2092e806acc8b7d06f14b4140d78"
     },
     {
       "file": "basilica-san-francisco-de-asis-francisco-de-asis.jpg",
@@ -663,6 +733,11 @@
       "file": "caliz-2.jpg",
       "bytes": 95430,
       "sha256": "b4c4b362a2689e0531aebccbd49a087ea3e96c6b4a93b4dccf149b44ec482c78"
+    },
+    {
+      "file": "catedral-basilica-de-san-juan-de-los-lagos3.webp",
+      "bytes": 86374,
+      "sha256": "cdd5a5677eea61ca2f36f2d71f0406d65e2d6a89661dcc5add3da0d7e65517eb"
     },
     {
       "file": "catholic-church-england-and-wales-0011.jpg",
@@ -755,6 +830,11 @@
       "sha256": "e1b292195a1e39dc2fc15742e3faf0c9c9f339d435dda2ea10930aab50e939cd"
     },
     {
+      "file": "chartes-cathedrale.webp",
+      "bytes": 151592,
+      "sha256": "500a8995dcaa8e8f4abd8b045ba7ac2d2ba1b0371c1819edac249c80a51ffac4"
+    },
+    {
       "file": "christian-harb-OjbUJBT65tk-unsplash.jpg",
       "bytes": 186641,
       "sha256": "42fb95f4a98872fadbc84eff521c50588dc06ac7123890e4d630c43782b7b936"
@@ -798,6 +878,11 @@
       "file": "domingoordinario.png",
       "bytes": 13656,
       "sha256": "96e0ed11d0874496b75888281e81aff617ddf6263e795aea79b465847183a7a9"
+    },
+    {
+      "file": "duccio-di-buoninsegna-the-raising-of-lazarus.jpg",
+      "bytes": 302041,
+      "sha256": "8fbb2e41ecd9c902e45ca6d607619cd4152083988b4fde111ded602789ffbbae"
     },
     {
       "file": "eliasyelangel.jpg",
@@ -960,6 +1045,16 @@
       "sha256": "737675b48740b673a838ea4610c460efdd2d09068bea520f566d7880d7b9a453"
     },
     {
+      "file": "nelson-ndongala-3vcuh-o4f4i-unsplash.webp",
+      "bytes": 305508,
+      "sha256": "32d0bacfc7c5aab64dfa2e17b29394cf65ae998e004b53446c252fe6b3ec6f15"
+    },
+    {
+      "file": "nikhil-mitra-wi4taofcw6i-unsplash-1.webp",
+      "bytes": 303222,
+      "sha256": "22eed8e1cfa7ff1288c1b93b50b1ca39b6ed76964185ae6ddf10f62da9d2228c"
+    },
+    {
       "file": "notificaciones.jpeg",
       "bytes": 81692,
       "sha256": "a42c41914a3cbcd982014ab0da6c271cac5616f3efbc924047f68ce96487b26a"
@@ -1000,6 +1095,11 @@
       "sha256": "4d0add4bebbeeb77357c2cbf8cf822d9bf0607e7b2b5f11f2e2b7537a2b284a9"
     },
     {
+      "file": "saint-augustine-by-philippe-de-champaigne.jpg",
+      "bytes": 305839,
+      "sha256": "abe718a550945b4ed591088b5857653cdf24e54011950c87f7285f8c68bf4bb9"
+    },
+    {
       "file": "san-sisto-madonna-4ff8ba67c18ee.jpg",
       "bytes": 113812,
       "sha256": "4c901d2242308eadeb51c81b9c88bac384d7859649536ee9f24453558cba2ffa"
@@ -1028,6 +1128,11 @@
       "file": "solemnidades1.png",
       "bytes": 12982,
       "sha256": "46c0e95d69d295dd187ac1e97213c05e0f1c85cf3f19ec1e854c1c5064358391"
+    },
+    {
+      "file": "st-patricks-cathedral-ny1.webp",
+      "bytes": 104806,
+      "sha256": "8543720425cbdcada66de3e243db8b752754601c39f217d7e4063085c8a972bd"
     },
     {
       "file": "st-paul-in-prison-Gustave-Dore.jpg",
@@ -1095,6 +1200,11 @@
       "sha256": "2adefea314977051f374f19f3c531c21b5e1ffc71143c3260319737920285c67"
     },
     {
+      "file": "virgen-humildad-fra-angelico.jpg",
+      "bytes": 304873,
+      "sha256": "1a97414f2e4e03e2d24deab95cf3cae0d17e5e5d2aba64e10a284f961cc27e53"
+    },
+    {
       "file": "widget-especial-apentecostes.jpg",
       "bytes": 152824,
       "sha256": "d2921705ed8f178098894b56920803e642acc95773a51dd28768ee7b5ef4318c"
@@ -1114,7 +1224,7 @@
     {
       "file": "santoral_sanctus.json",
       "bytes": 840941,
-      "sha256": "461c3fddcdfb2a55e7f0fe5be5867374dd00189f1129c31604a60c2ef3406c7c"
+      "sha256": "734d39549196bd9a5ef68809074d1cfa8e07aeee6821a2cc1e31198f839c6872"
     },
     {
       "file": "liturgiaplus_biografias.json",
