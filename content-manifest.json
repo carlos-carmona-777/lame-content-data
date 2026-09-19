@@ -1,12 +1,12 @@
 {
-  "contentVersion": 17,
+  "contentVersion": 18,
   "minSchema": 1,
-  "generatedAt": "2026-08-30",
+  "generatedAt": "2026-09-19",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
   "bundle": {
     "file": "content_bundle.json",
-    "bytes": 489469,
-    "sha256": "190c0103ee58112f15636b8685ddc8baeb37055a038a60ae7dbf84eacaef45f7"
+    "bytes": 490154,
+    "sha256": "e7e42b922159ab11a1b95789849a74d584085fbe022795bdc0a1fa3f1c3b7870"
   },
   "images": [
     {
@@ -143,6 +143,26 @@
       "file": "Guadalupe-Incienso.jpg",
       "bytes": 164189,
       "sha256": "5f9ff59269a590e92acfb9ad4882bee4cdf1ca026b841c2db26d3629d0a40159"
+    },
+    {
+      "file": "LH-cierre-2.png",
+      "bytes": 486923,
+      "sha256": "162524fa1c421eebb9a440c10e7d6fdde208f61285a8d147bb1a95a2ffb65477"
+    },
+    {
+      "file": "LH-laudes.jpg",
+      "bytes": 186066,
+      "sha256": "c5b0e19e397e569de6cf0d21a1c53ebcca5588273488e018cc3591e13845c85c"
+    },
+    {
+      "file": "LH-oficio.jpg",
+      "bytes": 246330,
+      "sha256": "50c572d89777586c18809407310c9153398cbebd444f305ead11a8a723e35aff"
+    },
+    {
+      "file": "LH-pie.png",
+      "bytes": 105487,
+      "sha256": "5631147d373bab39806d261719f0caf3a79d7a95b774b12ed9c96d6917320eed"
     },
     {
       "file": "La-ultima-cena-pintura.jpg",
@@ -905,6 +925,26 @@
       "sha256": "2261030bfc9ba9e78bf3912fafb843fa4e91af26b13612cf05c53742c9a7d72d"
     },
     {
+      "file": "lh-cierre-3.png",
+      "bytes": 444574,
+      "sha256": "2bbc4b13afc95b4d1eb2064bdec2dc6ce5b0e9dfc8a58bc8551a0c059bc9cef9"
+    },
+    {
+      "file": "lh-cierre-4.png",
+      "bytes": 486067,
+      "sha256": "185d403b28d457f69edc6aabb822d47d56a7921dce78cea15dc2d24cfcda2880"
+    },
+    {
+      "file": "lh-completas.jpg",
+      "bytes": 298281,
+      "sha256": "af260c6fd8363e2d7980a8b02743fe4af4f405cbed846dc765fd2711df42053a"
+    },
+    {
+      "file": "lh-visperas.jpg",
+      "bytes": 300216,
+      "sha256": "7299b8bacd9a1e8fbaf318c7677bace441c63656a096b67a51bba3db96e20585"
+    },
+    {
       "file": "manutergio-2.jpg",
       "bytes": 13775,
       "sha256": "acf220b06bbbcbdaefc67ae5ca635cef11ea5da3fded9d41b69a01f158b1fc36"
@@ -1093,8 +1133,8 @@
     },
     {
       "file": "readings-patch.json",
-      "bytes": 1275887,
-      "sha256": "831a00845fa2559e9439e486d28662452db4294aecbf15f18d3a679173cddef7"
+      "bytes": 1312590,
+      "sha256": "3122ed031579ebedc7272a61b020d11280bc73b46d012ccdbc12405baecd56fb"
     }
   ],
   "media": [

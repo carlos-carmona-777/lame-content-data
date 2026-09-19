@@ -3918,7 +3918,7 @@
     "liturgyHoursLinkId": "xcjae8",
     "testGroupId": null
   },
-  "contentLastEdited": "2026-08-30T01:22:45.980Z",
+  "contentLastEdited": "2026-08-31T12:52:33.527Z",
   "masterSections": [
     {
       "id": "pj0p9g",
@@ -4177,7 +4177,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+                  "value": "**_Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus_** mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
                 },
                 {
                   "type": "video",
@@ -4186,7 +4186,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "**Lorem** ipsum dolor sit amet consectetur _adipiscing_ elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n\n`Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.` \n\n\nLorem ipsum dolor sit \n\n^^amet consectetur adipiscing elit. Quisque faucibus ex sapien^^ \n\nvitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n{{leermas}}\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n"
+                  "value": "**Lorem** ipsum dolor sit amet consectetur _adipiscing_ elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. \n\n%%Pulvinar **_vivamus fringilla lacus nec metus bibendum_** egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.%%\n\n\n`Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.` \n\n\nLorem ipsum dolor sit \n\n^^amet consectetur adipiscing elit. Quisque faucibus ex sapien^^ \n\nvitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenae\n\n{{leermas}}\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n"
                 },
                 {
                   "type": "text",
@@ -4677,6 +4677,29 @@
               "muted": true
             },
             {
+              "type": "hotspots",
+              "value": "Agnus_Konstantin_Korobov.jpg",
+              "caption": "",
+              "hotspots": [
+                {
+                  "x": 26.3,
+                  "y": 34,
+                  "title": "PECADO",
+                  "text": "",
+                  "size": "lg"
+                },
+                {
+                  "x": 58.4,
+                  "y": 13.5,
+                  "title": "JESÚS",
+                  "text": "",
+                  "pill": "light",
+                  "size": "lg"
+                }
+              ],
+              "style": "tags"
+            },
+            {
               "type": "audio",
               "value": "https://www.w3schools.com/html/horse.mp3",
               "title": "Audio de prueba",
@@ -4684,7 +4707,7 @@
             },
             {
               "type": "autocredit",
-              "value": "Desconocido\nLa sagrada comunión.\nPersignarse\nDetalle 1\nDetalle 2\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nInclinación\nReverencia\nFrente\nEl presbiterio\nLa nave central en 360° — arrastra para mirar alrededor.\nDesconocido"
+              "value": "Desconocido\nLa sagrada comunión.\nPersignarse\nDetalle 1\nDetalle 2\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nWIDGET HOY\nInclinación\nReverencia\nFrente\nEl presbiterio\nLa nave central en 360° — arrastra para mirar alrededor.\nDesconocido\nAgnus Konstantin Korobov"
             }
           ]
         }
