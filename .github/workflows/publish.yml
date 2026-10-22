@@ -27,6 +27,9 @@ on:
       - santoral_rico.json
       - hours-patch.json
       - readings-patch.json
+      # Overlay LatAm (7º dataFile, 2026-10-21). En `gh release create` va como
+      # glob: con nullglob desaparece mientras el archivo no exista en el repo.
+      - readings-latam.json
       - "*.jpg"
       - "*.jpeg"
       - "*.png"
@@ -71,6 +74,7 @@ jobs:
             homilies.json santoral_sanctus.json liturgiaplus_biografias.json \
             santoral_rico.json \
             hours-patch.json readings-patch.json \
+            readings-latam*.json \
             *.jpg *.jpeg *.png *.webp \
             *.mp3 *.m4a *.wav *.aac *.mp4 *.mov *.m4v \
             --title "Contenido v${{ steps.meta.outputs.version }} (build ${{ github.run_number }})" \
