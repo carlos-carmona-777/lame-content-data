@@ -1,12 +1,12 @@
 {
-  "contentVersion": 26,
+  "contentVersion": 28,
   "minSchema": 1,
-  "generatedAt": "2026-10-24",
+  "generatedAt": "2026-11-19",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
   "bundle": {
     "file": "content_bundle.json",
-    "bytes": 518753,
-    "sha256": "c80d9770b2c9c95965c0298fcdc3c946ea5f989fe4c369423acf011053634d00"
+    "bytes": 548122,
+    "sha256": "1ea7908e195eb14c593b35822bcec1430fd494f1c573e864184dbbf008377f87"
   },
   "images": [
     {
@@ -108,6 +108,26 @@
       "file": "720571439-1436147075211965-1226273590722714583-n.webp",
       "bytes": 166974,
       "sha256": "724821fd74c16273b3b96eb2a1be7f647fce0e18f28406a5b06c8d6eea67c376"
+    },
+    {
+      "file": "ADVIENTO_2026_1.jpg",
+      "bytes": 358988,
+      "sha256": "366c410d331f83a19be1a2f2f44e59e6fb4722b51cef2abf5b4bb2e81effad5c"
+    },
+    {
+      "file": "ADVIENTO_2026_2.jpg",
+      "bytes": 365163,
+      "sha256": "644df8d10443d40dbfd860564478fe063254ffd16d7288a390cc5bc71b00471d"
+    },
+    {
+      "file": "ADVIENTO_2026_3.jpg",
+      "bytes": 362047,
+      "sha256": "61280354a270e67162f902433c2505cc77b888c802526da023d5ebd5522f26f3"
+    },
+    {
+      "file": "ADVIENTO_2026_4.jpg",
+      "bytes": 359305,
+      "sha256": "30465f05bbe0469493ce228ae11ffd09dd25628a23c68c727bb38d5d2cb47852"
     },
     {
       "file": "Agnus_Konstantin_Korobov.jpg",
@@ -670,6 +690,26 @@
       "sha256": "12c3d3944eb20bb1a59cb05855f734eaad5e55d6ad7bd62f9c4ca78fe8fa5bf9"
     },
     {
+      "file": "adviento-2026-corona-1.jpg",
+      "bytes": 277348,
+      "sha256": "5015ec7b9e170cd1d3df7e4d17cb509939119c08b83971a4263fd7c4c03287ff"
+    },
+    {
+      "file": "adviento-2026-corona-2.jpg",
+      "bytes": 286177,
+      "sha256": "9f8984b004321620e8eaf42386c92d9a07cc9d8c0b167c65b223b1fe8906cd34"
+    },
+    {
+      "file": "adviento-2026-corona-3.jpg",
+      "bytes": 302698,
+      "sha256": "f4c4effee66dbdf3f578b710a0ac9aff6a65015bede3713be440615690e36818"
+    },
+    {
+      "file": "adviento-2026-corona-4.jpg",
+      "bytes": 341699,
+      "sha256": "4b5160463bdf891402ffa6d578b1dc086e8233fdabad62feb27bd671593e7096"
+    },
+    {
       "file": "alfonso-scarpa-Y7289sV3BIo-unsplash.jpg",
       "bytes": 179036,
       "sha256": "33a12bea5c88e3e057101ca06002c080b3d88cab77a90c180bd3bd69dc9c0f7e"
@@ -1075,6 +1115,16 @@
       "sha256": "2a8e7c91757697c49b0590b830b133bca638a30318b8ca85497c2e6137d65beb"
     },
     {
+      "file": "paso-a-paso-gran-amen.jpg",
+      "bytes": 177576,
+      "sha256": "41c70c917f36f5929e60f43bf18edfc2800aacd77d14ef0520e9d5a401f8a3b0"
+    },
+    {
+      "file": "paso-a-paso-monitor.jpg",
+      "bytes": 143044,
+      "sha256": "9cbce7ed5b498d4515f93ecf9570131379305f5b18783e13a3ab2e89a792b845"
+    },
+    {
       "file": "patena-2.jpg",
       "bytes": 20147,
       "sha256": "342e54f69f8b9380ad222dbcaafe5c41ec356a80ab03493af07adc8605e838fb"
@@ -1235,6 +1285,11 @@
       "file": "santoral_rico.json",
       "bytes": 204207,
       "sha256": "32f77c51553edcf6d8025591d1e52055cb6d373f30547144d2afa9389d99801b"
+    },
+    {
+      "file": "readings-latam.json",
+      "bytes": 1408182,
+      "sha256": "0c4d280378b5e1ac06423a9ee4ed76b92e327f9db8014db9e3c0e1f9d4812d6b"
     },
     {
       "file": "hours-patch.json",

@@ -3908,6 +3908,137 @@
     "headerImageParallax": true,
     "imageBlockParallax": true,
     "imgSliderTextAnimation": "slideUpFade",
+    "homeMessages": [
+      {
+        "id": "adviento-2026-vispera",
+        "fixed": true,
+        "from": "2026-11-28",
+        "to": "2026-11-28",
+        "label": "Adviento",
+        "title": "Mañana comienza el Adviento",
+        "text": "Cuatro domingos para preparar la Navidad.",
+        "color": "morado",
+        "candles": 0,
+        "primary": {
+          "label": "Lecturas del domingo",
+          "dest": "lecturas"
+        }
+      },
+      {
+        "id": "adviento-2026-invita",
+        "from": "2026-11-29",
+        "to": "2026-11-29",
+        "label": "Adviento · I Domingo",
+        "title": "Invita a alguien a vivirlo",
+        "text": "Comparte la tarjeta de la primera vela.",
+        "color": "morado",
+        "candles": 1,
+        "primary": {
+          "label": "Compartir tarjeta",
+          "dest": "compartir"
+        },
+        "secondary": {
+          "label": "Ahora no",
+          "dest": "cerrar"
+        },
+        "share": {
+          "image": "ADVIENTO_2026_1.jpg",
+          "text": "Hoy comienza el Adviento. Vívelo con La Misa Explicada: https://lamisaexplicada.com"
+        }
+      },
+      {
+        "id": "adviento-2026-s1",
+        "fixed": true,
+        "from": "2026-11-29",
+        "to": "2026-12-05",
+        "label": "Adviento · Semana 1",
+        "title": "Adviento: aprender a esperar",
+        "text": "La primera vela: la esperanza.",
+        "color": "morado",
+        "candles": 1,
+        "primary": {
+          "label": "Leer",
+          "dest": "misa://art/adv261"
+        },
+        "secondary": {
+          "label": "Compartir",
+          "dest": "compartir"
+        },
+        "share": {
+          "image": "ADVIENTO_2026_1.jpg",
+          "text": "Hoy comienza el Adviento. Vívelo con La Misa Explicada: https://lamisaexplicada.com"
+        }
+      },
+      {
+        "id": "adviento-2026-s2",
+        "fixed": true,
+        "from": "2026-12-06",
+        "to": "2026-12-12",
+        "label": "Adviento · Semana 2",
+        "title": "Preparen el camino",
+        "text": "La segunda vela: la paz.",
+        "color": "morado",
+        "candles": 2,
+        "primary": {
+          "label": "Leer",
+          "dest": "misa://art/adv262"
+        },
+        "secondary": {
+          "label": "Compartir",
+          "dest": "compartir"
+        },
+        "share": {
+          "image": "ADVIENTO_2026_2.jpg",
+          "text": "Segundo domingo de Adviento: preparen el camino. Vívelo con La Misa Explicada: https://lamisaexplicada.com"
+        }
+      },
+      {
+        "id": "adviento-2026-s3",
+        "fixed": true,
+        "from": "2026-12-13",
+        "to": "2026-12-19",
+        "label": "Adviento · Semana 3",
+        "title": "Alégrense: el Señor está cerca",
+        "text": "La tercera vela: la alegría.",
+        "color": "rosa",
+        "candles": 3,
+        "primary": {
+          "label": "Leer",
+          "dest": "misa://art/adv263"
+        },
+        "secondary": {
+          "label": "Compartir",
+          "dest": "compartir"
+        },
+        "share": {
+          "image": "ADVIENTO_2026_3.jpg",
+          "text": "Domingo de la alegría: el Señor está cerca. Vívelo con La Misa Explicada: https://lamisaexplicada.com"
+        }
+      },
+      {
+        "id": "adviento-2026-s4",
+        "fixed": true,
+        "from": "2026-12-20",
+        "to": "2026-12-24",
+        "label": "Adviento · Semana 4",
+        "title": "Hágase: el sí que abrió la puerta",
+        "text": "La cuarta vela: el amor.",
+        "color": "morado",
+        "candles": 4,
+        "primary": {
+          "label": "Leer",
+          "dest": "misa://art/adv264"
+        },
+        "secondary": {
+          "label": "Compartir",
+          "dest": "compartir"
+        },
+        "share": {
+          "image": "ADVIENTO_2026_4.jpg",
+          "text": "Cuarto domingo de Adviento: faltan cuatro días para la Navidad. Vívelo con La Misa Explicada: https://lamisaexplicada.com"
+        }
+      }
+    ],
     "portadaDesign": "C",
     "cardDesign": "B"
   },
@@ -3918,7 +4049,7 @@
     "liturgyHoursLinkId": "xcjae8",
     "testGroupId": null
   },
-  "contentLastEdited": "2026-10-02T22:17:38.599Z",
+  "contentLastEdited": "2026-11-19T00:09:02.414Z",
   "masterSections": [
     {
       "id": "pj0p9g",
@@ -4057,6 +4188,192 @@
           "hashtags": [
             "ciclo-liturgico",
             "calendario"
+          ]
+        },
+        {
+          "id": "adv261",
+          "type": "article",
+          "tag": "Adviento · Semana 1",
+          "title": "Adviento: aprender a esperar",
+          "subtitle": "I Domingo de Adviento · La primera vela: la esperanza",
+          "color": "#5B2A86",
+          "icon": "+",
+          "image": "adviento-2026-corona-1.jpg",
+          "cardImage": "adviento-2026-corona-1.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "El año de la Iglesia no empieza con una fiesta. Empieza con una palabra dicha de noche, a la puerta de la casa: _«Lo que les digo a ustedes, lo digo a todos: ¡Velen!»_ (Mc 13, 37).\n\nCon el Evangelio de este domingo comienza el Adviento y, con él, un nuevo año litúrgico: el ciclo B, en el que nos acompañará san Marcos.\n\n\n**Qué significa «Adviento»**\n\nLa palabra viene del latín _adventus_, «venida». Benedicto XVI explicaba que en el mundo antiguo se usaba para la visita del rey a una provincia, y que los cristianos la tomaron para hablar de Cristo, el Rey que entró en esta pobre provincia que es la tierra:"
+            },
+            {
+              "type": "quote",
+              "value": "Con la palabra adventus se quería decir substancialmente: Dios está aquí, no se ha retirado del mundo, no nos ha dejado solos.",
+              "author": "Benedicto XVI, homilía de las primeras Vísperas de Adviento, 28 de noviembre de 2009"
+            },
+            {
+              "type": "text",
+              "value": "Por eso el Adviento es más que una cuenta regresiva hacia la Navidad. Es el tiempo en que la Iglesia aprende otra vez a esperar a Alguien que ya vino, que vendrá y que está viniendo.\n\n\n**Dos venidas… y una tercera**\n\nEl Catecismo lo resume así: _«Al celebrar anualmente la liturgia de Adviento, la Iglesia actualiza esta espera del Mesías: participando en la larga preparación de la primera venida del Salvador, los fieles renuevan el ardiente deseo de su segunda Venida»_ (Catecismo de la Iglesia Católica, 524).\n\nEs lo mismo que predicaba san Cirilo de Jerusalén en el siglo IV, en el texto que la Liturgia de las Horas propone precisamente hoy: _«En la primera venida fue envuelto en pañales y recostado en un pesebre; en la segunda aparecerá vestido de luz»_ (Catequesis 15).\n\nSan Bernardo añadió algo que cambia la manera de vivir estas semanas. Entre la primera venida y la última hay una venida intermedia, escondida, que sucede en el corazón de quien guarda la Palabra de Dios:"
+            },
+            {
+              "type": "quote",
+              "value": "En la primera Cristo fue nuestra redención; en la última se manifestará como nuestra vida; en esta venida intermedia es nuestro descanso y nuestro consuelo.",
+              "author": "San Bernardo, Sermón 5 en el Adviento del Señor"
+            },
+            {
+              "type": "text",
+              "value": "San Juan Pablo II lo decía con una fórmula fácil de recordar: el Adviento es _«un intenso entrenamiento que nos orienta decididamente hacia Aquel que ya ha venido, que vendrá y que continuamente viene»_ (Audiencia general, 18 de diciembre de 2002).\n\n\n**Velar no es tener miedo**\n\nEn la parábola, el dueño de la casa se va de viaje y deja a cada criado su tarea; al portero le encarga velar. Nadie sabe si volverá _«al atardecer, o a medianoche, o al canto del gallo, o al amanecer»_ (Mc 13, 35). Velar es hacer la propia tarea con la puerta abierta: vivir de modo que su llegada sea una alegría y no un susto.\n\nBenedicto XVI, al comentar este mismo Evangelio, recordaba que el Adviento llega cada año _«para que nuestra vida recupere su orientación correcta, hacia el rostro de Dios. El rostro no de un \"señor\", sino de un Padre y de un Amigo»_ (Ángelus, 27 de noviembre de 2011). La primera lectura lo dice en forma de oración: _«Tú, Señor, eres nuestro padre»_ (Is 63, 16).\n\n\n**La primera vela: la esperanza**\n\nLa esperanza cristiana es más que optimismo. Es una virtud: _«la virtud teologal por la que aspiramos al Reino de los cielos y a la vida eterna como felicidad nuestra, poniendo nuestra confianza en las promesas de Cristo»_ (Catecismo, 1817). Y tiene consecuencias hoy mismo: _«Quien tiene esperanza vive de otra manera; se le ha dado una vida nueva»_ (Benedicto XVI, _Spe salvi_, 2).\n\n\n**La corona de Adviento**\n\nLa corona con cuatro velas nació como costumbre de los hogares cristianos. La Iglesia la acoge y explica su sentido: sus luces, encendidas domingo tras domingo, son _«memoria de las diversas etapas de la historia de la salvación antes de Cristo y símbolo de la luz profética que iba iluminando la noche de la espera, hasta el amanecer del Sol de justicia»_ (Directorio sobre la piedad popular y la liturgia, 98).\n\nA cada vela se le suele dar un nombre: esperanza, paz, alegría y amor. Esa lista completa es una costumbre de la piedad popular; los libros litúrgicos no la traen así. Pero no es un invento: recoge lo que la liturgia de estas semanas pide vivir.\n\nLa tercera vela es el caso más claro. El III domingo se llama _Gaudete_, que significa «alégrense»: es la primera palabra de la antífona de entrada de la Misa de ese día. Por eso la vela es rosa, y la misma Instrucción General del Misal Romano prevé ese color: _«El color rosado puede usarse, donde se acostumbre, en los domingos Gaudete (III de Adviento) y Laetare (IV de Cuaresma)»_ (n. 346). La alegría de la tercera vela viene, pues, de la liturgia misma.\n\nEn esta serie seguimos los cuatro nombres, uno cada domingo.\n\n\n**Para esta semana**\n\n- Enciende la primera vela en casa y lean juntos el Evangelio del domingo (Mc 13, 33-37).\n- Aparta cada día un rato fijo de silencio, aunque sean cinco minutos. El Adviento, decía Benedicto XVI, _«nos invita a detenernos, en silencio, para captar una presencia»_.\n- Repite durante el día la oración más antigua del Adviento: «Ven, Señor Jesús» (Ap 22, 20).\n\n\n**Nota sobre las fuentes**\n\nEl Evangelio y la primera lectura se citan según el Leccionario de la Misa de este domingo (ciclo B). Los textos de san Cirilo de Jerusalén y de san Bernardo son las lecturas del Oficio de lectura del domingo y del miércoles de la I semana de Adviento. Las citas de Benedicto XVI y de san Juan Pablo II proceden de los textos oficiales publicados por la Santa Sede. El _Directorio sobre la piedad popular y la liturgia_ es de la Congregación para el Culto Divino (2002). La norma sobre el color rosado está en la _Instrucción General del Misal Romano_, n. 346."
+            },
+            {
+              "type": "text",
+              "value": "—Carlos Carmona"
+            }
+          ],
+          "publishedAt": "2026-11-29",
+          "badge": "proximamente",
+          "badgeUntil": "2026-11-28",
+          "hashtags": [
+            "adviento",
+            "esperanza"
+          ]
+        },
+        {
+          "id": "adv262",
+          "type": "article",
+          "tag": "Adviento · Semana 2",
+          "title": "Preparen el camino",
+          "subtitle": "II Domingo de Adviento · La segunda vela: la paz",
+          "color": "#5B2A86",
+          "icon": "+",
+          "image": "adviento-2026-corona-2.jpg",
+          "cardImage": "adviento-2026-corona-2.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "San Marcos no cuenta el nacimiento de Jesús. Su Evangelio arranca de golpe: _«Comienza el Evangelio de Jesucristo, Hijo de Dios»_ (Mc 1, 1). Y lo primero que se oye es una voz en el desierto: _«Preparen el camino del Señor, allanen sus senderos»_ (Mc 1, 3).\n\nEl segundo domingo de Adviento tiene nombre propio: Juan el Bautista.\n\n\n**Antes de la exigencia, el consuelo**\n\nLa primera lectura no empieza con un reproche. Empieza así: _«Consuelen, consuelen a mi pueblo —dice su Dios—; hablen al corazón de Jerusalén»_ (Is 40, 1-2). Israel llevaba décadas en el exilio, y Dios le anuncia que viene en persona a traerlo de vuelta.\n\nBenedicto XVI veía ahí la intención de todo el Adviento: _«Esto es lo que quiere hacer el Señor en Adviento: hablar al corazón de su pueblo y, a través de él, a toda la humanidad, para anunciarle la salvación»_ (Ángelus, 7 de diciembre de 2008).\n\nLa llamada a preparar el camino viene después, y nace de esa buena noticia. Se arregla la casa porque alguien querido está por llegar.\n\n\n**Juan: un hombre que estorba poco**\n\nMarcos describe a Juan con dos trazos: vestido de piel de camello, alimentado con saltamontes y miel silvestre. Nada sobra en él. Benedicto XVI sacaba de ahí una consecuencia muy concreta para estas semanas de compras: _«El estilo de Juan Bautista debería impulsar a todos los cristianos a optar por la sobriedad como estilo de vida, especialmente en preparación para la fiesta de Navidad»_ (Ángelus, 4 de diciembre de 2011).\n\nPero Juan pide más que austeridad. En su libro _Jesús de Nazaret_, Joseph Ratzinger escribe que su bautismo _«está vinculado a un llamamiento ardiente a una nueva forma de pensar y actuar»_. Y de las profecías que Marcos cita dice:"
+            },
+            {
+              "type": "quote",
+              "value": "Hablan de la intervención salvadora de Dios, que sale de lo inescrutable para juzgar y salvar; a él hay que abrirle la puerta, prepararle el camino.",
+              "author": "Joseph Ratzinger – Benedicto XVI, Jesús de Nazaret, I"
+            },
+            {
+              "type": "text",
+              "value": "**Qué es «allanar»**\n\nLa imagen es la de un camino que se arregla para la llegada de un rey: se rellenan los baches y se quitan las piedras. Eusebio de Cesarea, en la lectura que el Oficio propone hoy, aplica la imagen al corazón: aquella voz _«manda preparar un camino para la Palabra de Dios, así como allanar sus obstáculos y asperezas, para que cuando venga nuestro Dios pueda caminar sin dificultad»_ (Comentario sobre Isaías, 40).\n\nSan Carlos Borromeo lo decía a sus fieles de Milán al empezar el Adviento: Cristo _«está dispuesto a volver en cualquier momento, para habitar espiritualmente en nuestra alma con la abundancia de sus gracias, si nosotros, por nuestra parte, quitamos todo obstáculo»_ (Cartas pastorales).\n\nEl Catecismo le pone nombre a ese trabajo: conversión, _«una reorientación radical de toda la vida, un retorno, una conversión a Dios con todo nuestro corazón»_ (Catecismo, 1431). El Evangelio de hoy cuenta que la gente acudía a Juan y _«confesaban sus pecados»_ (Mc 1, 5). Para nosotros, ese camino tiene un lugar preciso: el sacramento de la Reconciliación.\n\n\n**La segunda vela: la paz**\n\nLa paz es el fruto de ese camino allanado. La segunda lectura lo pide con todas sus letras: _«Procuren que Dios los encuentre en paz con él, inmaculados e irreprochables»_ (2 Pe 3, 14).\n\nLa paz cristiana nace de una Persona antes que de un acuerdo: _«La paz terrenal es imagen y fruto de la paz de Cristo, el \"Príncipe de la paz\" mesiánica»_; _«Él es nuestra paz»_ (Catecismo, 2305; cf. Ef 2, 14). Se recibe como don y, a la vez, pide colaboración: _«La justicia y la paz son un don de Dios, pero requieren hombres y mujeres que sean \"tierra buena\", dispuesta a acoger la buena semilla de su Palabra»_ (Benedicto XVI, Ángelus, 7 de diciembre de 2008).\n\nQuien se ha reconciliado con Dios puede llevar paz a su casa. Ese orden importa.\n\n\n**Para esta semana**\n\n- Busca un horario de confesiones y acude antes de Navidad. Es la manera más directa de «allanar el camino».\n- Nombra un obstáculo concreto (un rencor, una costumbre, una pantalla) y quítalo estas semanas.\n- Haz las paces con una persona. Un mensaje o una llamada bastan para empezar.\n- Elige un gasto navideño que puedas reducir, y da esa diferencia a quien lo necesite.\n\n\n**Nota sobre las fuentes**\n\nLas lecturas se citan según el Leccionario de la Misa de este domingo (ciclo B): Is 40, 1-5.9-11; 2 Pe 3, 8-14; Mc 1, 1-8. El texto de Eusebio de Cesarea es la lectura del Oficio del II domingo de Adviento, y el de san Carlos Borromeo, la del lunes de la I semana. Las dos frases de _Jesús de Nazaret_ (vol. I, pp. 36-37 de la edición española de 2007) las citó el propio Benedicto XVI en el Ángelus del 4 de diciembre de 2011."
+            },
+            {
+              "type": "text",
+              "value": "—Carlos Carmona"
+            }
+          ],
+          "publishedAt": "2026-12-06",
+          "badge": "proximamente",
+          "badgeUntil": "2026-12-05",
+          "hashtags": [
+            "adviento",
+            "paz",
+            "conversion"
+          ]
+        },
+        {
+          "id": "adv263",
+          "type": "article",
+          "tag": "Adviento · Semana 3",
+          "title": "Alégrense: el Señor está cerca",
+          "subtitle": "III Domingo de Adviento (Gaudete) · La tercera vela: la alegría",
+          "color": "#B4527F",
+          "icon": "+",
+          "image": "adviento-2026-corona-3.jpg",
+          "cardImage": "adviento-2026-corona-3.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Hoy la corona cambia de color. Después de dos velas moradas se enciende la rosa, y en muchas iglesias el sacerdote viste de ese mismo color. Es el domingo _Gaudete_, «alégrense», por la primera palabra de la antífona de entrada de la Misa: _«Estén siempre alegres en el Señor; se lo repito: estén alegres. El Señor está cerca»_ (cf. Flp 4, 4-5).\n\nEl morado del Adviento se aclara porque ya pasó la mitad del camino.\n\n\n**¿Qué quiere decir que «está cerca»?**\n\nNo se trata de una fecha en el calendario. Benedicto XVI lo explicaba así:"
+            },
+            {
+              "type": "quote",
+              "value": "La \"cercanía\" de Dios no es una cuestión de espacio y de tiempo, sino más bien una cuestión de amor: el amor acerca.",
+              "author": "Benedicto XVI, Ángelus del III Domingo de Adviento, 14 de diciembre de 2008"
+            },
+            {
+              "type": "text",
+              "value": "El Evangelio de hoy dice lo mismo con una frase de Juan el Bautista que debería sacudirnos: _«En medio de ustedes hay uno que no conocen»_ (Jn 1, 26). El Señor ya está aquí. La alegría del Adviento nace de descubrirlo.\n\n\n**Una alegría que no depende del ánimo**\n\nDiciembre ofrece mucha diversión, y está bien descansar y celebrar. Pero la liturgia habla de otra cosa. En palabras de Benedicto XVI: _«La verdadera alegría no es un simple estado de ánimo pasajero, ni algo que se logra con el propio esfuerzo, sino que es un don, nace del encuentro con la persona viva de Jesús, de hacerle espacio en nosotros»_ (Ángelus, 11 de diciembre de 2011).\n\nSan Pablo VI dedicó a este tema una exhortación entera, que lleva por título la palabra de hoy: _«La alegría cristiana es por esencia una participación espiritual de la alegría insondable, a la vez divina y humana, del Corazón de Jesucristo glorificado»_ (_Gaudete in Domino_, II).\n\nPor eso puede convivir con el cansancio y hasta con el dolor. Isaías la canta hoy desde un pueblo que apenas vuelve del exilio: _«Desbordo de gozo con el Señor»_ (Is 61, 10). Y san Pablo la manda como quien receta algo: _«Estén siempre alegres. Sean constantes en orar. Den gracias en toda ocasión»_ (1 Tes 5, 16-18).\n\n\n**El secreto de Juan: no ser el centro**\n\nA Juan le preguntan tres veces quién es, y tres veces contesta lo que no es: _«Yo no soy el Mesías»_. Cuando por fin habla de sí mismo, dice: _«Yo soy la voz que grita en el desierto»_ (Jn 1, 23).\n\nSan Agustín comenta este pasaje en la lectura del Oficio de hoy: _«Juan era una voz provisional; Cristo, desde el principio, es la Palabra eterna»_. La voz sirve para que la palabra llegue al corazón del otro, y luego se apaga. Juan lo aceptó con gusto. La gente estaba lista para creerle si decía que era el Mesías, y no lo dijo:"
+            },
+            {
+              "type": "quote",
+              "value": "Comprendió que no era más que una antorcha, y temió que el viento de la soberbia la pudiese apagar.",
+              "author": "San Agustín, Sermón 293"
+            },
+            {
+              "type": "text",
+              "value": "Aquí está la relación entre humildad y alegría. El Catecismo dice que Juan _«encuentra su alegría en ser \"el amigo del esposo\"»_ (Catecismo, 523), y que la Iglesia, en Adviento, se une a su deseo: _«Es preciso que él crezca y que yo disminuya»_ (Jn 3, 30; Catecismo, 524). Quien deja de girar alrededor de sí mismo descansa, y en ese descanso cabe la alegría.\n\nEn México, además, este domingo llega con la fiesta de ayer todavía en el aire: santa María de Guadalupe, que trajo a estas tierras la misma noticia de un Dios cercano.\n\n\n**La tercera vela: la alegría**\n\nCuando encendamos la tercera vela recordemos que la alegría es sabernos amados tan profunda y radicalmente que nada ni nadie podrá separarnos de dicho amor. Esa es la promesa de nuestro Dios sellada en su venida, en su encarnación.\n\n\n**Para esta semana**\n\n- Lleva un «diario interior». Benedicto XVI proponía anotar los gestos de amor que Dios nos dirige cada día: _«sería una tarea hermosa y saludable para nuestra vida»_. Tres líneas cada noche bastan.\n- Da una alegría concreta a alguien que esté solo o enfermo: una visita, una llamada, una comida.\n- Si pones el nacimiento en casa, háganlo juntos y recen ante él.\n\n\n**Nota sobre las fuentes**\n\nLas lecturas se citan según el Leccionario de la Misa de este domingo (ciclo B): Is 61, 1-2a.10-11; 1 Tes 5, 16-24; Jn 1, 6-8.19-28. El texto de san Agustín (Sermón 293, 3) es la lectura del Oficio del III domingo de Adviento. La propuesta del «diario interior» es de la homilía de Benedicto XVI en las primeras Vísperas de Adviento (28 de noviembre de 2009). _Gaudete in Domino_ es una exhortación apostólica de san Pablo VI (9 de mayo de 1975)."
+            },
+            {
+              "type": "text",
+              "value": "—Carlos Carmona"
+            }
+          ],
+          "publishedAt": "2026-12-13",
+          "badge": "proximamente",
+          "badgeUntil": "2026-12-12",
+          "hashtags": [
+            "adviento",
+            "alegria",
+            "gaudete"
+          ]
+        },
+        {
+          "id": "adv264",
+          "type": "article",
+          "tag": "Adviento · Semana 4",
+          "title": "Hágase: el sí que abrió la puerta",
+          "subtitle": "IV Domingo de Adviento · La cuarta vela: el amor",
+          "color": "#5B2A86",
+          "icon": "+",
+          "image": "adviento-2026-corona-4.jpg",
+          "cardImage": "adviento-2026-corona-4.jpg",
+          "youtubeId": null,
+          "keyPoints": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Las cuatro velas están encendidas. Faltan cuatro días para la Nochebuena, y la liturgia nos lleva a una casa de Nazaret, al momento en que todo empezó: _«El ángel Gabriel fue enviado por Dios a una ciudad de Galilea llamada Nazaret, a una virgen desposada con un hombre llamado José»_ (Lc 1, 26-27).\n\n\n**Dios construye la casa**\n\nLa primera lectura prepara la escena con mil años de anticipación. El rey David quiere construirle un templo a Dios, y Dios le responde al revés: _«El Señor te anuncia que te va a edificar una casa»_ (2 Sam 7, 11). Le promete una descendencia y un reino que no acabará.\n\nEn Nazaret el ángel retoma esa promesa: _«El Señor Dios le dará el trono de David, su padre; reinará sobre la casa de Jacob para siempre, y su reino no tendrá fin»_ (Lc 1, 32-33). La casa que Dios prometió a David es un Hijo, y la primera morada de ese Hijo será María.\n\n\n**Todo el mundo espera una respuesta**\n\nEl Evangelio deja un instante de silencio entre el anuncio del ángel y la respuesta de María. San Bernardo se detuvo en ese instante y lo llenó con una de las páginas más hermosas de la tradición cristiana. Imagina a Adán, a Abrahán, a David y al mundo entero pendientes de los labios de una muchacha:"
+            },
+            {
+              "type": "quote",
+              "value": "Abre, Virgen dichosa, el corazón a la fe, los labios al consentimiento, las castas entrañas al Creador. Mira que el deseado de todas las gentes está llamando a tu puerta.",
+              "author": "San Bernardo, Homilía sobre las excelencias de la Virgen Madre, 4"
+            },
+            {
+              "type": "text",
+              "value": "La Liturgia de las Horas guarda ese texto precisamente para el 20 de diciembre.\n\n\n**Un Dios que pide permiso**\n\nLo asombroso de la escena es que Dios, pudiéndolo todo, pregunta. Benedicto XVI lo señalaba al comentar este Evangelio: _«Dios espera el \"sí\" de esa joven para realizar su designio. Respeta su dignidad y su libertad»_ (Ángelus, 18 de diciembre de 2011).\n\nSan Juan Pablo II midió el peso de esa respuesta: _«Este fiat de María —\"hágase en mí\"— ha decidido, desde el punto de vista humano, la realización del misterio divino»_ (_Redemptoris Mater_, 13). Y recordó, con los Padres de la Iglesia, que María concibió a su Hijo _«en la mente antes que en el seno: precisamente por medio de la fe»_.\n\nEl Catecismo lo llama _«la obediencia de la fe»_: María respondió _«segura de que \"nada hay imposible para Dios\"»_ (Catecismo, 494). Su pregunta al ángel, _«¿Cómo será eso?»_, busca entender mejor para entregarse del todo. No hay duda en ella.\n\n\n**La cuarta vela: el amor**\n\nEl amor se reconoce en que se ofrece sin imponerse. En Nazaret se ven sus dos movimientos: Dios se ofrece, y una mujer lo recibe. Ese encuentro es el corazón del cristianismo:"
+            },
+            {
+              "type": "quote",
+              "value": "No se comienza a ser cristiano por una decisión ética o una gran idea, sino por el encuentro con un acontecimiento, con una Persona, que da un nuevo horizonte a la vida y, con ello, una orientación decisiva.",
+              "author": "Benedicto XVI, Deus caritas est, 1"
+            },
+            {
+              "type": "text",
+              "value": "**Lo que pasó en Nazaret puede pasar en ti**\n\nLa maternidad de María es única. Pero san Ambrosio, en la lectura del Oficio de este domingo, se atreve a decir que algo de ella nos alcanza a todos: _«Si corporalmente no hay más que una madre de Cristo, en cambio, por la fe, Cristo es el fruto de todos»_. Y pide: _«Que en todos resida el alma de María para glorificar al Señor»_ (Exposición sobre el Evangelio de san Lucas, 2).\n\nBenedicto XVI lo dice con palabras de hoy: _«Quien confía profundamente en el amor de Dios, acoge en sí a Jesús, su vida divina, por la acción del Espíritu Santo. ¡Este es el misterio de la Navidad!»_ (Ángelus, 18 de diciembre de 2011).\n\nLa Navidad no sucede para ti hasta que no acoges, como María, el misterio de Dios; hasta que no te decides de una vez por todas a bajar tus defensas, tus dudas, tus miedos, y crees por fin, con el corazón y las entrañas, que Dios en Cristo te ama. Te ama a pesar de todos tus pecados, tus fallas, tus desviaciones.\n\nLa Navidad no es una fiesta «bonita» donde ponemos un nacimiento y unos angelitos cantan mientras todos nos abrazamos y nos damos regalos. La venida de Cristo trae un ejército temible de ángeles que cantan y alaban al Señor del universo encarnado. Trae la noticia no a los reyes, ni a los puros del templo de Jerusalén, ni a los letrados, sino a los pastores, a los pobres, a los alejados, a los magos paganos.\n\nEncontrarnos con Dios es lo único que importa en nuestra vida; de ese encuentro depende todo lo demás. La Navidad es Dios con nosotros, y esa es la búsqueda de nuestra vida.\n\n\n**Para esta semana**\n\n- Reza el Ángelus cada día hasta la Nochebuena. Es este Evangelio hecho oración: «El ángel del Señor anunció a María…».\n- Piensa en qué te está pidiendo Dios un «sí» concreto, y dáselo antes del 24.\n- Si aún no te has confesado, estos son los días.\n- En la cena de Nochebuena, antes de servir, lean en la mesa el Evangelio del nacimiento (Lc 2, 1-14).\n\n\n**Nota sobre las fuentes**\n\nLas lecturas se citan según el Leccionario de la Misa de este domingo (ciclo B): 2 Sam 7, 1-5.8b-12.14a.16; Lc 1, 26-38. El texto de san Bernardo es la lectura del Oficio del 20 de diciembre, y el de san Ambrosio, la del IV domingo de Adviento. _Redemptoris Mater_ es una encíclica de san Juan Pablo II (1987) y _Deus caritas est_, de Benedicto XVI (2005)."
+            },
+            {
+              "type": "text",
+              "value": "—Carlos Carmona"
+            }
+          ],
+          "publishedAt": "2026-12-20",
+          "badge": "proximamente",
+          "badgeUntil": "2026-12-19",
+          "hashtags": [
+            "adviento",
+            "amor",
+            "maria"
           ]
         }
       ]
@@ -5290,7 +5607,10 @@
     "multiLang": "dev",
     "readingsCitations": "dev",
     "hoursListen": "dev",
-    "weeklyQuiz": "on"
+    "weeklyQuiz": "on",
+    "santoAFondo": "on",
+    "afondoClip": "on",
+    "weeklyQuizShare": "on"
   },
   "shareImages": [
     "SHARE_1.jpg",
