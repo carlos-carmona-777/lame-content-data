@@ -4039,6 +4039,23 @@
         }
       }
     ],
+    "otherApps": {
+      "apps": [
+        {
+          "id": "biblia-aurea",
+          "name": "Biblia Áurea",
+          "label": "BIBLIA",
+          "text": "La Biblia con los comentarios de los Padres de la Iglesia y la Catena Áurea de Santo Tomás.",
+          "icon": "OTRAS_APPS_AUREA.png",
+          "color": "#3B2A14",
+          "button": {
+            "label": "Descargar",
+            "ios": "https://apps.apple.com/us/app/biblia-%C3%A1urea/id6816669947",
+            "android": "https://play.google.com/store/apps/details?id=com.carloscarmona.aurea"
+          }
+        }
+      ]
+    },
     "portadaDesign": "C",
     "cardDesign": "B"
   },

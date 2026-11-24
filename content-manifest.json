@@ -1,12 +1,12 @@
 {
-  "contentVersion": 28,
+  "contentVersion": 29,
   "minSchema": 1,
-  "generatedAt": "2026-11-19",
+  "generatedAt": "2026-11-24",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
   "bundle": {
     "file": "content_bundle.json",
-    "bytes": 548122,
-    "sha256": "1ea7908e195eb14c593b35822bcec1430fd494f1c573e864184dbbf008377f87"
+    "bytes": 548721,
+    "sha256": "0dfc480aa1c3492993efd8fdca2962537dd8d2b4e703958f7199e87b8cad7302"
   },
   "images": [
     {
@@ -243,6 +243,11 @@
       "file": "Liturgia-Lat.jpg",
       "bytes": 114254,
       "sha256": "a89dc503f86ed9d7cb90653f39f7a30fb101fbc942459e763f38a72e921f72c9"
+    },
+    {
+      "file": "OTRAS_APPS_AUREA.png",
+      "bytes": 98433,
+      "sha256": "aef5032b35b10a743aa14aadf94a4ef3183c21f6779aa50b3d25b722697c7451"
     },
     {
       "file": "Ofertorio_Preparacion.jpg",
